@@ -12,12 +12,13 @@ import argparse
 import gurobipy as gp
 from gurobipy import GRB
 import json
+import functools
 
 searcher = LuceneSearcher("wiki_index")
 index_reader = LuceneIndexReader("wiki_index")
 
 
-def task1(row):
+def task1(row, K):
     query = row["question"]
     candidates_ids = get_candidate_ids(searcher, query)
     all_bm25_vecs = {
@@ -28,9 +29,7 @@ def task1(row):
         for doc_id in candidates_ids
     }
     similarity_matrix = {
-        (doc_id_i, doc_id_j): get_similarity_score(
-            index_reader, all_bm25_vecs, doc_id_i, doc_id_j
-        )
+        (doc_id_i, doc_id_j): get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j)
         for doc_id_i in candidates_ids
         for doc_id_j in candidates_ids
         if doc_id_i <= doc_id_j
@@ -48,7 +47,7 @@ def task1(row):
             score_new = 0.0
             c_is_new = c_is.copy()
             for doc_id2 in candidates_ids:
-                c_i = get_c(doc_id2, S + [doc_id], c_is, similarity_matrix, fast)
+                c_i = get_c(doc_id2, S + [doc_id], c_is, similarity_matrix)
                 score_new += relevance_scores_dict[doc_id2] * c_i
                 c_is_new[doc_id2] = c_i
             change = score_new - score
@@ -62,7 +61,7 @@ def task1(row):
     return S
 
 
-def task2(row):
+def task2(row, K):
     query = row["question"]
     candidates_ids = get_candidate_ids(searcher, query)
     all_bm25_vecs = {
@@ -73,14 +72,13 @@ def task2(row):
         for doc_id in candidates_ids
     }
     similarity_matrix = {
-        (doc_id_i, doc_id_j): get_similarity_score(
-            index_reader, all_bm25_vecs, doc_id_i, doc_id_j
-        )
+        (doc_id_i, doc_id_j): get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j)
         for doc_id_i in candidates_ids
         for doc_id_j in candidates_ids
         if doc_id_i <= doc_id_j
     }
 
+    env = gp.Env(params={"OutputFlag": 0})
     model = gp.Model(env=env)
     model.Params.OutputFlag = 0
     x = model.addVars(len(candidates_ids), vtype=GRB.BINARY, name="x")
@@ -115,7 +113,7 @@ def task2(row):
     return [candidates_ids[i] for i in range(len(candidates_ids)) if x[i].X == 1]
 
 
-def task3(row):
+def task3(row, K):
     query = row["question"]
     candidates_ids = get_candidate_ids(searcher, query)
     all_bm25_vecs = {
@@ -126,14 +124,13 @@ def task3(row):
         for doc_id in candidates_ids
     }
     similarity_matrix = {
-        (doc_id_i, doc_id_j): get_similarity_score(
-            index_reader, all_bm25_vecs, doc_id_i, doc_id_j
-        )
+        (doc_id_i, doc_id_j): get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j)
         for doc_id_i in candidates_ids
         for doc_id_j in candidates_ids
         if doc_id_i <= doc_id_j
     }
 
+    env = gp.Env(params={"OutputFlag": 0})
     model = gp.Model(env=env)
     model.Params.OutputFlag = 0
     x = model.addVars(len(candidates_ids), lb=0, ub=1, vtype=GRB.CONTINUOUS, name="x")
@@ -179,7 +176,7 @@ def task3(row):
     return output_ids
 
 
-def task4(row):
+def task4(row, K, lambd):
     query = row["question"]
     candidates_ids = get_candidate_ids(searcher, query)
     all_bm25_vecs = {
@@ -190,9 +187,7 @@ def task4(row):
         for doc_id in candidates_ids
     }
     similarity_matrix = {
-        (doc_id_i, doc_id_j): get_similarity_score(
-            index_reader, all_bm25_vecs, doc_id_i, doc_id_j
-        )
+        (doc_id_i, doc_id_j): get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j)
         for doc_id_i in candidates_ids
         for doc_id_j in candidates_ids
         if doc_id_i <= doc_id_j
@@ -213,10 +208,9 @@ def task4(row):
                 best_doc_id = doc_id
         for doc_id in candidates_ids:
             c_is[doc_id] = get_c(
-                doc_id, S + [best_doc_id], c_is, similarity_matrix, fast
+                doc_id, S + [best_doc_id], c_is, similarity_matrix
             )
         S.append(best_doc_id)
-
     return S
 
 
@@ -236,10 +230,12 @@ if __name__ == "__main__":
         help="Choose a dataset from arguana, kialo, opinionqa",
     )
     parser.add_argument(
-        "--fast", action="store_true", help="Use fast mode for c(i) computation"
-    )
-    parser.add_argument(
-        "--K", type=int, default=20, help="Number of documents to select"
+        "--K",
+        type=int,
+        default=20,
+        required=True,
+        choices=[5, 10, 20],
+        help="Number of documents to select",
     )
     parser.add_argument(
         "--seed", type=int, default=42, help="Random seed for reproducibility"
@@ -248,11 +244,12 @@ if __name__ == "__main__":
         "--task",
         type=int,
         default=1,
+        required=True,
         choices=[1, 2, 3, 4, 5],
         help="Task number to execute",
     )
     parser.add_argument(
-        "--lambd", type=float, default=0.5, help="Lambda parameter for task 4"
+        "--lambd", type=float, default=None, help="Lambda parameter for task 4"
     )
     args = parser.parse_args()
 
@@ -266,25 +263,23 @@ if __name__ == "__main__":
     elif args.dataset == "opinionqa":
         ds = load_dataset("timchen0618/OpinionQA", split="test")
 
-    if args.task == 1:
-        task = task1
-    elif args.task == 2:
-        env = gp.Env()
-        task = task2
-    elif args.task == 3:
-        env = gp.Env()
-        task = task3
-    elif args.task == 4:
-        task = task4
-    elif args.task == 5:
-        task = task5
+    task_funcs = {
+        1: functools.partial(task1, K=args.K),
+        2: functools.partial(task2, K=args.K),
+        3: functools.partial(task3, K=args.K),
+        4: functools.partial(task4, K=args.K, lambd=args.lambd),
+        5: task5
+    }
+    task = task_funcs[args.task]
 
-    K = args.K
-    fast = args.fast
-    lambd = args.lambd
-
-    file = open(f"task{args.task}/samples_{args.dataset}.jsonl", "w")
-    os.makedirs(f"task{args.task}", exist_ok=True)
+    if args.task == 4 and args.lambd is not None:
+        out_dir = f"results/task{args.task}_{args.lambd}/{args.dataset}"
+    elif args.task == 4 and args.lambd is None:
+        raise ValueError("Lambda parameter is required for task 4")
+    else:
+        out_dir = f"results/task{args.task}/{args.dataset}"
+    os.makedirs(out_dir, exist_ok=True)
+    file = open(f"{out_dir}/samples_{args.K}.jsonl", "w")
 
     with multiprocessing.Pool(processes=multiprocessing.cpu_count()) as pool:
         results = list(tqdm(pool.imap(task, ds), total=len(ds)))

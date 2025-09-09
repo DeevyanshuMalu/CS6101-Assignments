@@ -32,10 +32,7 @@ def get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j):
 	sim /= (vec_i_l2_norm * vec_j_l2_norm)
 	return sim
 
-def get_c(i, S, c_is, similarity_matrix, fast=False):
+def get_c(i, S, c_is, similarity_matrix):
 	new_doc_id = S[-1]
-	if fast:
-		c_i = max(c_is[i], similarity_matrix[(min(i, new_doc_id), max(i, new_doc_id))])
-	else:
-		c_i = max([similarity_matrix[(min(i, j), max(i, j))] for j in S] or [0.0])
+	c_i = max(c_is[i], similarity_matrix[(min(i, new_doc_id), max(i, new_doc_id))])
 	return c_i
