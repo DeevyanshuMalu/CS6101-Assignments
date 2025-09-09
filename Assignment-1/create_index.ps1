@@ -3,4 +3,6 @@ python -m pyserini.index.lucene `
   --index wiki_index `
   --generator DefaultLuceneDocumentGenerator `
   --collection JsonCollection `
-  --language en
+  --language en `
+  --threads 4 `
+  --storePositions --storeDocvectors --storeRaw
