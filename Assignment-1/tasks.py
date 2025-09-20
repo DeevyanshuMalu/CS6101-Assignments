@@ -197,7 +197,7 @@ def task4(row, K, lambd):
     c_is = {doc_id: 0.0 for doc_id in candidates_ids}
     while len(S) < K:
         best_doc_id = ""
-        best_score = 0.0
+        best_score = -np.inf
         for doc_id in candidates_ids:
             if doc_id in S:
                 continue
