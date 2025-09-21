@@ -48,7 +48,10 @@ def flak_wct_parallel(args):
                 wct_score[idx] += r_i
         r_sum += r_i
     for idx in range(3):
-        wct_score[idx] /= r_sum
+        if r_sum > 0:
+            wct_score[idx] /= r_sum
+        else:
+            wct_score[idx] = 0.0
 
     return (query, flak_score, wct_score)
 
