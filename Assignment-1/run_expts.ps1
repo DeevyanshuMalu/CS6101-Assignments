@@ -11,10 +11,8 @@ $lambd = 0.5
 
 #             Write-Host "Running experiment: Dataset=$dataset, K=$K, Task=$task"
             
-#             # Run the Python script with the current parameters
 #             python .\tasks.py --dataset $dataset --K $K --task $task --lambd $lambd
             
-#             # Optional: Add a delay between runs
 #             Start-Sleep -Seconds 1
 #         }
 #     }
