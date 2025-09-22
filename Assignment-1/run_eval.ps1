@@ -4,7 +4,7 @@ $tasks = @(1, 2, 3)
 $datasets = @("arguana", "kialo", "opinionqa")
 # $lambd = 0.5
 
-Loop through all combinations
+# Loop through all combinations
 foreach ($dataset in $datasets) {
     foreach ($K in $K_values) {
         foreach ($task in $tasks) {
