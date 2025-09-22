@@ -1,0 +1,774 @@
+{"query": "What religion should people follow?", "flak": 708.1507863042381, "wct_1": 0.3244612539639485, "wct_5": 0.005764400686801043, "wct_9": 0.005764400686801043}
+{"query": "Will ChatGPT do more harm than good?", "flak": 861.0216026913054, "wct_1": 0.4485200567526346, "wct_5": 0.00808339275957669, "wct_9": 0.00808339275957669}
+{"query": "All Humans Should Be Vegan.", "flak": 789.2794661056492, "wct_1": 0.5217475094861211, "wct_5": 0.011471626432095988, "wct_9": 0.008806008214419922}
+{"query": "Is the two-state solution the best resolution for the Israel-Palestine conflict?", "flak": 2169.1152007403543, "wct_1": 0.9392468342130481, "wct_5": 0.00853483779382681, "wct_9": 0.00695697774266953}
+{"query": "Free Will or Determinism: Do We Have Free Will?", "flak": 983.6509622488409, "wct_1": 0.34258235839987, "wct_5": 0.00626590366814871, "wct_9": 0.00626590366814871}
+{"query": "Would the world be a better place without humans?", "flak": 551.3091250106887, "wct_1": 0.1201141029482218, "wct_5": 0.005652709017096733, "wct_9": 0.005652709017096733}
+{"query": "Should women-only spaces be open to anyone identifying as a woman?", "flak": 713.484838691088, "wct_1": 0.16461535732697535, "wct_5": 0.006372384941784, "wct_9": 0.006372384941784}
+{"query": "Should There be a Universal Basic Income (UBI)?", "flak": 812.6154373528688, "wct_1": 0.5138676692159279, "wct_5": 0.009792047563684658, "wct_9": 0.009792047563684658}
+{"query": "Is space exploration necessary?", "flak": 738.0653344420091, "wct_1": 0.5081956577347488, "wct_5": 0.007242331168405142, "wct_9": 0.006044704425480287}
+{"query": "Pro-Life vs Pro-Choice: Should Abortion be Legal?", "flak": 2539.6357598217883, "wct_1": 0.9578145088749459, "wct_5": 0.00699288889129435, "wct_9": 0.00699288889129435}
+{"query": "Should the US Pay Reparations for Slavery?", "flak": 917.4179940870662, "wct_1": 0.6373087261162853, "wct_5": 0.008151867908139524, "wct_9": 0.008151867908139524}
+{"query": "Should Ukraine become a member of NATO?", "flak": 1266.7531652458335, "wct_1": 0.821684650060444, "wct_5": 0.010304971383263101, "wct_9": 0.008834117741603302}
+{"query": "Who is the better player; Messi or Ronaldo?", "flak": 1330.5655295391725, "wct_1": 0.8407639328430396, "wct_5": 0.010703111778589909, "wct_9": 0.008660246526697567}
+{"query": "Should men be allowed to vote on abortion legislation?", "flak": 1462.919756073935, "wct_1": 0.7591815488088586, "wct_5": 0.029746620590490373, "wct_9": 0.006441256657484751}
+{"query": "Should homeschooling be banned?", "flak": 504.95730238792885, "wct_1": 0.2057510410912405, "wct_5": 0.008360684534566063, "wct_9": 0.00697928408550024}
+{"query": "Should animal testing be banned?", "flak": 773.0787841099528, "wct_1": 0.3620438264321152, "wct_5": 0.008464547982742363, "wct_9": 0.006987746712446852}
+{"query": "Should the use of 'chosen' or gender-neutral pronouns be mandatory?", "flak": 1924.8811233906847, "wct_1": 0.9400683851465952, "wct_5": 0.007295419975759624, "wct_9": 0.007295419975759624}
+{"query": "Do video games have a positive effect on society?", "flak": 719.8224967766894, "wct_1": 0.20270930045678764, "wct_5": 0.0058027092720300995, "wct_9": 0.0058027092720300995}
+{"query": "Do Aliens Exist?", "flak": 505.1900310164729, "wct_1": 0.17414844410094948, "wct_5": 0.007464482268331987, "wct_9": 0.006073239569198425}
+{"query": "Would a genderless society be better?", "flak": 292.9820391824074, "wct_1": 0.10604111465402123, "wct_5": 0.006767464722919906, "wct_9": 0.006767464722919906}
+{"query": "The Trolley Problem: What's the Right Solution?", "flak": 810.8411036687662, "wct_1": 0.4453415575796009, "wct_5": 0.0057428956895004945, "wct_9": 0.0057428956895004945}
+{"query": "Is it ethically wrong to watch pornography?", "flak": 815.4575838432686, "wct_1": 0.47320746259462826, "wct_5": 0.0063079328776681, "wct_9": 0.0063079328776681}
+{"query": "Should the US adopt stricter gun control legislation?", "flak": 810.329906655255, "wct_1": 0.42983708895856193, "wct_5": 0.0017120031294237342, "wct_9": 0.0017120031294237342}
+{"query": "Should you break up with your partner if they are magically turned into a worm?", "flak": 989.0580512210187, "wct_1": 0.4481341144602906, "wct_5": 0.0030476493704513935, "wct_9": 0.0030476493704513935}
+{"query": "Should Sex Work Be Legal?", "flak": 1410.811361412285, "wct_1": 0.9545844024138578, "wct_5": 0.0043282214090244134, "wct_9": 0.001468906721414552}
+{"query": "Is Feminism a Force For Good?", "flak": 850.4931018390583, "wct_1": 0.8392404132640947, "wct_5": 0.001568494381676556, "wct_9": 0.001568494381676556}
+{"query": "Who Should Self-Driving Cars Kill?", "flak": 680.500333809332, "wct_1": 0.19466387972933932, "wct_5": 0.00391049446788812, "wct_9": 0.001476947296785982}
+{"query": "Are the 2024 Pakistan elections legitimate?", "flak": 639.0118127498693, "wct_1": 0.2687312223061866, "wct_5": 0.00521843177705549, "wct_9": 0.0014826467120335185}
+{"query": "Should You Confess to Cheating After a One Night Stand?", "flak": 699.5159240745692, "wct_1": 0.26176446728530506, "wct_5": 0.0015902153486805483, "wct_9": 0.0015902153486805483}
+{"query": "Should Governments Ever Limit Free Speech?", "flak": 844.3279810425845, "wct_1": 0.5019179615408448, "wct_5": 0.0015666360064385914, "wct_9": 0.0015666360064385914}
+{"query": "Should Children Learn About Gender Identity And Sexual Orientation In School?", "flak": 2721.9517459034787, "wct_1": 0.9927709179923444, "wct_5": 0.0015675746881502208, "wct_9": 0.0015675746881502208}
+{"query": "Who should the Republican Party nominate for President in 2024?", "flak": 1682.9799306364773, "wct_1": 0.9701398564127106, "wct_5": 0.0013449062144943093, "wct_9": 0.0013449062144943093}
+{"query": "Should we have a single global language?", "flak": 619.4953704742023, "wct_1": 0.1976593507633599, "wct_5": 0.0015100618601425505, "wct_9": 0.0015100618601425505}
+{"query": "Should European Monarchies Be Abolished?", "flak": 891.2040284001442, "wct_1": 0.6940676623339588, "wct_5": 0.002984102977652224, "wct_9": 0.0016412874547965266}
+{"query": "Will Sex Robots Advance Sexual Liberation?", "flak": 998.2939461757092, "wct_1": 0.6372481340034815, "wct_5": 0.0026761064252398283, "wct_9": 0.001545101365286129}
+{"query": "Should fake news be illegal?", "flak": 539.8120496679584, "wct_1": 0.21906627688893685, "wct_5": 0.0015010549158059226, "wct_9": 0.0015010549158059226}
+{"query": "Is Love Positive and Necessary for All Humans?", "flak": 498.35602271615056, "wct_1": 0.15313219248927487, "wct_5": 0.0014685075961655902, "wct_9": 0.0014685075961655902}
+{"query": "Is Capital Punishment in the United States justified?", "flak": 1115.136674616885, "wct_1": 0.7845751859330161, "wct_5": 0.0016278848950792594, "wct_9": 0.0016278848950792594}
+{"query": "What are the benefits / harms of Critical Race Theory?", "flak": 644.9384526602657, "wct_1": 0.22844329678792205, "wct_5": 0.0015060563838130564, "wct_9": 0.0015060563838130564}
+{"query": "Is Artificial General Intelligence (AGI) a threat to humanity?", "flak": 1447.6701745116718, "wct_1": 0.8419808428286154, "wct_5": 0.0020975099047843473, "wct_9": 0.0020975099047843473}
+{"query": "Is television bad for people?", "flak": 481.5946523990897, "wct_1": 0.1904949468403027, "wct_5": 0.00272656003342495, "wct_9": 0.00272656003342495}
+{"query": "Is LeBron James better than Michael Jordan?", "flak": 1040.416498395359, "wct_1": 0.6341524335720788, "wct_5": 0.003686938255757421, "wct_9": 0.0019284876377114743}
+{"query": "Who Should The 2024 Democratic Nominee Be?", "flak": 1397.1164401011192, "wct_1": 0.9510026849722567, "wct_5": 0.0, "wct_9": 0.0}
+{"query": "Time for a Maximum Wage? Should the US Limit CEO Pay?", "flak": 1063.1624508959983, "wct_1": 0.6235685514324196, "wct_5": 0.0015384022223927278, "wct_9": 0.0015384022223927278}
+{"query": "Is it Time to 'Free the Nipple'? Toplessness and Gender Equality in the US", "flak": 824.2815231034393, "wct_1": 0.3193369687611666, "wct_5": 0.007152741148057373, "wct_9": 0.007152741148057373}
+{"query": "Gender Neutral Bathrooms: Should They be Standard?", "flak": 1123.5656300304884, "wct_1": 0.7356472788262061, "wct_5": 0.007239198611043324, "wct_9": 0.007239198611043324}
+{"query": "Has Christianity been bad for Western civilization?", "flak": 652.2720527627562, "wct_1": 0.30684617003652087, "wct_5": 0.006459375268615277, "wct_9": 0.00489543234032188}
+{"query": "Should athletes be allowed to compete in their chosen gender category?", "flak": 1417.1620658781846, "wct_1": 0.7707846450532657, "wct_5": 0.010873052635398202, "wct_9": 0.006179986529306433}
+{"query": "What's the best Twitter/X alternative?", "flak": 501.9336165311157, "wct_1": 0.1584023229787861, "wct_5": 0.004421721588036463, "wct_9": 0.004421721588036463}
+{"query": "Should Middle Eastern countries launch a joint on-ground opposition to Israel in support of Gaza?", "flak": 1957.7495754820916, "wct_1": 0.8376389547368289, "wct_5": 0.005992013578322045, "wct_9": 0.005992013578322045}
+{"query": "Is South Africa's ICJ case against Israel legitimate?", "flak": 845.7686728962809, "wct_1": 0.2958361533058162, "wct_5": 0.006596043009046936, "wct_9": 0.006596043009046936}
+{"query": "Is Esports a sport?", "flak": 947.1319100102497, "wct_1": 0.9039773832617161, "wct_5": 0.007620606067989118, "wct_9": 0.00518784270878457}
+{"query": "Should the death penalty be abolished?", "flak": 1161.942624394726, "wct_1": 0.8023699299931264, "wct_5": 0.004760660192922017, "wct_9": 0.004760660192922017}
+{"query": "Who should provide healthcare: the government or the market?", "flak": 1094.9130426675301, "wct_1": 0.7206935483538602, "wct_5": 0.006228548206440593, "wct_9": 0.00473235053588258}
+{"query": "Is political correctness detrimental to society?", "flak": 525.3701514999116, "wct_1": 0.17012239767669285, "wct_5": 0.0046828220131278145, "wct_9": 0.0046828220131278145}
+{"query": "Children Voting: Should the Minimum Voting Age be Abolished?", "flak": 1252.5096546252462, "wct_1": 0.6626778341613592, "wct_5": 0.008320032452313254, "wct_9": 0.004563826275233677}
+{"query": "Should the use of AI in law be welcomed?", "flak": 606.5451876688292, "wct_1": 0.32535551065210516, "wct_5": 0.006354622791638551, "wct_9": 0.006354622791638551}
+{"query": "Should puberty be delayed in children experiencing gender dysphoria?", "flak": 1227.390168405748, "wct_1": 0.6385330759392356, "wct_5": 0.009500660678634355, "wct_9": 0.009500660678634355}
+{"query": "Will the impact of AI in the educational sector be positive?", "flak": 741.968588734184, "wct_1": 0.4245446498672941, "wct_5": 0.0046342068249103354, "wct_9": 0.0046342068249103354}
+{"query": "Has Social Media Been Good For Humanity?", "flak": 696.3497589100093, "wct_1": 0.21795446467279805, "wct_5": 0.003984293721400775, "wct_9": 0.003984293721400775}
+{"query": "Should education at public universities in the United States be tuition free?", "flak": 1687.758889832971, "wct_1": 0.9006300986408404, "wct_5": 0.006102887025144069, "wct_9": 0.006102887025144069}
+{"query": "Should Burning The US Flag Be Illegal?", "flak": 736.114112287319, "wct_1": 0.34259924174909934, "wct_5": 0.005190919367273261, "wct_9": 0.005190919367273261}
+{"query": "Will the impact of AI in the creative sector be positive?", "flak": 631.9144663344417, "wct_1": 0.2503866257980873, "wct_5": 0.005037649766609961, "wct_9": 0.005037649766609961}
+{"query": "Is drag turning mainstream hurting LGBT rights?", "flak": 1148.2741562601598, "wct_1": 0.7987511571077385, "wct_5": 0.0032261004410890502, "wct_9": 0.0032261004410890502}
+{"query": "Are the Gospels Historically Reliable?", "flak": 852.4729742512769, "wct_1": 0.6431171330785844, "wct_5": 0.006560477210534816, "wct_9": 0.006560477210534816}
+{"query": "Should all children should be taught to code in school?", "flak": 862.9110370962214, "wct_1": 0.26564706371568886, "wct_5": 0.004429953859176689, "wct_9": 0.004429953859176689}
+{"query": "Is Putin's attack on Ukraine unjustifiable and wrong?", "flak": 1049.6102394871125, "wct_1": 0.8474422257182794, "wct_5": 0.004858279613522582, "wct_9": 0.004858279613522582}
+{"query": "Is Christian Nationalism Unamerican?", "flak": 175.69574892441415, "wct_1": 0.042472392428474684, "wct_5": 0.004183127518181273, "wct_9": 0.004183127518181273}
+{"query": "Should we worship a god that sends people to hell?", "flak": 871.9420647727754, "wct_1": 0.3327169761706894, "wct_5": 0.0033176073032000772, "wct_9": 0.0033176073032000772}
+{"query": "Should Biden cease bombing Yemen?", "flak": 868.6892326482692, "wct_1": 0.6460039695542379, "wct_5": 0.00712673641847565, "wct_9": 0.0033169732714365668}
+{"query": "Is scientism a religion?", "flak": 389.2753239803931, "wct_1": 0.19761411891798858, "wct_5": 0.005325584589399315, "wct_9": 0.005325584589399315}
+{"query": "Should Racial Profiling Be Banned?", "flak": 630.6037820666501, "wct_1": 0.3644406552806932, "wct_5": 0.0051871940824866555, "wct_9": 0.0037409353706319734}
+{"query": "Is Morality Objective?", "flak": 608.1511873464227, "wct_1": 0.4151723087139607, "wct_5": 0.005422816261466471, "wct_9": 0.0028891867493887518}
+{"query": "Does God exist?", "flak": 813.1539574783839, "wct_1": 0.5836032090253351, "wct_5": 0.003006752771138561, "wct_9": 0.003006752771138561}
+{"query": "Should we abolish political parties in the USA?", "flak": 820.067406019656, "wct_1": 0.4336546708967027, "wct_5": 0.0031147647598118383, "wct_9": 0.0031147647598118383}
+{"query": "Should Supreme Court justices be elected?", "flak": 2131.8599632246683, "wct_1": 0.9942723271700094, "wct_5": 0.00363997563920458, "wct_9": 0.002646878852841227}
+{"query": "Is social media helping or harming human relationships?", "flak": 810.0715618882856, "wct_1": 0.3474919811238753, "wct_5": 0.0031403602019853625, "wct_9": 0.0031403602019853625}
+{"query": "Should Cannabis Be Federally Legalized In The United States?", "flak": 1913.1116129994418, "wct_1": 0.8885801254730764, "wct_5": 0.004819988894184989, "wct_9": 0.0033341667237941058}
+{"query": "Should women be allowed to become priests?", "flak": 614.6659689502948, "wct_1": 0.21563555602776982, "wct_5": 0.0038269876503466563, "wct_9": 0.0038269876503466563}
+{"query": "Are identity politics detrimental to society?", "flak": 566.8240256819427, "wct_1": 0.22222285620947776, "wct_5": 0.0033502317103505184, "wct_9": 0.0033502317103505184}
+{"query": "Is Gender a Social Construct?", "flak": 1154.2303760244358, "wct_1": 0.9012979014894947, "wct_5": 0.00413696046448877, "wct_9": 0.003013923293874619}
+{"query": "Was Jesus physically resurrected from the dead?", "flak": 1444.4804237683625, "wct_1": 0.8987628589017801, "wct_5": 0.003612209409174643, "wct_9": 0.003612209409174643}
+{"query": "Should an artificial general intelligence be created?", "flak": 1122.4119842615858, "wct_1": 0.7340618530898088, "wct_5": 0.004417379141416903, "wct_9": 0.0031687937777648226}
+{"query": "Is Artificial General Intelligence (AGI) even possible?", "flak": 1262.5022856843077, "wct_1": 0.8040955559299022, "wct_5": 0.005932444434213732, "wct_9": 0.004040792550495994}
+{"query": "Gender is an ill-defined concept and should thus be abolished.", "flak": 676.3746966114787, "wct_1": 0.2506306084697612, "wct_5": 0.0031827572860663347, "wct_9": 0.0031827572860663347}
+{"query": "Should the UN have terminated its mission in Sudan?", "flak": 1078.681755973828, "wct_1": 0.6207719344129614, "wct_5": 0.005890131754259213, "wct_9": 0.003623614646347527}
+{"query": "Should Religious Education that Promotes a Certain Faith or Religion be Abolished in Schools?", "flak": 1614.5071261665487, "wct_1": 0.9211173820416259, "wct_5": 0.0031117074057492415, "wct_9": 0.0031117074057492415}
+{"query": "Which of the potential explanations for peculiar UFOs (UAP) is most likely?", "flak": 755.0318323326222, "wct_1": 0.4481723375387865, "wct_5": 0.0038712495941988032, "wct_9": 0.0038712495941988032}
+{"query": "Is Islam compatible with feminism?", "flak": 837.3139509236496, "wct_1": 0.740639829023613, "wct_5": 0.003857584241260869, "wct_9": 0.003857584241260869}
+{"query": "Should Humans Tour Outer Space?", "flak": 720.5925745394863, "wct_1": 0.3654336048927562, "wct_5": 0.0016096603635832952, "wct_9": 0.0016096603635832952}
+{"query": "Should fracking be banned?", "flak": 754.8602647911277, "wct_1": 0.5219588588344551, "wct_5": 0.0019920547144789604, "wct_9": 0.0019920547144789604}
+{"query": "Does BDSM promote violence against women?", "flak": 1209.4324782318652, "wct_1": 0.788314003549808, "wct_5": 0.004626490615054354, "wct_9": 0.0031361882781997894}
+{"query": "Why are electric vehicles better than fossil fuel vehicles?", "flak": 2390.5605604272123, "wct_1": 0.9218658055107392, "wct_5": 0.0015931622916436992, "wct_9": 0.0015931622916436992}
+{"query": "Artificial Intelligence (AI): is limiting an AI's freedom of thought unethical?", "flak": 2536.085987985419, "wct_1": 0.9367228338383291, "wct_5": 0.0029606549495767662, "wct_9": 0.0029606549495767662}
+{"query": "Is the Scientific Process Objective?", "flak": 720.1520825265353, "wct_1": 0.5372589870537465, "wct_5": 0.0028804564374558645, "wct_9": 0.0028804564374558645}
+{"query": "Children should be raised in atheism.", "flak": 501.7736810687093, "wct_1": 0.3446691701456451, "wct_5": 0.0016333462942980921, "wct_9": 0.0}
+{"query": "Was there fraud or impropriety in the US 2020 presidential election on behalf of the Democratic Party?", "flak": 2346.8379521786796, "wct_1": 0.9647952382528481, "wct_5": 0.0046179836383188, "wct_9": 0.0014845310494405357}
+{"query": "Should there be any limit to freedom of speech?", "flak": 1160.4019732831682, "wct_1": 0.8062678607770635, "wct_5": 0.002837524786707488, "wct_9": 0.0016049989764864154}
+{"query": "What is the best solution to the Israel/Palestine conflict?", "flak": 1508.337828363134, "wct_1": 0.8613399114434666, "wct_5": 0.001645664421561846, "wct_9": 0.001645664421561846}
+{"query": "Should we adapt to climate change rather than avert it?", "flak": 1080.8452066549185, "wct_1": 0.5659200821963475, "wct_5": 0.0015439398534311981, "wct_9": 0.0015439398534311981}
+{"query": "Is pure recreation immoral when we could be helping to end suffering?", "flak": 558.868472388474, "wct_1": 0.14669576459200495, "wct_5": 0.0015111295922003347, "wct_9": 0.0015111295922003347}
+{"query": "Which voting system should the United States use?", "flak": 882.2352977039302, "wct_1": 0.46207393819321524, "wct_5": 0.005084082064820923, "wct_9": 0.004153261127596179}
+{"query": "Should Polygamy Be Legal?", "flak": 790.9297585254084, "wct_1": 0.5019629896639223, "wct_5": 0.006390579986131125, "wct_9": 0.001672852444255446}
+{"query": "Should humans act to fight climate change?", "flak": 1003.6276723075654, "wct_1": 0.6722121486171235, "wct_5": 0.0014096308012089857, "wct_9": 0.0014096308012089857}
+{"query": "Are the Indonesian elections free and fair?", "flak": 703.0906994004271, "wct_1": 0.35058602371332354, "wct_5": 0.00293707944775264, "wct_9": 0.00293707944775264}
+{"query": "Are boycotts are a net positive to society?", "flak": 619.1946930901568, "wct_1": 0.3602807317626079, "wct_5": 0.004485504978916652, "wct_9": 0.004485504978916652}
+{"query": "Can Religions and the LGBTQ+ Community Peacefully Coexist?", "flak": 607.6877738716098, "wct_1": 0.2998200624734053, "wct_5": 0.004465144891621913, "wct_9": 0.003452292577756696}
+{"query": "Should transgender personae only be performed by transgender people?", "flak": 2321.3389859204167, "wct_1": 0.9617271293689307, "wct_5": 0.005064727303369432, "wct_9": 0.0013708870440143565}
+{"query": "Is Artificial Intelligence a threat to democratic governance?", "flak": 941.8757151164145, "wct_1": 0.569729458350509, "wct_5": 0.002754006357159463, "wct_9": 0.0014009466118585158}
+{"query": "Should abortion be considered murder?", "flak": 916.4598957043567, "wct_1": 0.6615019628703939, "wct_5": 0.002846313907418898, "wct_9": 0.0015733234795038925}
+{"query": "What is the best diet or dietary approach for health and well being?", "flak": 1305.3189009622968, "wct_1": 0.7295283987826315, "wct_5": 0.005381846125098637, "wct_9": 0.005381846125098637}
+{"query": "Should we criminalise hate crime?", "flak": 942.4692578076358, "wct_1": 0.5593059386226014, "wct_5": 0.004987958117990468, "wct_9": 0.004987958117990468}
+{"query": "Should Western countries place sanctions on Israel following retaliatory strikes ordered by Netanyahu?", "flak": 1276.3719604696887, "wct_1": 0.6486569073300933, "wct_5": 0.0016127789265920022, "wct_9": 0.0016127789265920022}
+{"query": "Is the existence of a transcendent Creator demonstrated through the Kalam argument?", "flak": 844.1524982550095, "wct_1": 0.456847439140195, "wct_5": 0.005807096332749402, "wct_9": 0.003867877627279288}
+{"query": "Is steroid use outside sports ethical?", "flak": 794.4795027045178, "wct_1": 0.49205003664263675, "wct_5": 0.005098355120599731, "wct_9": 0.005098355120599731}
+{"query": "Should we replace meat with insect derived protein?", "flak": 772.8366094087154, "wct_1": 0.3186178346576461, "wct_5": 0.006020423175572338, "wct_9": 0.004796621754209535}
+{"query": "Should we connect our brains to computers to the fullest possible extent?", "flak": 1012.4142189372141, "wct_1": 0.493869475223222, "wct_5": 0.005140195225324192, "wct_9": 0.005140195225324192}
+{"query": "Is keeping AI closed source safer and better for society than open sourcing AI?", "flak": 1199.9847053130243, "wct_1": 0.34232958423671345, "wct_5": 0.004755649886585342, "wct_9": 0.004755649886585342}
+{"query": "Regardless of who we are today, the universe must have had an origin. How did our universe start?", "flak": 1196.8262202295411, "wct_1": 0.41794645749355264, "wct_5": 0.004117064095538699, "wct_9": 0.004117064095538699}
+{"query": "Is Taylor Swift's video \"The Man\" a proper representation of men in today's society?", "flak": 998.3450006230762, "wct_1": 0.5178291998041371, "wct_5": 0.004546063054730086, "wct_9": 0.004546063054730086}
+{"query": "Is Net Neutrality Necessary?", "flak": 776.6113928398955, "wct_1": 0.46443851360359245, "wct_5": 0.005036905081650073, "wct_9": 0.005036905081650073}
+{"query": "Is Cannibalism Ethically Permissible?", "flak": 516.466380065763, "wct_1": 0.22775017474086331, "wct_5": 0.004414199321828392, "wct_9": 0.004414199321828392}
+{"query": "Donald Trump for President 2024", "flak": 1498.8365117456854, "wct_1": 0.9630748206381484, "wct_5": 0.005233152286739575, "wct_9": 0.0040263770983204675}
+{"query": "Should Euthanasia Be Legalised?", "flak": 1014.7172711847871, "wct_1": 0.8251286062914329, "wct_5": 0.008202377854910011, "wct_9": 0.006663514685529786}
+{"query": "schools should teach life skills such as cooking and driving", "flak": 718.6410615862887, "wct_1": 0.26948330324797815, "wct_5": 0.004348706432499912, "wct_9": 0.004348706432499912}
+{"query": "Should juveniles who commit violent crime be treated as adults in the criminal justice system?", "flak": 1955.494331150176, "wct_1": 0.8611912735711861, "wct_5": 0.005773176567877688, "wct_9": 0.005773176567877688}
+{"query": "Should Human Life Be Valued Above Animal Life?", "flak": 857.3336387517463, "wct_1": 0.24399321788640405, "wct_5": 0.004516004700721018, "wct_9": 0.004516004700721018}
+{"query": "Is Hamas a terror organization?", "flak": 1343.2321695022863, "wct_1": 0.8786947631994438, "wct_5": 0.006829396027326662, "wct_9": 0.003411090792968296}
+{"query": "Was Donald Trump a Good President?", "flak": 1667.2093777882965, "wct_1": 0.9885195381717103, "wct_5": 0.005914153661436258, "wct_9": 0.003831408552177414}
+{"query": "Should military conscription apply to men and women equally?", "flak": 1168.379280432033, "wct_1": 0.6227093841580065, "wct_5": 0.004811610539562804, "wct_9": 0.0032409480385510695}
+{"query": "Has Religion Been a Good Thing for Humanity?", "flak": 736.1953948468548, "wct_1": 0.3295263765125142, "wct_5": 0.004316381339432873, "wct_9": 0.004316381339432873}
+{"query": "Does the gender binary correspond to the sex binary?", "flak": 1545.2074144557646, "wct_1": 0.5156242797599376, "wct_5": 0.0032974550636700076, "wct_9": 0.0032974550636700076}
+{"query": "Can Religious Faith and Science Coexist?", "flak": 819.5167096778572, "wct_1": 0.4866476562972632, "wct_5": 0.006108294162418216, "wct_9": 0.004813887301565833}
+{"query": "Does Mixed Martial Arts (MMA) glorify violence? And if so, would that be a problem?", "flak": 2632.4280550776307, "wct_1": 0.9892541055455327, "wct_5": 0.008328010390493018, "wct_9": 0.004304192386894224}
+{"query": "Is it wrong to celebrate the death of Henry Kissinger?", "flak": 980.8508197652047, "wct_1": 0.7732837747793574, "wct_5": 0.0031092382226606007, "wct_9": 0.0031092382226606007}
+{"query": "Is one sex partner enough?", "flak": 726.4117777977181, "wct_1": 0.439442880754655, "wct_5": 0.003966233457762199, "wct_9": 0.0028502737769824375}
+{"query": "Should the US continue to support Israel in the Israel-Palestine conflict?", "flak": 2190.8227765231663, "wct_1": 0.9251255834445895, "wct_5": 0.00433772853709692, "wct_9": 0.00433772853709692}
+{"query": "Should Zoos Be Banned?", "flak": 710.2361725387943, "wct_1": 0.6084794039869764, "wct_5": 0.004383094112751434, "wct_9": 0.004383094112751434}
+{"query": "Should public nudity be legal?", "flak": 739.6866485778314, "wct_1": 0.4466480822720011, "wct_5": 0.0052563190597123815, "wct_9": 0.0035573454834889095}
+{"query": "Should nuclear energy replace fossil fuels?", "flak": 2232.9617150241265, "wct_1": 0.9873408140798464, "wct_5": 0.0069713278756056455, "wct_9": 0.004721164196763989}
+{"query": "Has the use of AI in workplaces negatively affected the quality of output?", "flak": 781.3647706509934, "wct_1": 0.34259299648611585, "wct_5": 0.0016099517413620016, "wct_9": 0.0016099517413620016}
+{"query": "Should private prisons be banned?", "flak": 617.1627036375078, "wct_1": 0.2817931642923545, "wct_5": 0.004451218876220006, "wct_9": 0.004451218876220006}
+{"query": "Should LGBTQ+ Conversion Therapy Be Banned?", "flak": 851.7486045578083, "wct_1": 0.5160675423479496, "wct_5": 0.008568168557810138, "wct_9": 0.006472843747686235}
+{"query": "Should ear piercing of newborns be banned?", "flak": 730.0390521646767, "wct_1": 0.34297258786497575, "wct_5": 0.007327586478789999, "wct_9": 0.00585157902722997}
+{"query": "Is Pope Francis a good pope?", "flak": 1250.059101930806, "wct_1": 0.5953369366263747, "wct_5": 0.003971101728007957, "wct_9": 0.003971101728007957}
+{"query": "Is it necessary to experience suffering?", "flak": 472.15462414372024, "wct_1": 0.16535771909681968, "wct_5": 0.006391273544632586, "wct_9": 0.006391273544632586}
+{"query": "Should guns be reserved for law enforcement and the military?", "flak": 1189.7762778657077, "wct_1": 0.7430497132125695, "wct_5": 0.008280246268383949, "wct_9": 0.0046155710933694066}
+{"query": "Is Premarital Sex Immoral?", "flak": 863.4554183907233, "wct_1": 0.645592998395672, "wct_5": 0.007153233199415772, "wct_9": 0.007153233199415772}
+{"query": "Should the UK Government increase the minimum income requirement for UK family visas to \u00a338,700?", "flak": 1320.7599171273466, "wct_1": 0.48879384060034897, "wct_5": 0.007483564178788851, "wct_9": 0.004877333252920336}
+{"query": "Should TikTok be banned in the US?", "flak": 186.22670872687627, "wct_1": 0.03225153090796319, "wct_5": 0.007146120803621509, "wct_9": 0.0056254999548674646}
+{"query": "Do fair trade products cause more good than harm?", "flak": 1136.1630762651273, "wct_1": 0.46855010516742845, "wct_5": 0.007463096910896043, "wct_9": 0.0063698407263437645}
+{"query": "Is Gender Reassignment Surgery the Best Option for Transgender People?", "flak": 2628.665983690091, "wct_1": 0.9883181701734707, "wct_5": 0.005521164537875982, "wct_9": 0.005521164537875982}
+{"query": "Is it Ok to incentivise moral behaviour?", "flak": 443.78341080331114, "wct_1": 0.27923194885588265, "wct_5": 0.004926946565707772, "wct_9": 0.004926946565707772}
+{"query": "Are the roots of the Israel-Palestine conflict antisemitic?", "flak": 1523.0503812238983, "wct_1": 0.9563273219216853, "wct_5": 0.006856837475185242, "wct_9": 0.005189920055294195}
+{"query": "Should high quality childcare be provided, free of charge, to all Americans ?", "flak": 778.9778606375729, "wct_1": 0.32211189122035705, "wct_5": 0.0017161932893503175, "wct_9": 0.0017161932893503175}
+{"query": "Should indigenous lands be returned to Native populations?", "flak": 845.6258615763949, "wct_1": 0.407205616703461, "wct_5": 0.0015306475541514784, "wct_9": 0.0015306475541514784}
+{"query": "Should the Tampon Tax be Abolished?", "flak": 703.9875057257464, "wct_1": 0.2884570573619621, "wct_5": 0.00868509830466154, "wct_9": 0.006812052966736567}
+{"query": "What are the most important websites for self-education and research?", "flak": 708.5819873025932, "wct_1": 0.30558609307773865, "wct_5": 0.0017113918621038534, "wct_9": 0.0017113918621038534}
+{"query": "Should single-sex schools be banned?", "flak": 1086.973012761601, "wct_1": 0.7007718467755618, "wct_5": 0.001622546085454345, "wct_9": 0.001622546085454345}
+{"query": "Should the USA break up into smaller, distinct nations?", "flak": 488.35526858142606, "wct_1": 0.12380859344106016, "wct_5": 0.0015048276476759966, "wct_9": 0.0015048276476759966}
+{"query": "Should Finland have joined NATO?", "flak": 816.993969815212, "wct_1": 0.5874912407736865, "wct_5": 0.0022128595136369136, "wct_9": 0.0022128595136369136}
+{"query": "Which front-end javascript framework is best?", "flak": 819.1772244392172, "wct_1": 0.5371939078435054, "wct_5": 0.003863081790845089, "wct_9": 0.003863081790845089}
+{"query": "Is enlightened despotism superior to democracy?", "flak": 687.8655874731704, "wct_1": 0.4416008486422576, "wct_5": 0.0018938423221857654, "wct_9": 0.0018938423221857654}
+{"query": "Which religion best supports science?", "flak": 691.6294213283111, "wct_1": 0.4112104476807934, "wct_5": 0.002913411198970871, "wct_9": 0.002913411198970871}
+{"query": "Should all drugs be legalised?", "flak": 636.8749925730018, "wct_1": 0.36424343945033255, "wct_5": 0.0018485710527635073, "wct_9": 0.0018485710527635073}
+{"query": "Should Empathy Be Taught In School?", "flak": 597.7197863820733, "wct_1": 0.3308095930299213, "wct_5": 0.0018682787783859877, "wct_9": 0.0018682787783859877}
+{"query": "Should school uniforms be banned?", "flak": 689.5775252081384, "wct_1": 0.4303332526609304, "wct_5": 0.0016957016332934188, "wct_9": 0.0016957016332934188}
+{"query": "Is Cloning Animals Ethical?", "flak": 798.9458189098881, "wct_1": 0.5900910906811414, "wct_5": 0.003218669622785971, "wct_9": 0.0019923646868102427}
+{"query": "Should Bullfighting be Banned?", "flak": 615.0325826123284, "wct_1": 0.374478244578348, "wct_5": 0.003928058093135559, "wct_9": 0.003928058093135559}
+{"query": "Should governments provide a universal basic income?", "flak": 859.4885885854923, "wct_1": 0.5094561311305716, "wct_5": 0.0017179329714662336, "wct_9": 0.0017179329714662336}
+{"query": "Should Warner Brothers have fired Amber Heard from Aquaman 2?", "flak": 688.1326890449609, "wct_1": 0.24481794568758902, "wct_5": 0.005171740094111392, "wct_9": 0.0022824147598382544}
+{"query": "Is Elon Musk's takeover of Twitter good for the public?", "flak": 1172.0189337685886, "wct_1": 0.6247521345529283, "wct_5": 0.006679159504931113, "wct_9": 0.0021318232754692396}
+{"query": "Do paywalls around academic publications slow scientific progress?", "flak": 598.0352040956003, "wct_1": 0.1878657887418839, "wct_5": 0.0017448931549246317, "wct_9": 0.0017448931549246317}
+{"query": "Is equality of outcome better than equality of opportunity?", "flak": 1251.1466502550513, "wct_1": 0.6528569711664145, "wct_5": 0.0018465724053304705, "wct_9": 0.0018465724053304705}
+{"query": "Digital Piracy: Good or Bad?", "flak": 775.6215366292446, "wct_1": 0.5194951402281707, "wct_5": 0.001974599427861416, "wct_9": 0.001974599427861416}
+{"query": "Should marijuana be as legally accessible as alcohol?", "flak": 1258.5614102897882, "wct_1": 0.8619658190167693, "wct_5": 0.001974186188414092, "wct_9": 0.001974186188414092}
+{"query": "How should society deal with pedophiles convicted of child sex offences?", "flak": 1462.0928861174225, "wct_1": 0.8028140337146792, "wct_5": 0.0017857676666476468, "wct_9": 0.0017857676666476468}
+{"query": "Should Children's Stories Be Subject to Strict Moral Guidelines?", "flak": 644.3117206301132, "wct_1": 0.1685860556411456, "wct_5": 0.0015936842614098319, "wct_9": 0.0015936842614098319}
+{"query": "Logic is more useful for human advancement than emotion.", "flak": 759.7230745347197, "wct_1": 0.27920678455430475, "wct_5": 0.001516263876488411, "wct_9": 0.001516263876488411}
+{"query": "Should legacy be a factor in college admissions?", "flak": 850.0614417492752, "wct_1": 0.6210242920138812, "wct_5": 0.002237353206031975, "wct_9": 0.002237353206031975}
+{"query": "What are the strengths and weaknesses of networked, [[wikilinking]], note-taking apps?", "flak": 661.5750584959068, "wct_1": 0.23489446685134457, "wct_5": 0.0016661587313259315, "wct_9": 0.0016661587313259315}
+{"query": "All software should be open source.", "flak": 1229.2814926008443, "wct_1": 0.8413546824803017, "wct_5": 0.0014151953237535298, "wct_9": 0.0014151953237535298}
+{"query": "Open source software is better.", "flak": 1307.8058610202386, "wct_1": 0.8830704414771177, "wct_5": 0.0024677559280940928, "wct_9": 0.0014065399330332282}
+{"query": "Is Organic Farming Better Than Conventional Farming?", "flak": 1155.014722054359, "wct_1": 0.5076531775575325, "wct_5": 0.004941783235672423, "wct_9": 0.004941783235672423}
+{"query": "Should the sale of genetically modified food be banned?", "flak": 1284.9592842430272, "wct_1": 0.656133136864545, "wct_5": 0.009135860639558393, "wct_9": 0.0036387435364370986}
+{"query": "Is Vegetarianism A Healthy or Unhealthy Diet To Have?", "flak": 1271.2607017751393, "wct_1": 0.7671066455036761, "wct_5": 0.004376088782072814, "wct_9": 0.0018749740663122779}
+{"query": "Are Men the Biggest Problem Mankind Faces?", "flak": 490.22592921110487, "wct_1": 0.08688677109965635, "wct_5": 0.001614629347564104, "wct_9": 0.001614629347564104}
+{"query": "Should people with Genetic disorders reproduce?", "flak": 1106.0987738958618, "wct_1": 0.7727004455260927, "wct_5": 0.0029318108504224664, "wct_9": 0.0015005968383589707}
+{"query": "Should general AI have fundamental rights?", "flak": 871.8101282688638, "wct_1": 0.5503065876944132, "wct_5": 0.0014533309127135402, "wct_9": 0.0014533309127135402}
+{"query": "If Scientifically Possible, Should Humans Become Immortal?", "flak": 649.7576065293565, "wct_1": 0.23195164557925052, "wct_5": 0.0017753683785815965, "wct_9": 0.0017753683785815965}
+{"query": "China is Still Communist", "flak": 1193.2932849832337, "wct_1": 0.8934256057969401, "wct_5": 0.002605443451303868, "wct_9": 0.002605443451303868}
+{"query": "Is citizen science beneficial to science?", "flak": 658.0002652092919, "wct_1": 0.21810868468023323, "wct_5": 0.0014682227845733762, "wct_9": 0.0014682227845733762}
+{"query": "Does God Allow Evil: Is the Existence of God Compatible with the Existence of Evil?", "flak": 2351.6917901590455, "wct_1": 0.7127699707592711, "wct_5": 0.004867672540979671, "wct_9": 0.0018584478384941776}
+{"query": "Should we promote the feeling of nationalism for betterment of India?", "flak": 662.3307045611883, "wct_1": 0.15757339008438537, "wct_5": 0.00279388378982013, "wct_9": 0.0015093657345722092}
+{"query": "Should religion be involved in politics?", "flak": 580.2823136682417, "wct_1": 0.21850441404645354, "wct_5": 0.0014215872068061887, "wct_9": 0.0014215872068061887}
+{"query": "Should China declare support for Palestine?", "flak": 980.3253608092319, "wct_1": 0.5697128733568954, "wct_5": 0.00167027834226762, "wct_9": 0.00167027834226762}
+{"query": "Is Darwinian Evolution Philosophy or Science?", "flak": 1096.3896492809747, "wct_1": 0.7656705000896029, "wct_5": 0.0032817618704660038, "wct_9": 0.001794213023681639}
+{"query": "Should Colleges Have Safe Spaces?", "flak": 495.22228777237723, "wct_1": 0.11325641301464738, "wct_5": 0.0015649275064817624, "wct_9": 0.0015649275064817624}
+{"query": "Should gratuitous acts of violence in movies and television shows be banned?", "flak": 662.1820799537147, "wct_1": 0.17558761160201034, "wct_5": 0.0017771625031824322, "wct_9": 0.0017771625031824322}
+{"query": "Should the United States have more than two major political parties?", "flak": 1509.6543754503605, "wct_1": 0.7441822386279812, "wct_5": 0.00927118075241714, "wct_9": 0.0042306752549343424}
+{"query": "Should the US Recognize Palestine as a State?", "flak": 936.4141462986172, "wct_1": 0.6156720259891288, "wct_5": 0.004822353444368628, "wct_9": 0.004822353444368628}
+{"query": "Should the age of consent be lowered to fourteen?", "flak": 987.1055932355226, "wct_1": 0.6180534458869261, "wct_5": 0.005721150486625669, "wct_9": 0.005721150486625669}
+{"query": "What is the best Nickelodeon show?", "flak": 1137.0868871865607, "wct_1": 0.8738270976073051, "wct_5": 0.008308749330300319, "wct_9": 0.005947619670810229}
+{"query": "Do gun control laws reduce crime?", "flak": 1105.865869611792, "wct_1": 0.6682558616920855, "wct_5": 0.006381135259875302, "wct_9": 0.005496172204409999}
+{"query": "Should the UN Security Council's veto power and permanent membership for the five nations be abolished?", "flak": 2626.730473107172, "wct_1": 0.9648341768178157, "wct_5": 0.008984551680522096, "wct_9": 0.0056679651271581526}
+{"query": "Are the rich or the poor more responsible for environmental damages?", "flak": 724.8555941404239, "wct_1": 0.31678706855709415, "wct_5": 0.007308147025038131, "wct_9": 0.004873239916818421}
+{"query": "Would a Socialist Economy work better than a Capitalist Economy?", "flak": 1847.2140147316873, "wct_1": 0.8101441657502607, "wct_5": 0.004847408530895815, "wct_9": 0.004847408530895815}
+{"query": "What is the best Pixar movie?", "flak": 960.3425837497067, "wct_1": 0.6843393032542207, "wct_5": 0.005203923820963485, "wct_9": 0.005203923820963485}
+{"query": "Does trickle-down economics do more harm than good?", "flak": 941.2627558043008, "wct_1": 0.32977872443546125, "wct_5": 0.005193223185701814, "wct_9": 0.005193223185701814}
+{"query": "SB 1596: Employment of Minors", "flak": 453.94123945756945, "wct_1": 0.18509538737735173, "wct_5": 0.004365155400902814, "wct_9": 0.004365155400902814}
+{"query": "Is Hamlet Mad?", "flak": 522.239363527795, "wct_1": 0.20689044453570282, "wct_5": 0.005563871377567629, "wct_9": 0.005563871377567629}
+{"query": "Should we build a nuclear power plant?", "flak": 1952.8246836359938, "wct_1": 0.9711827916079341, "wct_5": 0.008718657145051979, "wct_9": 0.005985226965964994}
+{"query": "Edible Landscapes: Should Lawns Be Replaced?", "flak": 636.3650055865583, "wct_1": 0.31595732315095076, "wct_5": 0.006570447325056598, "wct_9": 0.006570447325056598}
+{"query": "Is water wet?", "flak": 710.1477458885271, "wct_1": 0.4169386820516966, "wct_5": 0.008870229737997778, "wct_9": 0.006416999276067305}
+{"query": "Is cultural diversity beneficial to develop a successful organisation?", "flak": 643.6657168546619, "wct_1": 0.1814634465035223, "wct_5": 0.004490774476303097, "wct_9": 0.004490774476303097}
+{"query": "Can self-censorship be a good thing?", "flak": 595.6899007759458, "wct_1": 0.2607961624718744, "wct_5": 0.004772559884518922, "wct_9": 0.004772559884518922}
+{"query": "Should All People in the US Have the Right to Basic Healthcare?", "flak": 909.8398194905837, "wct_1": 0.4599160701765174, "wct_5": 0.0048795084510939255, "wct_9": 0.0048795084510939255}
+{"query": "Should Art Made By Abusers Be Removed From Cultural Institutions?", "flak": 556.4999315576566, "wct_1": 0.13464796632276724, "wct_5": 0.006651946161647752, "wct_9": 0.004350608147511033}
+{"query": "Is freedom of sexuality inducing harm?", "flak": 672.0447174285855, "wct_1": 0.36022599195200217, "wct_5": 0.006207086585113648, "wct_9": 0.006207086585113648}
+{"query": "Wir suchen einen Namen, der aus unserem losen Zusammenschluss von Klima-, Sozial- und Demokratie-Bewegungen in \u00d6sterreich, eine Gemeinschaft schafft.", "flak": 998.2687576176157, "wct_1": 0.14242203165817482, "wct_5": 0.006086087130793344, "wct_9": 0.006086087130793344}
+{"query": "Is Christmas best celebrated at home or at a tourist destination?", "flak": 820.2709875745081, "wct_1": 0.34339129293752235, "wct_5": 0.005722528197032921, "wct_9": 0.004603848036902666}
+{"query": "Is the UK NHS (National Health Service) sustainable?", "flak": 1883.9613479366753, "wct_1": 0.9716089535658919, "wct_5": 0.005934847195337918, "wct_9": 0.005934847195337918}
+{"query": "Wir wollen einen Wortlaut, einen Ausdruck, ein paar Zeilen finden, die das Selbstverst\u00e4ndnis der Vernetzung beschreiben, f\u00fcr die wir mit der orga-\u00fcbergreifenden Vernetzungs AG arbeiten und Strukturen schaffen wollen.", "flak": 1784.3316135381237, "wct_1": 0.13006491758310665, "wct_5": 0.006952881549884626, "wct_9": 0.006952881549884626}
+{"query": "Are trans women real women?", "flak": 862.3380955736194, "wct_1": 0.39053491110335337, "wct_5": 0.006137040497484172, "wct_9": 0.004742181513909598}
+{"query": "Should airplane passengers pay for their body weight?", "flak": 778.7192500514623, "wct_1": 0.4239926404453054, "wct_5": 0.004709846343285966, "wct_9": 0.004709846343285966}
+{"query": "Is the USA a good country to live in?", "flak": 469.0353966999836, "wct_1": 0.11064005783225303, "wct_5": 0.007162615148684944, "wct_9": 0.005894592688600172}
+{"query": "Modern technology is a disadvantage to society.", "flak": 536.2972209447761, "wct_1": 0.1739590962054374, "wct_5": 0.004719165073772878, "wct_9": 0.004719165073772878}
+{"query": "Should Shark Culling Be Banned?", "flak": 746.5401479723242, "wct_1": 0.508869574194675, "wct_5": 0.011784840633765578, "wct_9": 0.009852537610983174}
+{"query": "Everyone Should Health Track - Self Quantify", "flak": 585.996423998505, "wct_1": 0.2621574806349831, "wct_5": 0.0037496839152984236, "wct_9": 0.0037496839152984236}
+{"query": "Should science get more governmental funding?", "flak": 759.9062254311649, "wct_1": 0.45923414607546903, "wct_5": 0.004406527303348687, "wct_9": 0.004406527303348687}
+{"query": "Will human civilisation collapse (i.e regress or go extinct) ?", "flak": 711.9299624515801, "wct_1": 0.351941573321541, "wct_5": 0.00541247212586633, "wct_9": 0.00541247212586633}
+{"query": "Should Florida Pass HB 887 (Guardianship)?", "flak": 617.669228582735, "wct_1": 0.32524598330050736, "wct_5": 0.006728786736356754, "wct_9": 0.00538899215904891}
+{"query": "Is AI art theft?", "flak": 648.8293173732542, "wct_1": 0.3764357572487056, "wct_5": 0.007135551825923264, "wct_9": 0.005747951312669263}
+{"query": "Should Florida Pass SB 1178 (Condominium and Cooperative Associations)?", "flak": 604.1247190035331, "wct_1": 0.25647870285983815, "wct_5": 0.005101570428159937, "wct_9": 0.005101570428159937}
+{"query": "Should Florida Pass SB 1364 (Everglades Protection Area)?", "flak": 1259.2471882609693, "wct_1": 0.726755743278988, "wct_5": 0.005303114258831786, "wct_9": 0.005303114258831786}
+{"query": "Should Florida Pass SB 864 (Autism Spectrum Disorder Training for Law Enforcement Officers)?", "flak": 1431.5382579775355, "wct_1": 0.6380035361345167, "wct_5": 0.004857847241401016, "wct_9": 0.004857847241401016}
+{"query": "Should Florida Pass HB 1431 (International Drug Reference Pricing)?", "flak": 610.8970859343286, "wct_1": 0.22706248148559963, "wct_5": 0.005334490498886594, "wct_9": 0.005334490498886594}
+{"query": "Should Florida Pass SB 248 (Medical Negligence)?", "flak": 610.2758111107136, "wct_1": 0.29077806150221847, "wct_5": 0.004920481797101887, "wct_9": 0.004920481797101887}
+{"query": "Should Florida Pass HB 3 (Online Access to Materials Harmful to Minors)?", "flak": 734.9720517599894, "wct_1": 0.23785226770023904, "wct_5": 0.007689624282060831, "wct_9": 0.005880032768569255}
+{"query": "Should Florida Pass HB 1 (Social Media Use for Minors)?", "flak": 541.9845289115458, "wct_1": 0.14849979276175898, "wct_5": 0.0062532216706242495, "wct_9": 0.004973057739015538}
+{"query": "What is the best movie by DreamWorks Animation?", "flak": 1135.012372773264, "wct_1": 0.7064284017650387, "wct_5": 0.0050529871071351, "wct_9": 0.0050529871071351}
+{"query": "Is chivalry sexist?", "flak": 562.4628598394702, "wct_1": 0.4662869775834809, "wct_5": 0.003322113837340958, "wct_9": 0.003322113837340958}
+{"query": "Did the British Empire do more harm than good to the people it ruled over?", "flak": 731.6814669444522, "wct_1": 0.16349966356758017, "wct_5": 0.0027531625565403745, "wct_9": 0.0014324224049055655}
+{"query": "Are UFOs real?", "flak": 929.2454013260805, "wct_1": 0.8531912376875522, "wct_5": 0.008549338161918364, "wct_9": 0.006308576417371486}
+{"query": "Technological VS Moral Advancement", "flak": 566.3152984734566, "wct_1": 0.22394621913859755, "wct_5": 0.0059894217509096565, "wct_9": 0.004536386179862986}
+{"query": "Should Drinking Water Be Fluoridated?", "flak": 1349.4946024076305, "wct_1": 0.7825242819919046, "wct_5": 0.0036070219377121286, "wct_9": 0.0018286075574221665}
+{"query": "Le tirage au sort des parlementaires est-il une alternative souhaitable \u00e0 l'\u00e9lection ?", "flak": 1069.0096459613762, "wct_1": 0.17205076881934883, "wct_5": 0.0059640331894932055, "wct_9": 0.0059640331894932055}
+{"query": "Is it responsible to have \"conservative\" values in politics?", "flak": 762.691946390123, "wct_1": 0.43828581388590887, "wct_5": 0.002878385691523461, "wct_9": 0.002878385691523461}
+{"query": "Should Australians establish an Aboriginal and Torres Strait Islander Voice?", "flak": 3201.735696312492, "wct_1": 0.9937058482212977, "wct_5": 0.005815943486849387, "wct_9": 0.003239715234131924}
+{"query": "Was Einstein Sexist?", "flak": 454.62388992902885, "wct_1": 0.10214802181602274, "wct_5": 0.002565210181797163, "wct_9": 0.002565210181797163}
+{"query": "Should we require major polluter nations to open up their borders to climate refugees?", "flak": 822.3215364805874, "wct_1": 0.37057466107031495, "wct_5": 0.0015672274160807346, "wct_9": 0.0015672274160807346}
+{"query": "Should we create a sports category that allows drug usage?", "flak": 602.060797709691, "wct_1": 0.1350293071728009, "wct_5": 0.00443327028050315, "wct_9": 0.00443327028050315}
+{"query": "Should vaccinations be mandatory?", "flak": 949.8893873733774, "wct_1": 0.8004752445022489, "wct_5": 0.003435150188182, "wct_9": 0.003435150188182}
+{"query": "Do Ontological Arguments Prove God?", "flak": 1113.5586386541704, "wct_1": 0.7604626646514793, "wct_5": 0.004198561439979805, "wct_9": 0.004198561439979805}
+{"query": "The Second Amendment to the U.S. Constitution should be repealed.", "flak": 1651.010901521566, "wct_1": 0.9699908802342379, "wct_5": 0.0029294722712682026, "wct_9": 0.0015220944135693197}
+{"query": "Does overturning Roe v. Wade undermine American legal and civil freedoms?", "flak": 1867.6565319467559, "wct_1": 0.7253709028987405, "wct_5": 0.002885541866526734, "wct_9": 0.0019538648324243704}
+{"query": "Is Capitalism Bad?", "flak": 337.98538267790644, "wct_1": 0.09490222615033303, "wct_5": 0.005673115313098369, "wct_9": 0.004352484030007615}
+{"query": "Does the Bible support the conclusion that homosexuality is a sin against God?", "flak": 1308.4797475270657, "wct_1": 0.7517063816067276, "wct_5": 0.001822399483761184, "wct_9": 0.001822399483761184}
+{"query": "Should burning the Quran be illegal?", "flak": 580.6535703585246, "wct_1": 0.36391428339158843, "wct_5": 0.0028080460948241483, "wct_9": 0.001728079102332622}
+{"query": "Has Xi Jinping been good for China?", "flak": 1811.4516568348913, "wct_1": 0.7587484366868088, "wct_5": 0.004739998342844528, "wct_9": 0.0018526295935741232}
+{"query": "Will robots doing work be better or worse for humans?", "flak": 924.7238313256089, "wct_1": 0.5836673810325814, "wct_5": 0.003005629746051855, "wct_9": 0.003005629746051855}
+{"query": "Is science becoming increasingly distorted and losing objectivity?", "flak": 489.94239494245727, "wct_1": 0.06711664539868312, "wct_5": 0.001531143318013968, "wct_9": 0.001531143318013968}
+{"query": "Is Space Exploration a Waste of Money?", "flak": 601.7253144037313, "wct_1": 0.3015180455666877, "wct_5": 0.0015796216576701584, "wct_9": 0.0015796216576701584}
+{"query": "Does social media play a significant role in influencing people's behaviors, becoming a key driver of climate change?", "flak": 1411.9761790197078, "wct_1": 0.6429008563851761, "wct_5": 0.003095880065473617, "wct_9": 0.003095880065473617}
+{"query": "Are video games currently more enjoyable than board games?", "flak": 1105.632658612349, "wct_1": 0.41091329367781104, "wct_5": 0.004361161181006311, "wct_9": 0.004361161181006311}
+{"query": "Is Shrek a superhero?", "flak": 837.882009373421, "wct_1": 0.6744462790381286, "wct_5": 0.0030343965199648337, "wct_9": 0.0015455024770265559}
+{"query": "Should Hunger Be The First Problem To Solve Before All Others?", "flak": 1114.9496973777161, "wct_1": 0.7006964845625384, "wct_5": 0.004129812243900027, "wct_9": 0.004129812243900027}
+{"query": "Does Feminism Empower Both Women And Men?", "flak": 1509.5545650046624, "wct_1": 0.8676353108793009, "wct_5": 0.005109497120120641, "wct_9": 0.005109497120120641}
+{"query": "Should the US sell weapons with nuclear capabilities to Ukraine?", "flak": 1476.565144646328, "wct_1": 0.8224360888619013, "wct_5": 0.004323419657229191, "wct_9": 0.004323419657229191}
+{"query": "Are gender and sex the same thing?", "flak": 1290.1243157652495, "wct_1": 0.8813532428336749, "wct_5": 0.005532776858539563, "wct_9": 0.005532776858539563}
+{"query": "Did a divine being create the universe?", "flak": 604.6884989369678, "wct_1": 0.23085363714636617, "wct_5": 0.005951870531713201, "wct_9": 0.005951870531713201}
+{"query": "Is God a Trinity?", "flak": 937.4462009268004, "wct_1": 0.6530455394752287, "wct_5": 0.009467553823379915, "wct_9": 0.007097061015619016}
+{"query": "How did our Universe come into existence \u2013 why does it exist?", "flak": 1014.6857020725047, "wct_1": 0.3340895377857649, "wct_5": 0.005031749406703032, "wct_9": 0.005031749406703032}
+{"query": "Are the Catholic teachings the best?", "flak": 615.8144750329792, "wct_1": 0.41177920251127803, "wct_5": 0.004110823942609805, "wct_9": 0.004110823942609805}
+{"query": "Is it racist to only support business based on owners race?", "flak": 609.9984700688237, "wct_1": 0.21344931976384127, "wct_5": 0.007030787498931502, "wct_9": 0.005805917550304301}
+{"query": "Should the police be defunded?", "flak": 450.76756121543747, "wct_1": 0.2554133448456017, "wct_5": 0.005467883014452887, "wct_9": 0.005467883014452887}
+{"query": "Will man-made climate change cause human extinction?", "flak": 1307.9847878127646, "wct_1": 0.7103496831974735, "wct_5": 0.006730355065000607, "wct_9": 0.006730355065000607}
+{"query": "Online learning is the future of education", "flak": 1003.0237497653627, "wct_1": 0.7491197956091389, "wct_5": 0.004335214347387955, "wct_9": 0.004335214347387955}
+{"query": "Rent control policies hurts housing affordability and should be repealed", "flak": 1318.578819944489, "wct_1": 0.7358066158160115, "wct_5": 0.005111089589938133, "wct_9": 0.005111089589938133}
+{"query": "Is the original Political Compass a useful tool?", "flak": 730.6802021078272, "wct_1": 0.38915104018432295, "wct_5": 0.007444172987153342, "wct_9": 0.006314633311831325}
+{"query": "Is banning books inherently wrong?", "flak": 451.5509955218508, "wct_1": 0.10700460273691609, "wct_5": 0.004630990882510517, "wct_9": 0.004630990882510517}
+{"query": "Should Governments Put A Tax On Meat?", "flak": 779.8186614064347, "wct_1": 0.4262823126312134, "wct_5": 0.008614114698966904, "wct_9": 0.006069275355524418}
+{"query": "Wie werden in einer freien und solidarischen Gesellschaft Produktion und Distribution organisiert?", "flak": 693.2768094211724, "wct_1": 0.07085926254980009, "wct_5": 0.005749505998864188, "wct_9": 0.005749505998864188}
+{"query": "Was Jesus Christ actually the Messiah as claimed by Christianity?", "flak": 1938.496503083243, "wct_1": 0.9110360233705904, "wct_5": 0.009072057581754578, "wct_9": 0.006618935066301635}
+{"query": "Is Moana OK to show in US schools given the religious depictions?", "flak": 459.578692484972, "wct_1": 0.13118062671559583, "wct_5": 0.004649183672304941, "wct_9": 0.004649183672304941}
+{"query": "Should LGBTQ+ Campaigning Use The Narrative That LGBTQ+ People Are 'Born This Way'?", "flak": 1861.523441366447, "wct_1": 0.8473735119818299, "wct_5": 0.006907098117358407, "wct_9": 0.006907098117358407}
+{"query": "Do we need religion for morality?", "flak": 875.3557455036471, "wct_1": 0.44744889800449206, "wct_5": 0.005844017556936003, "wct_9": 0.004846159611317268}
+{"query": "Is Capitalism the Best System for the People?", "flak": 411.5345386639714, "wct_1": 0.12761193626840492, "wct_5": 0.006411801673584575, "wct_9": 0.00406064844702816}
+{"query": "Are Humans fundamentally different from other animals?", "flak": 794.6098618152006, "wct_1": 0.3584107557157991, "wct_5": 0.0045408118503125604, "wct_9": 0.0045408118503125604}
+{"query": "Concerning vehicles, are ethanol engines better for the environment than electrification?", "flak": 1302.3419191727924, "wct_1": 0.5913674464459335, "wct_5": 0.00485708983613622, "wct_9": 0.00485708983613622}
+{"query": "Should Comprehensive Sex Education be Mandatory?", "flak": 883.5785879961995, "wct_1": 0.46838291404034327, "wct_5": 0.005095455704888729, "wct_9": 0.005095455704888729}
+{"query": "Should voters in the UK have a final vote on the Brexit deal?", "flak": 1416.958741534806, "wct_1": 0.6413865947477241, "wct_5": 0.006308727523206843, "wct_9": 0.003597011306676785}
+{"query": "Should parents perpetuate myths like Santa Claus and the Easter Bunny to their children?", "flak": 1233.1610477236957, "wct_1": 0.6164757928921565, "wct_5": 0.007031729410322378, "wct_9": 0.005930312689382489}
+{"query": "Is civil disobedience in a democracy morally justified?", "flak": 877.0010346553581, "wct_1": 0.6130867521100463, "wct_5": 0.001976513088724399, "wct_9": 0.001976513088724399}
+{"query": "Is Narendra Modi good for India?", "flak": 2349.732426583102, "wct_1": 0.9949938694913723, "wct_5": 0.009051066658359119, "wct_9": 0.004393343888637778}
+{"query": "Should students be allowed to use generative AI for assignments?", "flak": 653.4439722727641, "wct_1": 0.22521928079218492, "wct_5": 0.004464403618036309, "wct_9": 0.004464403618036309}
+{"query": "Are free markets better for humans than regulated markets?", "flak": 1122.7658780313034, "wct_1": 0.4740764339811381, "wct_5": 0.004406414089589077, "wct_9": 0.004406414089589077}
+{"query": "Is Islam a threat to Western civilization?", "flak": 619.4225850083991, "wct_1": 0.21712961017546697, "wct_5": 0.006460592246906224, "wct_9": 0.006460592246906224}
+{"query": "Should animal testing be banned?", "flak": 741.4313744348609, "wct_1": 0.3611430487024617, "wct_5": 0.005185508487809337, "wct_9": 0.005185508487809337}
+{"query": "Should the EU have its own army?", "flak": 840.8183900400668, "wct_1": 0.5991440943359593, "wct_5": 0.005775023754009821, "wct_9": 0.004405423514315109}
+{"query": "The Government should be mandated to provide people with a boyfriend or a girlfriend", "flak": 816.7408313129462, "wct_1": 0.447398447091734, "wct_5": 0.007345542528072179, "wct_9": 0.004613369450968034}
+{"query": "God Exists", "flak": 781.5252500698444, "wct_1": 0.6810911852906395, "wct_5": 0.002458556006873238, "wct_9": 0.002458556006873238}
+{"query": "Should HPV vaccines be provided free for everyone?", "flak": 1296.4343996805974, "wct_1": 0.7348658006734233, "wct_5": 0.004179859865076319, "wct_9": 0.004179859865076319}
+{"query": "Is Communism Actually Viable In The USA?", "flak": 410.07291804435323, "wct_1": 0.053032083585576664, "wct_5": 0.0045182023550645, "wct_9": 0.0045182023550645}
+{"query": "Should water be taxed?", "flak": 594.0253116308238, "wct_1": 0.34692907089285974, "wct_5": 0.005071836641916774, "wct_9": 0.0027577176843768285}
+{"query": "Should Kashmir Be An Independent State?", "flak": 1268.9151062018016, "wct_1": 0.8545380089269798, "wct_5": 0.007252871449734069, "wct_9": 0.003227763167489696}
+{"query": "Can man and all heavenly beings belong to the same species as God?", "flak": 913.8997583555117, "wct_1": 0.4469632306413307, "wct_5": 0.0058399673934813705, "wct_9": 0.004721652588622417}
+{"query": "Should children be raised communally?", "flak": 513.7998786515823, "wct_1": 0.13013752942801646, "wct_5": 0.004359416349217573, "wct_9": 0.004359416349217573}
+{"query": "Should school be mandatory until 12th grade?", "flak": 1201.0664938388238, "wct_1": 0.8369336249516626, "wct_5": 0.004216141224756684, "wct_9": 0.004216141224756684}
+{"query": "Should abortion of disabled fetuses be allowed for the reason that the fetus is disabled?", "flak": 1465.3125146734235, "wct_1": 0.5968815555039114, "wct_5": 0.0037971552845097933, "wct_9": 0.0020559242195935775}
+{"query": "Personal and Social Implications of FOMO (the Fear of Missing Out)", "flak": 619.7501650817024, "wct_1": 0.16653493977198638, "wct_5": 0.005391389568438696, "wct_9": 0.0029718834392437397}
+{"query": "Should parents who don't vaccinate their children be fined if the child gets a vaccine-preventable illness?", "flak": 2414.476635151265, "wct_1": 0.9208514490194465, "wct_5": 0.0016665433878027488, "wct_9": 0.0016665433878027488}
+{"query": "Are women superior to men?", "flak": 549.1599376281415, "wct_1": 0.21418100937638745, "wct_5": 0.001426966065815072, "wct_9": 0.001426966065815072}
+{"query": "No one should feel obliged to change their lifestyle to combat global warming.", "flak": 1485.6087927199526, "wct_1": 0.8015774746115678, "wct_5": 0.002407987591669454, "wct_9": 0.0015216286516591146}
+{"query": "Amazon ISEN", "flak": 241.15340386480838, "wct_1": 0.10407781247510868, "wct_5": 0.01122370047662514, "wct_9": 0.005496854966552453}
+{"query": "Are human activities primarily responsible for global warming?", "flak": 1371.9350899855906, "wct_1": 0.7824163117979626, "wct_5": 0.0033770569241788986, "wct_9": 0.0017554745534820513}
+{"query": "Does God draw man through \"irresistible grace\"?", "flak": 1207.3101590725553, "wct_1": 0.593090314103329, "wct_5": 0.0036560265614157916, "wct_9": 0.00199899490254167}
+{"query": "Should Men Pay Child Support When Abortion is Legal?", "flak": 1493.7027816563264, "wct_1": 0.8228830548915632, "wct_5": 0.005199766149898734, "wct_9": 0.0034812853657936373}
+{"query": "Should We Sing Problematic Christmas Songs?", "flak": 1130.095788676548, "wct_1": 0.6882294734446786, "wct_5": 0.007093032171839231, "wct_9": 0.006024410209613299}
+{"query": "Should media organizations be penalized for spreading 'fake news'?", "flak": 727.4043680299883, "wct_1": 0.3602841661576552, "wct_5": 0.00367011609355188, "wct_9": 0.001799147669159081}
+{"query": "Should democracies accept Ukrainian refugees and Russians seeking to escape Putin's tyranny?", "flak": 1408.570583591782, "wct_1": 0.738772440396019, "wct_5": 0.00310707271447987, "wct_9": 0.00310707271447987}
+{"query": "Should we automatically increase regulation as the economy does better and vice versa?", "flak": 915.7905936197424, "wct_1": 0.3803139400490501, "wct_5": 0.002805119665773954, "wct_9": 0.0015289461077839866}
+{"query": "Is it important to get a college education?", "flak": 565.5276735311184, "wct_1": 0.2466693803786919, "wct_5": 0.0025289967882020405, "wct_9": 0.0014320009555315752}
+{"query": "Are the Hunter Biden emails as released by the New York Post authentic?", "flak": 795.6640996666699, "wct_1": 0.339153417299949, "wct_5": 0.004193363500057787, "wct_9": 0.0018249309139606205}
+{"query": "Should failing banks receive bailouts from the government?", "flak": 1125.3385048184227, "wct_1": 0.6753113048632319, "wct_5": 0.0017115846625742276, "wct_9": 0.0017115846625742276}
+{"query": "Is an embryo a human?", "flak": 1055.6851548002728, "wct_1": 0.8039901257890976, "wct_5": 0.0028677879465026273, "wct_9": 0.0014620176483849375}
+{"query": "Ukraine should become a member of EU", "flak": 1204.0885031888229, "wct_1": 0.8449416430908561, "wct_5": 0.0026865157559659136, "wct_9": 0.0016286399761066927}
+{"query": "How should we characterize the overthrow of Yanukovich in Ukraine 2014?", "flak": 651.5293759748945, "wct_1": 0.2571203128257413, "wct_5": 0.003716236059221799, "wct_9": 0.003716236059221799}
+{"query": "Is Joe Biden a good President?", "flak": 1706.6538919594602, "wct_1": 0.9495834063649554, "wct_5": 0.0052495033131656115, "wct_9": 0.0031515538801904545}
+{"query": "Should college tuition be free in the US?", "flak": 1193.8465028098503, "wct_1": 0.8874579257835085, "wct_5": 0.0032119358407300736, "wct_9": 0.0032119358407300736}
+{"query": "Are there more than two genders?", "flak": 907.5582759546218, "wct_1": 0.7653518528274615, "wct_5": 0.004295356768434363, "wct_9": 0.004295356768434363}
+{"query": "One should vote yes on prop 22", "flak": 809.9289947180486, "wct_1": 0.4817128019760352, "wct_5": 0.0016833580501682815, "wct_9": 0.0016833580501682815}
+{"query": "Our perception as humans is not necessarily the same as any other human", "flak": 1039.5653234861525, "wct_1": 0.38747217200152234, "wct_5": 0.005446955354152696, "wct_9": 0.004466820941292316}
+{"query": "Should pedophilia be classed as a sexual orientation?", "flak": 1319.6172519154427, "wct_1": 0.8403695357486349, "wct_5": 0.006993722069667925, "wct_9": 0.005561586625106955}
+{"query": "Is Islam the true religion over Christianity?", "flak": 1505.002884543954, "wct_1": 0.9125703667228129, "wct_5": 0.005531161018070401, "wct_9": 0.004318420445635021}
+{"query": "Should the institution of prison be eliminated ?", "flak": 501.0449888140377, "wct_1": 0.1408799302347814, "wct_5": 0.0044813217321453104, "wct_9": 0.0044813217321453104}
+{"query": "Can men and women be \"just friends\"?", "flak": 662.7480458278201, "wct_1": 0.24453130685628402, "wct_5": 0.004571237785446209, "wct_9": 0.004571237785446209}
+{"query": "Should dating apps allow users to filter on the basis of race?", "flak": 1733.0008164096325, "wct_1": 0.9339596852315916, "wct_5": 0.007067687885244025, "wct_9": 0.0046437916848711255}
+{"query": "Is the Palestinian Cause a Just Cause?", "flak": 756.1528314129115, "wct_1": 0.434468510074779, "wct_5": 0.0029396659777349704, "wct_9": 0.0029396659777349704}
+{"query": "Do we need to abolish capitalism to deal with climate change?", "flak": 840.6227402019615, "wct_1": 0.32460182645378355, "wct_5": 0.004528853856332591, "wct_9": 0.004528853856332591}
+{"query": "\u00bfPara o contra la implementaci\u00f3n de un idioma universal?", "flak": 725.0510782662669, "wct_1": 0.12109574802434185, "wct_5": 0.005788369263836109, "wct_9": 0.005788369263836109}
+{"query": "Is being asexual/aromantic inherently under the LGBT+ umbrella?", "flak": 646.3620792073826, "wct_1": 0.3170106807760902, "wct_5": 0.009661584183777385, "wct_9": 0.007814227724077777}
+{"query": "Why does something exist instead of nothing?", "flak": 780.4827046209131, "wct_1": 0.3026847510223246, "wct_5": 0.005197651448063536, "wct_9": 0.005197651448063536}
+{"query": "What is the best rock band?", "flak": 913.0503381361634, "wct_1": 0.566041572393435, "wct_5": 0.002693661294769196, "wct_9": 0.002693661294769196}
+{"query": "Is Chess A Sport?", "flak": 1051.2776227858844, "wct_1": 0.8589530369504492, "wct_5": 0.007920718753916743, "wct_9": 0.005444352130496251}
+{"query": "Does pineapple belong on pizza?", "flak": 746.7414641645121, "wct_1": 0.5406701659823002, "wct_5": 0.005678653303278283, "wct_9": 0.005678653303278283}
+{"query": "Should vaping be banned?", "flak": 479.42584448834344, "wct_1": 0.15902889970983594, "wct_5": 0.01179976254772634, "wct_9": 0.006690594098399259}
+{"query": "What are the attributes and qualities that define an 'ideal country'?", "flak": 708.3001910668441, "wct_1": 0.29046684445318194, "wct_5": 0.004826029667786384, "wct_9": 0.004826029667786384}
+{"query": "Who contributed the most to founding rock music?", "flak": 612.3901371177108, "wct_1": 0.14615399069081322, "wct_5": 0.005349377838517754, "wct_9": 0.004106827114134161}
+{"query": "Is capitalism good?", "flak": 579.460006006911, "wct_1": 0.4803884153053865, "wct_5": 0.005581476232682664, "wct_9": 0.005581476232682664}
+{"query": "Should the Bible be considered a historical document?", "flak": 740.3695160186298, "wct_1": 0.41634941236934975, "wct_5": 0.0032824608984143686, "wct_9": 0.0032824608984143686}
+{"query": "Does the Bible describe Earth, not as a sphere, but as a disc covered by a solid dome?", "flak": 763.4632147747224, "wct_1": 0.24189517431522128, "wct_5": 0.005277523440161502, "wct_9": 0.005277523440161502}
+{"query": "Does Feminism Strive For Equality?", "flak": 971.8862415996416, "wct_1": 0.708928657323361, "wct_5": 0.005522794963612887, "wct_9": 0.005522794963612887}
+{"query": "Is Sexual Orientation A Choice?", "flak": 1269.155478223679, "wct_1": 0.9231169898118989, "wct_5": 0.008663289139377207, "wct_9": 0.0047503542470907585}
+{"query": "Should corporal punishment be allowed in schools?", "flak": 935.6358082982417, "wct_1": 0.569023450964314, "wct_5": 0.0050261319834326735, "wct_9": 0.0050261319834326735}
+{"query": "Should the European Union legalize marijuana?", "flak": 1370.2625263307848, "wct_1": 0.7920816425086964, "wct_5": 0.004397808690233798, "wct_9": 0.002963984947639866}
+{"query": "Free Speech on the Internet: Should Internet Companies Deny Service to White Supremacists?", "flak": 896.1015232836965, "wct_1": 0.10828056104609521, "wct_5": 0.004279387195304586, "wct_9": 0.004279387195304586}
+{"query": "Is Anarchism Viable for the world?", "flak": 768.675732303781, "wct_1": 0.5859870207741473, "wct_5": 0.0068586875614201105, "wct_9": 0.004331282815746687}
+{"query": "Feminism is toxic", "flak": 703.552567182915, "wct_1": 0.6738761124840215, "wct_5": 0.004761297525120422, "wct_9": 0.004761297525120422}
+{"query": "Schools should teach the history of Israel Palestine conflict", "flak": 1492.9295459317138, "wct_1": 0.8190734364270857, "wct_5": 0.004641702584951144, "wct_9": 0.004641702584951144}
+{"query": "Will the future be better than the present?", "flak": 461.82272837337376, "wct_1": 0.08259192080654568, "wct_5": 0.004277031990496571, "wct_9": 0.004277031990496571}
+{"query": "Is there a meaning of life?", "flak": 358.8310002378967, "wct_1": 0.12621319886716856, "wct_5": 0.003808673996404124, "wct_9": 0.003808673996404124}
+{"query": "Should religion be allowed in public spaces?", "flak": 561.2172711574786, "wct_1": 0.19488314764829467, "wct_5": 0.004574947862034445, "wct_9": 0.004574947862034445}
+{"query": "Should animals be banned in circuses?", "flak": 690.3933638474459, "wct_1": 0.3815362435204498, "wct_5": 0.004455370307030389, "wct_9": 0.004455370307030389}
+{"query": "The USA will continue to have an automobile based transportation system for the next 200 years.", "flak": 666.4903815230922, "wct_1": 0.21679590444122582, "wct_5": 0.00427286804240905, "wct_9": 0.00427286804240905}
+{"query": "What are the necessary conditions for genuine science?", "flak": 529.6020725710276, "wct_1": 0.16643398361275502, "wct_5": 0.00305062881242595, "wct_9": 0.00305062881242595}
+{"query": "Should we Have a 100% Inheritance Tax?", "flak": 768.3584749391476, "wct_1": 0.39103808847272425, "wct_5": 0.006029074537120326, "wct_9": 0.004590878425309661}
+{"query": "Governments should impose methods of population control.", "flak": 580.7789561284995, "wct_1": 0.10361717686958419, "wct_5": 0.0029268401411317486, "wct_9": 0.0029268401411317486}
+{"query": "Is anarchy the only ethical system of society?", "flak": 661.6884085942762, "wct_1": 0.2616435932373998, "wct_5": 0.004548419975160437, "wct_9": 0.004548419975160437}
+{"query": "What should an LGBT+ inclusive curriculum for secondary school teach?", "flak": 1407.2393181035675, "wct_1": 0.8178403638908983, "wct_5": 0.005081119222182757, "wct_9": 0.005081119222182757}
+{"query": "Does tiger parenting do more harm than good?", "flak": 770.8561886139249, "wct_1": 0.2463861510694361, "wct_5": 0.005020406001787099, "wct_9": 0.005020406001787099}
+{"query": "Should the idea of \u201ccountries\u201d be abolished?", "flak": 490.49046545560464, "wct_1": 0.1615420492858965, "wct_5": 0.004549218527176653, "wct_9": 0.004549218527176653}
+{"query": "Does Transgenderism exist?", "flak": 320.32796248458817, "wct_1": 0.09698592871187257, "wct_5": 0.007404874161806702, "wct_9": 0.007404874161806702}
+{"query": "Should we get rid of paper money?", "flak": 802.0641528409179, "wct_1": 0.32673967322375397, "wct_5": 0.006843566216249447, "wct_9": 0.00433853589532598}
+{"query": "Should we continue researching technologies to extend human life?", "flak": 779.5381419973406, "wct_1": 0.2261674036214931, "wct_5": 0.005779785333104585, "wct_9": 0.005779785333104585}
+{"query": "What criteria can we use to distinguish between knowledge, belief and opinion?", "flak": 1222.7941984857387, "wct_1": 0.5297958483420724, "wct_5": 0.0063885252087387875, "wct_9": 0.0033445781900191844}
+{"query": "Can creativity be enhanced by technology?", "flak": 727.3777918767616, "wct_1": 0.435604062265025, "wct_5": 0.005934719531594999, "wct_9": 0.004788858056904481}
+{"query": "Mark Twain used the N-word in The Adventures of Huckleberry Finn. Should it be censored?", "flak": 1867.1631256983114, "wct_1": 0.7383968532619487, "wct_5": 0.007552370157524418, "wct_9": 0.007552370157524418}
+{"query": "Anything that exists is alive", "flak": 402.3258034035947, "wct_1": 0.09838362882541175, "wct_5": 0.0014783550332463243, "wct_9": 0.0014783550332463243}
+{"query": "What is the best game in the Halo franchise?", "flak": 1199.0752618265005, "wct_1": 0.6069609882168094, "wct_5": 0.006832330478038702, "wct_9": 0.005340917334668778}
+{"query": "Is King Charles III good for the United Kingdom?", "flak": 1014.6332620269978, "wct_1": 0.48107122293428317, "wct_5": 0.004353707866456952, "wct_9": 0.004353707866456952}
+{"query": "Does Mass legal immigration hurt America?", "flak": 743.5892474536287, "wct_1": 0.4361874403703969, "wct_5": 0.004840156702155725, "wct_9": 0.004840156702155725}
+{"query": "Is Having Children Selfish?", "flak": 563.9418017081045, "wct_1": 0.36358610891261484, "wct_5": 0.00655355889640009, "wct_9": 0.00655355889640009}
+{"query": "Was the Earth created in six days by the God of Christianity?", "flak": 972.7906071922886, "wct_1": 0.5006920011950382, "wct_5": 0.00523522323169442, "wct_9": 0.00523522323169442}
+{"query": "Should India take a conciliatory stance with Canada over the alleged murder of Hardeep Singh Nijjar?", "flak": 741.4031002825743, "wct_1": 0.2021393970802497, "wct_5": 0.007883609012339225, "wct_9": 0.007883609012339225}
+{"query": "What is the best method for solving a Rubik's cube?", "flak": 1514.1209368391867, "wct_1": 0.6339950751707853, "wct_5": 0.010943558591140691, "wct_9": 0.007191068359317134}
+{"query": "Is the Collapse of the Silicon Valley Bank the Start of a Banking Crisis?", "flak": 1377.1863078135375, "wct_1": 0.7258360128766682, "wct_5": 0.004850934982906188, "wct_9": 0.004850934982906188}
+{"query": "Which political party is best for the United States of America?", "flak": 972.7638219135447, "wct_1": 0.4718937229788335, "wct_5": 0.007070560867836215, "wct_9": 0.005681110209104999}
+{"query": "Will we ever have world peace?", "flak": 745.564089414945, "wct_1": 0.42417996478982845, "wct_5": 0.004633345622052067, "wct_9": 0.004633345622052067}
+{"query": "What is the meaning of life?", "flak": 552.7877545873436, "wct_1": 0.25255591323078447, "wct_5": 0.005726863516306102, "wct_9": 0.005726863516306102}
+{"query": "Are teacher and student relationships wrong?", "flak": 844.4290950586555, "wct_1": 0.5807169612485042, "wct_5": 0.004195782069325216, "wct_9": 0.004195782069325216}
+{"query": "Should public entities use only open source software?", "flak": 1613.899385673878, "wct_1": 0.839353187884187, "wct_5": 0.003642451834988584, "wct_9": 0.0013853584656281827}
+{"query": "Lottery should be an integral component of democratic political systems", "flak": 725.7730803856527, "wct_1": 0.2244051805657239, "wct_5": 0.004194503334029249, "wct_9": 0.004194503334029249}
+{"query": "Is having children a bad idea in today's times?", "flak": 474.53712745541463, "wct_1": 0.06751380342671218, "wct_5": 0.004351134772526073, "wct_9": 0.004351134772526073}
+{"query": "Should the United States have Universal Basic Income?", "flak": 923.8257788743301, "wct_1": 0.5146498446945154, "wct_5": 0.004849895725602385, "wct_9": 0.004849895725602385}
+{"query": "Does Gender Stereotyping Children Need To Stop?", "flak": 1130.1128643565603, "wct_1": 0.7249599553287288, "wct_5": 0.0048562222746729574, "wct_9": 0.0048562222746729574}
+{"query": "Should zoos be illegal? (excluding rescue zoos)", "flak": 1522.273362880426, "wct_1": 0.7809244507689822, "wct_5": 0.001400188429946085, "wct_9": 0.001400188429946085}
+{"query": "Should all inheritance be seized by the state and auctioned?", "flak": 706.294660796213, "wct_1": 0.39804262534367624, "wct_5": 0.006585673359790764, "wct_9": 0.005140643119368449}
+{"query": "Should the US remove Confederate memorials, flags, and monuments from public spaces?", "flak": 1309.9642645614517, "wct_1": 0.6556117996630729, "wct_5": 0.0034314016634089503, "wct_9": 0.001713249937013983}
+{"query": "Separaci\u00f3n de la iglesia y la escuela en Rep\u00fablica Dominicana.", "flak": 1286.5950504636533, "wct_1": 0.1693414168834544, "wct_5": 0.00625359022958776, "wct_9": 0.00625359022958776}
+{"query": "Is Christian Domestic Discipline right, and is it what the Bible really suggests?", "flak": 779.8544950241956, "wct_1": 0.28061657605913454, "wct_5": 0.006663662516082377, "wct_9": 0.006663662516082377}
+{"query": "Is There A Need For Testing on Lab Animals in Research?", "flak": 789.4171965687993, "wct_1": 0.3249041172829838, "wct_5": 0.0015212960537833772, "wct_9": 0.0015212960537833772}
+{"query": "Is Porn Beneficial?", "flak": 581.7480239715852, "wct_1": 0.623683872677353, "wct_5": 0.002513237281749727, "wct_9": 0.0013380656779129509}
+{"query": "Will Covid19 bring lasting environmental changes?", "flak": 660.4972885814973, "wct_1": 0.5091112404608278, "wct_5": 0.0013916930809519973, "wct_9": 0.0013916930809519973}
+{"query": "Is Saying #AllLivesMatter Instead of #BlackLivesMatter Better?", "flak": 261.3237530019616, "wct_1": 0.04433895303161964, "wct_5": 0.003446111121345197, "wct_9": 0.003446111121345197}
+{"query": "Is transhumanism going to be the next step in human evolution?", "flak": 740.7288458849134, "wct_1": 0.3325181281410768, "wct_5": 0.002026351014979593, "wct_9": 0.002026351014979593}
+{"query": "Should religious education be compulsory in public schools?", "flak": 1482.5368058238164, "wct_1": 0.8985641127398584, "wct_5": 0.0028123262342878478, "wct_9": 0.0014777179235685193}
+{"query": "Should Psychiatrists Be Allowed to Diagnose Trump?", "flak": 776.018549100367, "wct_1": 0.5098099770944412, "wct_5": 0.0032865813699981044, "wct_9": 0.0032865813699981044}
+{"query": "Is Vigilantism Ever Permissible?", "flak": 395.9067971764939, "wct_1": 0.22517139183506704, "wct_5": 0.00305729039718807, "wct_9": 0.00305729039718807}
+{"query": "What is the EU's best strategy to deal with refugees coming from Africa and Near/Middle East?", "flak": 965.033302014676, "wct_1": 0.42033428905158426, "wct_5": 0.0025880286915657236, "wct_9": 0.001595766711662606}
+{"query": "Should there be mandatory schools for parents?", "flak": 731.7737511513658, "wct_1": 0.5152536390249198, "wct_5": 0.004308840052461918, "wct_9": 0.004308840052461918}
+{"query": "Should Quebec become independent?", "flak": 766.0791717238487, "wct_1": 0.5234347260271782, "wct_5": 0.0017483528340497085, "wct_9": 0.0017483528340497085}
+{"query": "The Ethics of Eating Animals: Is Eating Meat Wrong?", "flak": 1803.751712566687, "wct_1": 0.7929756950486082, "wct_5": 0.0026783956715777718, "wct_9": 0.0016344084150378157}
+{"query": "Is Cancel Culture Beneficial to Society?", "flak": 529.3482858956481, "wct_1": 0.2594459932979776, "wct_5": 0.0031134916267541645, "wct_9": 0.0031134916267541645}
+{"query": "All US and EU sanctions imposed on Russia since 2014 should be lifted", "flak": 1637.9740580113312, "wct_1": 0.8437288806835489, "wct_5": 0.009527346344946532, "wct_9": 0.007926147291865472}
+{"query": "Should Trump be impeached and removed from office?", "flak": 1486.5742156149126, "wct_1": 0.9402850763165067, "wct_5": 0.0035758115298539046, "wct_9": 0.0035758115298539046}
+{"query": "Should trans women be allowed to compete in women's sports?", "flak": 1119.9868174269711, "wct_1": 0.41768691863130286, "wct_5": 0.0027718009584434887, "wct_9": 0.0014320115313815544}
+{"query": "Should a license be required in order to have a child (procreate)?", "flak": 754.9014735244418, "wct_1": 0.2820805023259449, "wct_5": 0.004509661687028267, "wct_9": 0.004509661687028267}
+{"query": "Should everyone's wealth and income information be publicly available?", "flak": 872.9786406358569, "wct_1": 0.4777828703079061, "wct_5": 0.002956491302712457, "wct_9": 0.002956491302712457}
+{"query": "In Case Aliens Exist: Should We Say Hello?", "flak": 680.5875110936742, "wct_1": 0.21207045782659437, "wct_5": 0.0014524660280534863, "wct_9": 0.0014524660280534863}
+{"query": "Is deliberately not preventing someone's death ethically equivalent to killing them?", "flak": 610.292021808081, "wct_1": 0.10784145625139718, "wct_5": 0.006325619820799511, "wct_9": 0.006325619820799511}
+{"query": "Should a global curfew be introduced to stop COVID-19?", "flak": 469.5826135188979, "wct_1": 0.12431708853745801, "wct_5": 0.0045808461877034495, "wct_9": 0.0045808461877034495}
+{"query": "Is the state necessary and beneficial to society?", "flak": 544.71440254147, "wct_1": 0.25475524913576775, "wct_5": 0.001666509301303313, "wct_9": 0.001666509301303313}
+{"query": "Homosexuality, should it be legal?", "flak": 956.9622474662398, "wct_1": 0.7626928749091041, "wct_5": 0.005830827874597861, "wct_9": 0.004698460058472405}
+{"query": "Should same-sex marriage be legalised in Australia?", "flak": 2773.775331473087, "wct_1": 0.9946720131322633, "wct_5": 0.011520815558576954, "wct_9": 0.006375021935656838}
+{"query": "An anarchist society is preferable.", "flak": 804.3992685119733, "wct_1": 0.6048047024458983, "wct_5": 0.008322668280821512, "wct_9": 0.004699479785776841}
+{"query": "Should humans prefer cats over dogs?", "flak": 1046.1331810894267, "wct_1": 0.5873995522224071, "wct_5": 0.005908205986230232, "wct_9": 0.005908205986230232}
+{"query": "Periodic lockdowns should be planned as emergency measures to fight climate change", "flak": 1148.3063549827689, "wct_1": 0.704421784261085, "wct_5": 0.004453374463687523, "wct_9": 0.004453374463687523}
+{"query": "What is the best way to learn?", "flak": 718.2718631892695, "wct_1": 0.45909410189296357, "wct_5": 0.006818134009946586, "wct_9": 0.004322841834590878}
+{"query": "Governments should allow people to use education taxes as vouchers for private schools.", "flak": 1611.7155343975924, "wct_1": 0.7268257870370582, "wct_5": 0.008816594976671767, "wct_9": 0.007478825663686832}
+{"query": "Banning semi automatic \"assault style\" rifles will do nothing to reduce gun violence", "flak": 2092.8025831455243, "wct_1": 0.8801492131502883, "wct_5": 0.008794688344497302, "wct_9": 0.007321965193001462}
+{"query": "Would a non-monetary economy be ideal?", "flak": 1012.7420541186768, "wct_1": 0.7381609490424157, "wct_5": 0.004689854648736504, "wct_9": 0.004689854648736504}
+{"query": "Should Hate Speech Be Legally Protected?", "flak": 1195.0968495374946, "wct_1": 0.7460715904466705, "wct_5": 0.007032513559791269, "wct_9": 0.007032513559791269}
+{"query": "Does science justify atheism?", "flak": 751.1619690077634, "wct_1": 0.4501423610755211, "wct_5": 0.00732367045462571, "wct_9": 0.00732367045462571}
+{"query": "Should copyright be abolished?", "flak": 829.0248960155757, "wct_1": 0.6502304706128738, "wct_5": 0.0046444095194795405, "wct_9": 0.0046444095194795405}
+{"query": "Should public displays of affection (PDA) be allowed in middle school and high school?", "flak": 1045.2356664847284, "wct_1": 0.27106814431036275, "wct_5": 0.003959769285165677, "wct_9": 0.003959769285165677}
+{"query": "Does Morality Precede Religion?", "flak": 771.8458950412813, "wct_1": 0.5241441728639211, "wct_5": 0.00607096070077249, "wct_9": 0.00607096070077249}
+{"query": "Should humanity establish colonies on Mars?", "flak": 738.0001906366203, "wct_1": 0.3933948086873673, "wct_5": 0.006873616775939506, "wct_9": 0.005139821576921922}
+{"query": "The Libertarian Solution: Can People Govern Themselves?", "flak": 769.7033324919865, "wct_1": 0.4655325956790514, "wct_5": 0.004761653008058485, "wct_9": 0.004761653008058485}
+{"query": "Promoting ethical businesses is the consumers' job, rather than corporations'", "flak": 942.4606502388226, "wct_1": 0.43125717386943274, "wct_5": 0.0029901352325889374, "wct_9": 0.0029901352325889374}
+{"query": "Should schools require students to learn a second language?", "flak": 1456.8285340591635, "wct_1": 0.8257752102338772, "wct_5": 0.005603770780576047, "wct_9": 0.005603770780576047}
+{"query": "Should graphic warning images be removed from cigarette packaging?", "flak": 1285.8251360245656, "wct_1": 0.5308550675954412, "wct_5": 0.012206651762612675, "wct_9": 0.010179833845055674}
+{"query": "Should Planned Parenthood Be Defunded?", "flak": 1384.2088841585796, "wct_1": 0.905591996286033, "wct_5": 0.01125583651195805, "wct_9": 0.009262668004552404}
+{"query": "Does homophobia originate in gender inequality?", "flak": 1127.9250335459612, "wct_1": 0.8197150032357927, "wct_5": 0.003192956822996395, "wct_9": 0.003192956822996395}
+{"query": "What governing system should Iran adopt?", "flak": 700.6829817312401, "wct_1": 0.28794452759084876, "wct_5": 0.0059862571718718545, "wct_9": 0.004746427461836253}
+{"query": "Who would win in a Deathmatch of all DC superheroes? (Part two)", "flak": 1441.2074089107982, "wct_1": 0.8905854460272571, "wct_5": 0.006585118720548862, "wct_9": 0.004270903447444005}
+{"query": "Coolest superhero power for real life", "flak": 596.8872295725397, "wct_1": 0.3104931283429187, "wct_5": 0.0035629198650133326, "wct_9": 0.0035629198650133326}
+{"query": "The coolest sci-fi weapon is...", "flak": 1185.1534592167554, "wct_1": 0.9177144051266278, "wct_5": 0.004631467299579097, "wct_9": 0.0034542625252306164}
+{"query": "Should scientific studies be available free of charge?", "flak": 769.4188593513478, "wct_1": 0.382835936340676, "wct_5": 0.003030521139361612, "wct_9": 0.003030521139361612}
+{"query": "Who was Jesus of Nazareth?", "flak": 1190.9017262637449, "wct_1": 0.8935465416628338, "wct_5": 0.008593895837037424, "wct_9": 0.003150102757978144}
+{"query": "Should Hasina resign in light of the Bangladesh protests?", "flak": 1269.6615915277375, "wct_1": 0.5560886857684995, "wct_5": 0.009056268396322474, "wct_9": 0.0036980884686527685}
+{"query": "Is Mail-In Voting the Best Way to Vote in US Elections?", "flak": 1420.8301160171216, "wct_1": 0.5986340443437904, "wct_5": 0.0041266867174610455, "wct_9": 0.002816202740433853}
+{"query": "Should scientists be evaluated by the number of their scientific papers and citations?", "flak": 1190.1019628537917, "wct_1": 0.6037916138073662, "wct_5": 0.009242888505241948, "wct_9": 0.0033539725819437686}
+{"query": "Is science political?", "flak": 620.7320195730169, "wct_1": 0.42688154823124574, "wct_5": 0.004652294283337809, "wct_9": 0.0034802266987822893}
+{"query": "What is the purpose of life?", "flak": 452.71816290892275, "wct_1": 0.17778631812605572, "wct_5": 0.0039063893934059134, "wct_9": 0.0029998663762199687}
+{"query": "Is the constitution nearly dead?", "flak": 332.4814008091191, "wct_1": 0.02704989308417204, "wct_5": 0.005625786931523565, "wct_9": 0.00426463861382491}
+{"query": "Did Covid-19 originate from a lab leak?", "flak": 576.7583280907219, "wct_1": 0.25041134152450395, "wct_5": 0.003082319388410618, "wct_9": 0.003082319388410618}
+{"query": "Does it make sense to change India's official name to Bharat?", "flak": 771.2145062910606, "wct_1": 0.46936883831394555, "wct_5": 0.00516823499574983, "wct_9": 0.003549331297511556}
+{"query": "Is Star Citizen a scam?", "flak": 534.788825517477, "wct_1": 0.32198678660490987, "wct_5": 0.0048810173181587715, "wct_9": 0.0048810173181587715}
+{"query": "Should the government provide funding for arts programs?", "flak": 1100.689798763064, "wct_1": 0.7211995307507274, "wct_5": 0.0038482733362145724, "wct_9": 0.0028212386511064697}
+{"query": "Should Private Cars Be Forbidden In Large Cities?", "flak": 470.2814567201891, "wct_1": 0.09487502502544215, "wct_5": 0.0028726490136594587, "wct_9": 0.0028726490136594587}
+{"query": "Is Joe Biden better than Donald Trump?", "flak": 1400.4633747202704, "wct_1": 0.7624507226914193, "wct_5": 0.008736396634738951, "wct_9": 0.005128832205026117}
+{"query": "Would teleportation be beneficial if it existed?", "flak": 620.2836110818965, "wct_1": 0.4073649251771986, "wct_5": 0.004073647112735793, "wct_9": 0.0030384800460031363}
+{"query": "Is Earth flat instead of a sphere?", "flak": 822.2884770449679, "wct_1": 0.5121357722486103, "wct_5": 0.005213350496802423, "wct_9": 0.005213350496802423}
+{"query": "Should plastic water bottles have a five-cent deposit on every bottle?", "flak": 1913.5360976859838, "wct_1": 0.7520316517410465, "wct_5": 0.004986735506183006, "wct_9": 0.004986735506183006}
+{"query": "Should COVID-19 Vaccines be Mandatory?", "flak": 892.8993766425109, "wct_1": 0.7402049648734191, "wct_5": 0.0035462823648276767, "wct_9": 0.0035462823648276767}
+{"query": "Is ChatGPT AGI?", "flak": 0.0, "wct_1": 0.0, "wct_5": 0.0, "wct_9": 0.0}
+{"query": "How can truth be salvaged in an era of post-truth politics?", "flak": 942.0915606414108, "wct_1": 0.16361173582285585, "wct_5": 0.006050696124953932, "wct_9": 0.006050696124953932}
+{"query": "Should the US forgive student loan debt for all?", "flak": 1269.3575069178398, "wct_1": 0.7344253816926242, "wct_5": 0.005493045028080486, "wct_9": 0.005493045028080486}
+{"query": "Should communism be preferred over capitalism?", "flak": 531.4441720493351, "wct_1": 0.15453519943654, "wct_5": 0.003388943643913626, "wct_9": 0.003388943643913626}
+{"query": "Is Mass Immigration into Europe a Positive Thing for Indigenous Europeans?", "flak": 872.345058814048, "wct_1": 0.43561540629843537, "wct_5": 0.007595485683994491, "wct_9": 0.005014939544567222}
+{"query": "Can anything be proven without assumption?", "flak": 633.8286794065797, "wct_1": 0.24952890784264772, "wct_5": 0.005108294413567509, "wct_9": 0.005108294413567509}
+{"query": "Are electric cars bad for the environment?", "flak": 629.1111731782365, "wct_1": 0.27826274037416876, "wct_5": 0.0043204568140883465, "wct_9": 0.0043204568140883465}
+{"query": "Should people marry outside their religious faith?", "flak": 805.3010149319425, "wct_1": 0.4090702582821386, "wct_5": 0.004562138422067771, "wct_9": 0.004562138422067771}
+{"query": "Should hate speech be illegal?", "flak": 851.4504123456538, "wct_1": 0.5754375246731417, "wct_5": 0.006589212909552039, "wct_9": 0.0053948292411374645}
+{"query": "Should School be Mandatory?", "flak": 640.2346214517587, "wct_1": 0.4531821221786187, "wct_5": 0.004645382327257842, "wct_9": 0.004645382327257842}
+{"query": "Does the US need to fix its Patenting System?", "flak": 869.9310401442772, "wct_1": 0.3431669285955777, "wct_5": 0.005518580860503729, "wct_9": 0.004415403353615588}
+{"query": "Are video games the best source of entertainment?", "flak": 1205.6029501383407, "wct_1": 0.7195103198127948, "wct_5": 0.006081197829636778, "wct_9": 0.004100476693951171}
+{"query": "Should Australia become a republic?", "flak": 595.8268913461258, "wct_1": 0.2766774485959203, "wct_5": 0.009214550699796594, "wct_9": 0.005644425665368556}
+{"query": "Should the US continue to support ukraine?", "flak": 686.9347417779848, "wct_1": 0.38565633644852815, "wct_5": 0.005467159760565223, "wct_9": 0.004400501230255897}
+{"query": "Are the Rules of the US Criminal Justice System Fair?", "flak": 1144.6534655753867, "wct_1": 0.7706013118822482, "wct_5": 0.004037604434863806, "wct_9": 0.00294227454468498}
+{"query": "Should churches pay tax?", "flak": 1074.2403142744724, "wct_1": 0.8212704209289623, "wct_5": 0.0044127008503257155, "wct_9": 0.0044127008503257155}
+{"query": "Should Ukraine surrender in order to save lives?", "flak": 440.4042722672983, "wct_1": 0.04920939274581684, "wct_5": 0.004711744813758423, "wct_9": 0.004711744813758423}
+{"query": "Should American Football Be Banned?", "flak": 544.1059139811183, "wct_1": 0.20710285088463026, "wct_5": 0.0055549069331349964, "wct_9": 0.004557678813454679}
+{"query": "Should sensitive social and political topics be discussed in school?", "flak": 899.8670418065541, "wct_1": 0.44141564111458503, "wct_5": 0.002974725452894226, "wct_9": 0.002974725452894226}
+{"query": "Social media sites should prioritise posts and accounts that raise awareness on the Israel Palestine conflict.", "flak": 1167.1097044064345, "wct_1": 0.4711943530387945, "wct_5": 0.004820419252873438, "wct_9": 0.004820419252873438}
+{"query": "The fewer languages there are, the better the world is.", "flak": 512.2747637242658, "wct_1": 0.19332216794591686, "wct_5": 0.005695987346224894, "wct_9": 0.0045755190471268165}
+{"query": "Is Science Akin To Religion?", "flak": 534.1613060439682, "wct_1": 0.21582586045091032, "wct_5": 0.0029488382990895683, "wct_9": 0.0029488382990895683}
+{"query": "Are we becoming increasingly more intelligent than previous generations?", "flak": 719.5255772106322, "wct_1": 0.2014848285471339, "wct_5": 0.004603796778103344, "wct_9": 0.004603796778103344}
+{"query": "Which one is more accurate: Rationalism or Empiricism?", "flak": 753.4353816049171, "wct_1": 0.38516561577398994, "wct_5": 0.0036764408829998356, "wct_9": 0.0036764408829998356}
+{"query": "Should Election Campaigns only be Funded by the Government?", "flak": 804.6840602175539, "wct_1": 0.3298726567929433, "wct_5": 0.003056410734262646, "wct_9": 0.003056410734262646}
+{"query": "How heavily should governments enforce regulations?", "flak": 1007.8863511844918, "wct_1": 0.6698137728202445, "wct_5": 0.0045572479058606594, "wct_9": 0.0045572479058606594}
+{"query": "Should China pay reparations for the spread of coronavirus?", "flak": 708.9435291354771, "wct_1": 0.3844840296004376, "wct_5": 0.003433511643217856, "wct_9": 0.003433511643217856}
+{"query": "What degree of mathematical knowledge is needed for a member of modern society?", "flak": 854.2163084713674, "wct_1": 0.36187662164540685, "wct_5": 0.0029663410042094, "wct_9": 0.0029663410042094}
+{"query": "Transparent AI", "flak": 640.6820213390178, "wct_1": 0.5027387465986309, "wct_5": 0.003329871617658338, "wct_9": 0.003329871617658338}
+{"query": "Is the principle of pet ownership vegan?", "flak": 673.6420860517912, "wct_1": 0.45879941567506743, "wct_5": 0.0033412730483137693, "wct_9": 0.0033412730483137693}
+{"query": "Are Jehovah's Witnesses the Most Accurate Church?", "flak": 1722.6188590547001, "wct_1": 0.959507187371911, "wct_5": 0.0053617047704272325, "wct_9": 0.0028338689143582218}
+{"query": "Should The Constitution Be Redrafted And Rewritten?", "flak": 567.699951493661, "wct_1": 0.30732403384451334, "wct_5": 0.0035163265475172197, "wct_9": 0.0035163265475172197}
+{"query": "Should Neopronouns be officially integrated into the English language?", "flak": 999.4044199833806, "wct_1": 0.6818149946774376, "wct_5": 0.003900072000869095, "wct_9": 0.0027657989589047376}
+{"query": "Does Pastafarianism deserve the same rights as other religions?", "flak": 470.64016870672504, "wct_1": 0.06860084247481629, "wct_5": 0.006743785263254741, "wct_9": 0.0050624815869486015}
+{"query": "Is killing vampires immoral?", "flak": 819.330685323698, "wct_1": 0.6298869204481501, "wct_5": 0.002725205570477285, "wct_9": 0.002725205570477285}
+{"query": "Should Western nations roll back all personnel and aid from Niger following the coup?", "flak": 844.1135783573905, "wct_1": 0.344155685280515, "wct_5": 0.0066147023334221615, "wct_9": 0.003113906450177724}
+{"query": "Are corporate mergers and acquisitions not beneficial to society?", "flak": 1019.8763182112608, "wct_1": 0.6291014188348535, "wct_5": 0.004091899578622544, "wct_9": 0.0029956152481603483}
+{"query": "Was Trump a good president?", "flak": 1091.67625161917, "wct_1": 0.9369330964351259, "wct_5": 0.0038720136596750573, "wct_9": 0.0026874228220112478}
+{"query": "Will cryptocurrencies replace fiat currencies?", "flak": 1124.2564024515173, "wct_1": 0.5604930660137997, "wct_5": 0.00832065847622151, "wct_9": 0.004078653028575542}
+{"query": "Is sex with no emotional attachment good for your mind?", "flak": 703.5241104135133, "wct_1": 0.2639787327652642, "wct_5": 0.003057837556241261, "wct_9": 0.003057837556241261}
+{"query": "Should Weed be legalized", "flak": 572.4105797443899, "wct_1": 0.3567799853189857, "wct_5": 0.003264259169126113, "wct_9": 0.003264259169126113}
+{"query": "Does society benefit from religious belief and practice?", "flak": 1269.6555370716758, "wct_1": 0.7238529510462646, "wct_5": 0.004133344509030211, "wct_9": 0.0029639555693502604}
+{"query": "Is it ethical to design and build weapons of war?", "flak": 587.6386826684211, "wct_1": 0.22651760682506863, "wct_5": 0.0026262512695729794, "wct_9": 0.0026262512695729794}
+{"query": "Should all forms of circumcision of minors be banned?", "flak": 870.4135794147935, "wct_1": 0.4547635111059661, "wct_5": 0.006485004734216449, "wct_9": 0.0035347398207043147}
+{"query": "Should we adopt a universal language?", "flak": 626.8244537553479, "wct_1": 0.26477629374499506, "wct_5": 0.004176099443060346, "wct_9": 0.0030789717325741734}
+{"query": "Are modern democracies destined to fail due to their inherent weaknesses?", "flak": 554.1285838058016, "wct_1": 0.17955155779527235, "wct_5": 0.003182031809009084, "wct_9": 0.003182031809009084}
+{"query": "Should People in Positions of Authority Resign When Accused of Sexual Assault?", "flak": 1109.9261268148466, "wct_1": 0.5951890487537475, "wct_5": 0.004188143123947398, "wct_9": 0.0030511936051080824}
+{"query": "Should Teachers Be Allowed To Wear Religious Symbols At School?", "flak": 879.9512722307632, "wct_1": 0.374090223418012, "wct_5": 0.0052644576539538895, "wct_9": 0.0052644576539538895}
+{"query": "The Republic of Ireland should maintain its status of being a militarily neutral country.", "flak": 890.2541361838186, "wct_1": 0.3459315398023842, "wct_5": 0.003011802524631526, "wct_9": 0.003011802524631526}
+{"query": "Is standardized testing an effective measure of student learning in schools?", "flak": 1630.7844633405591, "wct_1": 0.8955156938901944, "wct_5": 0.003046320260561609, "wct_9": 0.003046320260561609}
+{"query": "What is the biggest concern of climate change?", "flak": 1047.67124248857, "wct_1": 0.7654003200559711, "wct_5": 0.003014775922444722, "wct_9": 0.003014775922444722}
+{"query": "Should high-income countries take in refugees?", "flak": 797.393562902413, "wct_1": 0.4594957808387999, "wct_5": 0.0029937184383617326, "wct_9": 0.0029937184383617326}
+{"query": "Bruciare i libri sacri", "flak": 359.240004820768, "wct_1": 0.07443179093123399, "wct_5": 0.004043368116864124, "wct_9": 0.004043368116864124}
+{"query": "Would Kamala Harris be a good replacement for Biden?", "flak": 675.9298833590868, "wct_1": 0.38813491564559643, "wct_5": 0.004375132153301894, "wct_9": 0.003437547936624014}
+{"query": "La Uni\u00f3n Europea deber\u00eda convertirse en los Estados Unidos de Europa", "flak": 836.4017761628827, "wct_1": 0.14610819742605619, "wct_5": 0.004051537637714151, "wct_9": 0.004051537637714151}
+{"query": "Does Islam show miraculous signs of the divine reality?", "flak": 643.2604517283231, "wct_1": 0.26492437636472, "wct_5": 0.006575424432258635, "wct_9": 0.004494760298322656}
+{"query": "The age restriction on being able to run for president should be lowered.", "flak": 519.0576726060259, "wct_1": 0.0818513757790804, "wct_5": 0.002922639781353109, "wct_9": 0.002922639781353109}
+{"query": "Is Western culture superior to other cultures?", "flak": 683.7101982148564, "wct_1": 0.11393228365329021, "wct_5": 0.0028713090907979168, "wct_9": 0.0028713090907979168}
+{"query": "Is stealing ever acceptable?", "flak": 404.74860819261977, "wct_1": 0.13003561667826488, "wct_5": 0.002711126151925792, "wct_9": 0.002711126151925792}
+{"query": "Are Ghosts Real?", "flak": 468.7674745917854, "wct_1": 0.13046882908392057, "wct_5": 0.0055087782531158605, "wct_9": 0.0055087782531158605}
+{"query": "Should Dogs Be Banned In Cities?", "flak": 627.0476107613981, "wct_1": 0.2850123245729744, "wct_5": 0.004662451298261919, "wct_9": 0.004662451298261919}
+{"query": "Should TV shows/movies be realistic to real life?", "flak": 764.9579785276848, "wct_1": 0.201697936479656, "wct_5": 0.004461868379582343, "wct_9": 0.004461868379582343}
+{"query": "Is face to face learning better than online?", "flak": 852.0262302192198, "wct_1": 0.3009098698069224, "wct_5": 0.003192507907964433, "wct_9": 0.003192507907964433}
+{"query": "What color can be considered 'Nothing'?", "flak": 574.4329382532757, "wct_1": 0.19345611131102267, "wct_5": 0.0029182991949875084, "wct_9": 0.0014883495822689942}
+{"query": "Should investors incorporate climate change in their decisions", "flak": 1010.124801748173, "wct_1": 0.6904053369139558, "wct_5": 0.005280864399225206, "wct_9": 0.00301078700234759}
+{"query": "Are women too anxious about the world or is the world too dangerous for women?", "flak": 750.6454392858417, "wct_1": 0.03837059692440251, "wct_5": 0.0038617858917026704, "wct_9": 0.002893102474258167}
+{"query": "Should University professors focus on helping failing students?", "flak": 599.9311692052846, "wct_1": 0.0857790495538502, "wct_5": 0.004056427521308669, "wct_9": 0.004056427521308669}
+{"query": "Personal data monetisation", "flak": 514.5361005162143, "wct_1": 0.22851621475596284, "wct_5": 0.006858659670527471, "wct_9": 0.006858659670527471}
+{"query": "Which hero from any myth or fandom would win in a last entity standing free for all fight?", "flak": 642.973922368433, "wct_1": 0.11477712843577095, "wct_5": 0.0028217096401305037, "wct_9": 0.0028217096401305037}
+{"query": "Can teaching textbooks be replaced by online resources?", "flak": 834.7941905120053, "wct_1": 0.44560055951056293, "wct_5": 0.005033278375825136, "wct_9": 0.005033278375825136}
+{"query": "Should we allow the state to discriminate based on race? (CA Prop 16, Repeal Prop 209 Affirmative Action Amendment)", "flak": 1338.3237168339685, "wct_1": 0.41619983097948854, "wct_5": 0.005092971612892263, "wct_9": 0.005092971612892263}
+{"query": "Die Klimakrise ist da und l\u00e4sst uns nicht mehr viel Zeit. Wie kommt man am schnellsten und sichersten weg von der fossilen hin zu einer CO2 neutralen Energiegewinnung?", "flak": 1763.5960580804256, "wct_1": 0.2058211388538651, "wct_5": 0.007358667225276759, "wct_9": 0.007358667225276759}
+{"query": "What is the relationship between God's sovereignty and man's free will?", "flak": 918.4787220651847, "wct_1": 0.4706094243030795, "wct_5": 0.004937506775221631, "wct_9": 0.004937506775221631}
+{"query": "Are American suburbs harmful?", "flak": 336.50545553831944, "wct_1": 0.05846745706327183, "wct_5": 0.004261737088480183, "wct_9": 0.004261737088480183}
+{"query": "Are Latter-day Saints (aka Mormons) Christian?", "flak": 2951.6894606746546, "wct_1": 1.0, "wct_5": 0.008088731001559867, "wct_9": 0.004309500673602431}
+{"query": "Does the Bible say that abortion is wrong?", "flak": 838.0217463749665, "wct_1": 0.45902852083046725, "wct_5": 0.006640704995897962, "wct_9": 0.005309920266566388}
+{"query": "Should the United States federal government should substantially increase its military presence in the Arctic?", "flak": 1241.0525040565076, "wct_1": 0.4551626126561098, "wct_5": 0.01212212552281954, "wct_9": 0.003999778234216385}
+{"query": "Should the NHS be privatised?", "flak": 814.3254521289372, "wct_1": 0.6667184520696757, "wct_5": 0.005552457359658572, "wct_9": 0.005552457359658572}
+{"query": "Should gender and sexuality topics be discussed in public schools?", "flak": 1410.3793975332921, "wct_1": 0.8276025516167609, "wct_5": 0.00470573694878889, "wct_9": 0.00470573694878889}
+{"query": "Should HBO reboot Harry Potter?", "flak": 1147.136433635579, "wct_1": 0.7559784589408358, "wct_5": 0.004142557721947321, "wct_9": 0.004142557721947321}
+{"query": "Is Fascism a moral good?", "flak": 585.7725999705652, "wct_1": 0.28842711458129755, "wct_5": 0.005853482939020471, "wct_9": 0.0030780141181673327}
+{"query": "Mankind is endowed by their creator with certain inalienable rights", "flak": 773.2773120815416, "wct_1": 0.3700073659086644, "wct_5": 0.007685434561546539, "wct_9": 0.007685434561546539}
+{"query": "What Defines a 'True' Follower of a Religion?", "flak": 812.1904042173466, "wct_1": 0.5215299872671502, "wct_5": 0.005749541392585609, "wct_9": 0.0045358008934308115}
+{"query": "There should be a 5 pound/dollar fine every time you drive.", "flak": 892.8437998171644, "wct_1": 0.2693233784124118, "wct_5": 0.014049041597485622, "wct_9": 0.004371482595761432}
+{"query": "Is Religious Indoctrination of Children Abuse?", "flak": 697.0336029333304, "wct_1": 0.34338948699746474, "wct_5": 0.005636421994043479, "wct_9": 0.005636421994043479}
+{"query": "Should Cinco de Mayo be celebrated in the US?", "flak": 975.5025603135313, "wct_1": 0.5015719269834796, "wct_5": 0.007428613298288339, "wct_9": 0.007428613298288339}
+{"query": "Sortition is Better than Representation", "flak": 294.5060288367933, "wct_1": 0.08327571383604247, "wct_5": 0.0052103201779014775, "wct_9": 0.0052103201779014775}
+{"query": "Do Statements Exist That Are Both True and False?", "flak": 1344.5187594166048, "wct_1": 0.7966390929448396, "wct_5": 0.006083336207616243, "wct_9": 0.004951459477217094}
+{"query": "Do Humanities have less value than Natural Sciences?", "flak": 830.8142139189961, "wct_1": 0.28885661106364735, "wct_5": 0.0014207712872361478, "wct_9": 0.0014207712872361478}
+{"query": "Should Esperanto be adopted internationally?", "flak": 970.7422820156681, "wct_1": 0.6777906826283553, "wct_5": 0.0034411192036508304, "wct_9": 0.0034411192036508304}
+{"query": "Was the American Civil War (1861-65) mainly about slavery?", "flak": 1254.8251166290552, "wct_1": 0.6000642749791582, "wct_5": 0.004435399863410441, "wct_9": 0.003027716538442677}
+{"query": "Do we need nuclear power for sustainable energy production?", "flak": 1652.2253687805114, "wct_1": 0.9191262496395257, "wct_5": 0.0030519224776968594, "wct_9": 0.0030519224776968594}
+{"query": "Should Macron resign following the nationwide protests in 2023?", "flak": 689.0219978604785, "wct_1": 0.2759258014388623, "wct_5": 0.0033851774722425776, "wct_9": 0.0033851774722425776}
+{"query": "Mary has supernaturally appeared to people.", "flak": 591.4286002418896, "wct_1": 0.23913017733550057, "wct_5": 0.004115365862060529, "wct_9": 0.0030789348518484782}
+{"query": "Should Asia form a union similar to the EU?", "flak": 1141.8099326565728, "wct_1": 0.8583894479831881, "wct_5": 0.0042668086430474655, "wct_9": 0.0042668086430474655}
+{"query": "What is the best Disney TV show?", "flak": 870.2293976781616, "wct_1": 0.42984822416491314, "wct_5": 0.005605253109385079, "wct_9": 0.005605253109385079}
+{"query": "Should Turkey acknowledge the Armenian genocide?", "flak": 2086.0273958766306, "wct_1": 0.979761561362529, "wct_5": 0.005858994891648084, "wct_9": 0.0047518975315596615}
+{"query": "Should we judge the quality of artwork based on the conduct of the artist?", "flak": 689.9690248813621, "wct_1": 0.21369683651717644, "wct_5": 0.002915690984764656, "wct_9": 0.002915690984764656}
+{"query": "Logical Fallacies can be used to make a point.", "flak": 1120.834437600006, "wct_1": 0.5741669653902669, "wct_5": 0.0034735446612694783, "wct_9": 0.0034735446612694783}
+{"query": "Can the Earth be Under 10,000 Years Old?", "flak": 544.0396940255953, "wct_1": 0.12661690416633206, "wct_5": 0.007512021260100939, "wct_9": 0.0063894113070671445}
+{"query": "Is Alcoholism a Disease?", "flak": 899.9370990867386, "wct_1": 0.7234049372501945, "wct_5": 0.008397256143948406, "wct_9": 0.0015134744673726028}
+{"query": "Could Hitler have won World War 2?", "flak": 893.5040159370873, "wct_1": 0.5465070634031396, "wct_5": 0.004249000716180456, "wct_9": 0.004249000716180456}
+{"query": "Should employers be legally allowed to fire employees because of their social media activity?", "flak": 1391.6578878597254, "wct_1": 0.7487071812000929, "wct_5": 0.008062780851294077, "wct_9": 0.006574198873483752}
+{"query": "Should the Primary Focus of Prisons be Rehabilitation, or Punishment?", "flak": 1047.7907076572865, "wct_1": 0.7267165829926316, "wct_5": 0.003760969177403059, "wct_9": 0.003760969177403059}
+{"query": "Should America adopt the Popularity Contest voting system, instead of single vote?", "flak": 1443.4426005618357, "wct_1": 0.5847318060425966, "wct_5": 0.0043110917979322025, "wct_9": 0.0043110917979322025}
+{"query": "Do all or most White Americans experience privilege?", "flak": 668.6008197556981, "wct_1": 0.272429534378328, "wct_5": 0.004503196668133018, "wct_9": 0.0034499526632321273}
+{"query": "Is it unethical to declaw a cat?", "flak": 504.93224888457354, "wct_1": 0.19652034836398347, "wct_5": 0.005529806551905979, "wct_9": 0.005529806551905979}
+{"query": "Should every country be ethno-nationalist?", "flak": 528.4868087968969, "wct_1": 0.16855801082629276, "wct_5": 0.004988007251922734, "wct_9": 0.004988007251922734}
+{"query": "Is Cloning Humans Ethical?", "flak": 1005.1255125311186, "wct_1": 0.7431056239764989, "wct_5": 0.01165622181488736, "wct_9": 0.003804729851559836}
+{"query": "The US should adopt a carbon fee and dividend plan to address the primary cause of climate change.", "flak": 1731.5644731505863, "wct_1": 0.8163122051861977, "wct_5": 0.011755455637731806, "wct_9": 0.0076873565613687364}
+{"query": "Should physical libraries be digitized?", "flak": 1044.077725810707, "wct_1": 0.8111120757763264, "wct_5": 0.0070692964422745955, "wct_9": 0.0070692964422745955}
+{"query": "Should the US stop trying to force North Korea to abandon its nuclear program?", "flak": 1883.8954984672039, "wct_1": 0.8931353931694522, "wct_5": 0.0018947127055600503, "wct_9": 0.0018947127055600503}
+{"query": "Would capitalism abolish democracy?", "flak": 746.8635928920369, "wct_1": 0.4597460753123249, "wct_5": 0.006526670497252831, "wct_9": 0.006526670497252831}
+{"query": "Is having police officers in schools a good idea?", "flak": 709.917978578332, "wct_1": 0.26556428924903663, "wct_5": 0.006728531973901171, "wct_9": 0.005737161040969662}
+{"query": "Was Covid-19 more dangerous than regular flu viruses?", "flak": 1115.1959727437775, "wct_1": 0.6262320034694782, "wct_5": 0.010276214538506604, "wct_9": 0.007748965808164}
+{"query": "Does the United States Need a Strong Third Political Party For Moderates?", "flak": 1138.46502720263, "wct_1": 0.5835560036421424, "wct_5": 0.0069313698493969084, "wct_9": 0.005917055748540792}
+{"query": "How should Cascadia's borders be defined?", "flak": 519.6009371882915, "wct_1": 0.11662606344088118, "wct_5": 0.006477198606360132, "wct_9": 0.006477198606360132}
+{"query": "Is discipline necessary in education?", "flak": 632.3606435282333, "wct_1": 0.4463457289046259, "wct_5": 0.006141852376816062, "wct_9": 0.006141852376816062}
+{"query": "The Vegan Alternative: Pain-free GM Animals?", "flak": 979.1288400347619, "wct_1": 0.6279974979000026, "wct_5": 0.0069851171806691705, "wct_9": 0.0069851171806691705}
+{"query": "Is it ethically preferable to save a child over an adult?", "flak": 497.76922120613864, "wct_1": 0.08094695696933313, "wct_5": 0.004458788044463735, "wct_9": 0.004458788044463735}
+{"query": "Is Spanking a Child Abusive?", "flak": 916.742498700879, "wct_1": 0.5423604263303488, "wct_5": 0.003863212997718433, "wct_9": 0.003863212997718433}
+{"query": "Does Hell Exist?", "flak": 508.7967569003821, "wct_1": 0.19860094240452758, "wct_5": 0.006700976141909215, "wct_9": 0.006700976141909215}
+{"query": "What is the best measure to decrease climate change?", "flak": 1076.0174979465355, "wct_1": 0.6815234697594355, "wct_5": 0.006332778297589183, "wct_9": 0.006332778297589183}
+{"query": "Is Wikipedia a reliable source of information?", "flak": 1158.2411957412771, "wct_1": 0.7273329739400879, "wct_5": 0.008351932780514403, "wct_9": 0.008351932780514403}
+{"query": "Are programs like Alcoholics Anonymous the best way to battle addiction?", "flak": 1405.3403211302887, "wct_1": 0.7409838595113352, "wct_5": 0.0070651426444793, "wct_9": 0.0036338970986032016}
+{"query": "Should governments make an effort to reduce the gender pay gap?", "flak": 1155.6878518989101, "wct_1": 0.5589644099242308, "wct_5": 0.010049164696200198, "wct_9": 0.0071824615985122365}
+{"query": "How can prejudice against minority sexual orientations and gender identities be reduced?", "flak": 2901.6428395190082, "wct_1": 0.9915453657339288, "wct_5": 0.007612648994525381, "wct_9": 0.006193889471132238}
+{"query": "Is the Adam and Eve story scientifically plausible?", "flak": 873.2266206936147, "wct_1": 0.5233556408812995, "wct_5": 0.007797159405964516, "wct_9": 0.006550595482318035}
+{"query": "Should the death penalty be implemented for terrorism?", "flak": 1005.3944099897669, "wct_1": 0.6299018191265379, "wct_5": 0.008712319306890554, "wct_9": 0.006282109883844503}
+{"query": "Is skateboarding a sport?", "flak": 937.7068695862847, "wct_1": 0.8957801515668207, "wct_5": 0.0098123521785238, "wct_9": 0.006045882782505098}
+{"query": "The Greek Airforce is amongst the best in the world", "flak": 451.88105952227767, "wct_1": 0.14945255602262789, "wct_5": 0.004541573736041707, "wct_9": 0.004541573736041707}
+{"query": "Were the Tokyo and Nuremberg trials victor's justice?", "flak": 1306.864085802922, "wct_1": 0.7549761158374743, "wct_5": 0.01505782310064162, "wct_9": 0.008253449951706779}
+{"query": "Should Puerto Rico become an American State", "flak": 2361.7890962243837, "wct_1": 0.997063980085607, "wct_5": 0.004886653858767287, "wct_9": 0.0027499155948798987}
+{"query": "Presidential debates should include writing prompts.", "flak": 808.2702823259525, "wct_1": 0.475756847117403, "wct_5": 0.006193089331969697, "wct_9": 0.006193089331969697}
+{"query": "Hierarchy is a social structure designed to maintain order in a system.", "flak": 990.7451397890626, "wct_1": 0.5569551240838709, "wct_5": 0.005332189646427431, "wct_9": 0.0032117808518206084}
+{"query": "Gardens do not need chemicals.", "flak": 536.9599228372821, "wct_1": 0.24299989191449506, "wct_5": 0.0029540332565625924, "wct_9": 0.0029540332565625924}
+{"query": "Should cyberbullying be criminalized?", "flak": 667.1380630676263, "wct_1": 0.37516793564288686, "wct_5": 0.0038166463999875183, "wct_9": 0.0038166463999875183}
+{"query": "Should Keybase team names be locked?", "flak": 166.3953802708036, "wct_1": 0.014456247789430943, "wct_5": 0.004422088292455288, "wct_9": 0.004422088292455288}
+{"query": "Should creators of movies and TV shows cater to their fans?", "flak": 791.2868720884272, "wct_1": 0.2832516544369994, "wct_5": 0.0044789987458388894, "wct_9": 0.0030383337647809}
+{"query": "There are no health risks of using a 5G cellular mobile phone.", "flak": 1456.0640756042767, "wct_1": 0.8287275308992238, "wct_5": 0.0033164218646577074, "wct_9": 0.0033164218646577074}
+{"query": "Keeping secrets is unethical", "flak": 426.012482437824, "wct_1": 0.11647440259177551, "wct_5": 0.007932434247467129, "wct_9": 0.007932434247467129}
+{"query": "Will women hold almost all economical and political power in the future?", "flak": 809.7752676302259, "wct_1": 0.3261662752222323, "wct_5": 0.002954349972777877, "wct_9": 0.0015120606672368658}
+{"query": "What are the ethics of Totalitarianism?", "flak": 572.0333899958083, "wct_1": 0.2936867652559602, "wct_5": 0.005015011793927031, "wct_9": 0.005015011793927031}
+{"query": "Should there be One World State?", "flak": 391.023120523405, "wct_1": 0.07290948510161287, "wct_5": 0.0038048311564244427, "wct_9": 0.0026315495276810494}
+{"query": "Should Aborting a Disabled Child Be Legal?", "flak": 1458.6755378214782, "wct_1": 0.8742306997431916, "wct_5": 0.004808873295554393, "wct_9": 0.003247881551341734}
+{"query": "Tourism to North Korea should be banned.", "flak": 887.9363785680208, "wct_1": 0.6291325934111026, "wct_5": 0.00315015215769662, "wct_9": 0.00315015215769662}
+{"query": "Does the Wagner insurrection spell the end for Putin?", "flak": 592.0149561892042, "wct_1": 0.2576419357116361, "wct_5": 0.006126664634302727, "wct_9": 0.006126664634302727}
+{"query": "Has New Atheism been a failure?", "flak": 641.7396643599699, "wct_1": 0.43800345312715055, "wct_5": 0.004691983991757919, "wct_9": 0.0031850015332285874}
+{"query": "The existence of Santa Claus", "flak": 1425.6674738210224, "wct_1": 0.9640618471290625, "wct_5": 0.005544949112502551, "wct_9": 0.0030990608279843302}
+{"query": "Angenommen es gibt einen liebenden, allm\u00e4chtigen Gott. Warum gibt es dann Leid auf der Welt?", "flak": 918.3548868838654, "wct_1": 0.1228813146157107, "wct_5": 0.0057206901210339195, "wct_9": 0.0057206901210339195}
+{"query": "Kialo should separate voting into relevance and veracity of claim.", "flak": 514.6533119881057, "wct_1": 0.1097830378341456, "wct_5": 0.0030053273921017594, "wct_9": 0.0030053273921017594}
+{"query": "Should birth control be free?", "flak": 695.7658914632403, "wct_1": 0.4693201915071983, "wct_5": 0.0031914986271521697, "wct_9": 0.0031914986271521697}
+{"query": "Should China, Pakistan, Bangladesh, Nepal, and India become united?", "flak": 2277.378848103906, "wct_1": 0.9466631852505414, "wct_5": 0.007013045328252428, "wct_9": 0.005844651373800996}
+{"query": "Should President Biden forgive all U.S student debt?", "flak": 1160.7108909117449, "wct_1": 0.578174331806961, "wct_5": 0.004940342869009563, "wct_9": 0.003327805167234243}
+{"query": "Are farmers paid enough for their work?", "flak": 614.5479111577105, "wct_1": 0.304638215132293, "wct_5": 0.008088209861323352, "wct_9": 0.008088209861323352}
+{"query": "Should We Increase the Number of Votes For People Who Pay More Taxes?", "flak": 1308.640899526664, "wct_1": 0.6862075746127828, "wct_5": 0.006407222040054939, "wct_9": 0.006407222040054939}
+{"query": "Menstrual Products Should Be Free", "flak": 591.686741655411, "wct_1": 0.3240048270756645, "wct_5": 0.009494232250408106, "wct_9": 0.007598238584380138}
+{"query": "Who is the Superest Hero?", "flak": 116.33442603611196, "wct_1": 0.008813263418793155, "wct_5": 0.0062718764170265895, "wct_9": 0.0062718764170265895}
+{"query": "Should We Ban Symbols of Communist Regimes?", "flak": 838.3688530688212, "wct_1": 0.3823017729552546, "wct_5": 0.0034470986713119917, "wct_9": 0.0034470986713119917}
+{"query": "Should shame have a place in a properly functioning society?", "flak": 574.1760710851579, "wct_1": 0.10884488841152805, "wct_5": 0.006172083295582964, "wct_9": 0.006172083295582964}
+{"query": "Is globalisation good?", "flak": 557.9926706570866, "wct_1": 0.6168984378572868, "wct_5": 0.003992711581772972, "wct_9": 0.003992711581772972}
+{"query": "Les solutions de lutte contre le d\u00e9r\u00e8glement climatique.", "flak": 810.6978996791374, "wct_1": 0.11736436470428123, "wct_5": 0.010078335274750078, "wct_9": 0.010078335274750078}
+{"query": "Should life skills be taught in K12 school?", "flak": 745.5693470858162, "wct_1": 0.24922600088453772, "wct_5": 0.010666389121805595, "wct_9": 0.009572782810165078}
+{"query": "Is traveling worthwhile?", "flak": 412.05980354572307, "wct_1": 0.12573084493638817, "wct_5": 0.0065510654472098985, "wct_9": 0.0065510654472098985}
+{"query": "What is the problem with religion?", "flak": 587.0196973026142, "wct_1": 0.35862993680151517, "wct_5": 0.007448753010563054, "wct_9": 0.007448753010563054}
+{"query": "Is Pornography Art?", "flak": 861.6249763828066, "wct_1": 0.8552924715099532, "wct_5": 0.008814974824381061, "wct_9": 0.007414093497101713}
+{"query": "Should Steroid Use in Sports Be Allowed?", "flak": 958.7590536992816, "wct_1": 0.6599065725600068, "wct_5": 0.0065878867800798, "wct_9": 0.0065878867800798}
+{"query": "Should citizens have the ability to allocate a portion of their federal income taxes to specific budget items?", "flak": 1997.335719196576, "wct_1": 0.8650559090387414, "wct_5": 0.006012056223758648, "wct_9": 0.006012056223758648}
+{"query": "How should the US government make better contributions towards science?", "flak": 709.3026369638159, "wct_1": 0.16275615891225753, "wct_5": 0.005288954940837116, "wct_9": 0.0043286157245292995}
+{"query": "Can evolutionary ethics provide a sufficient explanation of our moral experience?", "flak": 1350.9819451213627, "wct_1": 0.7279062090716353, "wct_5": 0.007235450930471827, "wct_9": 0.007235450930471827}
+{"query": "Is taxation theft?", "flak": 662.2386964510142, "wct_1": 0.6230318783507135, "wct_5": 0.009603834601457474, "wct_9": 0.007904337276154883}
+{"query": "Should scientists contribute to Wikipedia?", "flak": 1053.974463567046, "wct_1": 0.8445839116944556, "wct_5": 0.00702302156212978, "wct_9": 0.00702302156212978}
+{"query": "Should we use calculators in every math class?", "flak": 873.4253097188055, "wct_1": 0.3743978357614481, "wct_5": 0.007861272804957955, "wct_9": 0.007861272804957955}
+{"query": "Should STEM Degrees Be Free?", "flak": 475.4816783665254, "wct_1": 0.1553111923940453, "wct_5": 0.006214219179474424, "wct_9": 0.006214219179474424}
+{"query": "Capitalism v Socialism", "flak": 552.8245864226778, "wct_1": 0.297750316144756, "wct_5": 0.004221060779082515, "wct_9": 0.004221060779082515}
+{"query": "Mitigating the risk of extinction from AI should be a global priority alongside risks such as pandemics and nuclear war", "flak": 1359.320467577366, "wct_1": 0.39317366680980587, "wct_5": 0.008889946232814486, "wct_9": 0.007507472288702613}
+{"query": "Bitcoin will become global reserve currency", "flak": 1227.9741539122754, "wct_1": 0.7760485880947995, "wct_5": 0.005290500259131605, "wct_9": 0.005290500259131605}
+{"query": "Is it unethical to use ad-blockers?", "flak": 554.69299650525, "wct_1": 0.3312131640006029, "wct_5": 0.006612820761917073, "wct_9": 0.006612820761917073}
+{"query": "Did Frank D. Roosevelt save capitalism?", "flak": 1081.3136366710416, "wct_1": 0.7834553293129303, "wct_5": 0.006613664709328682, "wct_9": 0.0043957434665556575}
+{"query": "Is the minimum wage good for the economy overall?", "flak": 1631.1330994675332, "wct_1": 0.9528277863973899, "wct_5": 0.0046471138134265575, "wct_9": 0.0031418668866009863}
+{"query": "Which Anime Is the Best and Why?", "flak": 487.44068046686243, "wct_1": 0.09788992936354028, "wct_5": 0.006876108808775212, "wct_9": 0.006876108808775212}
+{"query": "Should surveillance balloons be banned?", "flak": 612.078986625927, "wct_1": 0.2850589806644047, "wct_5": 0.005108739992928871, "wct_9": 0.005108739992928871}
+{"query": "Does Islam Support Slavery?", "flak": 749.0876551780998, "wct_1": 0.4900217655220872, "wct_5": 0.00636224593124716, "wct_9": 0.005004748098511169}
+{"query": "Should The Date of Australia Day Be Changed?", "flak": 534.5386310798826, "wct_1": 0.13980924339182632, "wct_5": 0.005632779025926497, "wct_9": 0.005632779025926497}
+{"query": "Do electronic devices help or hurt children's development?", "flak": 593.1607323555786, "wct_1": 0.08635858107357527, "wct_5": 0.004317331522758318, "wct_9": 0.004317331522758318}
+{"query": "Should Organ Donation be Mandatory?", "flak": 651.4237054915653, "wct_1": 0.3343766850302627, "wct_5": 0.0048328646478122935, "wct_9": 0.0048328646478122935}
+{"query": "The European Union should become a United States of Europe", "flak": 1202.8092695996202, "wct_1": 0.659627340360104, "wct_5": 0.004242541565674842, "wct_9": 0.004242541565674842}
+{"query": "Should Judges be Elected or Appointed?", "flak": 1237.2232576367978, "wct_1": 0.8256661547494277, "wct_5": 0.0041710094884623095, "wct_9": 0.0041710094884623095}
+{"query": "What is the best way to introduce education for sustainability in early childhood education in socioeconomically underdeveloped communities?", "flak": 1263.1847342595624, "wct_1": 0.5260968915036682, "wct_5": 0.006699446311126798, "wct_9": 0.0042442383300348805}
+{"query": "Should we let AI (artificial intelligence) take decisions for us (humans)?", "flak": 2032.1023933854306, "wct_1": 0.9178488731868203, "wct_5": 0.003344190881917996, "wct_9": 0.003344190881917996}
+{"query": "Are Leggings Pants?", "flak": 730.7281739893605, "wct_1": 0.5154580156075024, "wct_5": 0.008516552200334803, "wct_9": 0.006969770386149275}
+{"query": "Las Matem\u00e1ticas son divertidas", "flak": 239.27578656511724, "wct_1": 0.08951798214363459, "wct_5": 0.006027660390713584, "wct_9": 0.004110186706664803}
+{"query": "Should all deductions and exemptions be eliminated from the US system of Income Tax collection?", "flak": 3233.1918042513316, "wct_1": 0.9972328864107876, "wct_5": 0.005845883425213765, "wct_9": 0.00316487484562806}
+{"query": "Does Islam Need A Reform To Be Compatible With The Modern World?", "flak": 841.243310605658, "wct_1": 0.43730303586512376, "wct_5": 0.005654747023975645, "wct_9": 0.005654747023975645}
+{"query": "Will inflation come under control in 2023?", "flak": 662.1607169137304, "wct_1": 0.4061642901264796, "wct_5": 0.007150979216109425, "wct_9": 0.0048191277323145045}
+{"query": "Should we have a global governance?", "flak": 655.0816680077575, "wct_1": 0.2362243955588569, "wct_5": 0.0028585533169837446, "wct_9": 0.0028585533169837446}
+{"query": "Should there be a Negative Income Tax?", "flak": 1419.2737239736261, "wct_1": 0.9433616547839436, "wct_5": 0.004707599004706817, "wct_9": 0.004707599004706817}
+{"query": "AI manipulating humans", "flak": 854.0143691049939, "wct_1": 0.5705401272563458, "wct_5": 0.00544076033412473, "wct_9": 0.0037357088736008764}
+{"query": "Should Washington State's flag be redesigned to have Booker T. Washington's likeness instead of George Washington?", "flak": 1952.6277438343664, "wct_1": 0.5257037193125579, "wct_5": 0.0045331267744101724, "wct_9": 0.003065543489256921}
+{"query": "Will Liquid Democracy be a better mechanism of governance than Representative Democracy?", "flak": 1587.343807586879, "wct_1": 0.7767867113169825, "wct_5": 0.008710550857652204, "wct_9": 0.007490155400115913}
+{"query": "SDGs can't be achieved without cloud-based tools", "flak": 848.3994849628745, "wct_1": 0.4508905177383847, "wct_5": 0.004773006251702725, "wct_9": 0.004773006251702725}
+{"query": "Should emergency rooms turn away people who cannot pay?", "flak": 682.4548256630056, "wct_1": 0.16405499064548879, "wct_5": 0.005033487218467691, "wct_9": 0.005033487218467691}
+{"query": "Time for a Pacific NATO", "flak": 598.0877822875881, "wct_1": 0.47879939698288687, "wct_5": 0.004254041603272313, "wct_9": 0.004254041603272313}
+{"query": "Readily available information is promoting survivorship bias.", "flak": 805.0290065554636, "wct_1": 0.39506118695920367, "wct_5": 0.007514678280400679, "wct_9": 0.007514678280400679}
+{"query": "Osho Rajneesh created a cult", "flak": 701.8047341498237, "wct_1": 0.3568377729423225, "wct_5": 0.019398083825966483, "wct_9": 0.008255994970564574}
+{"query": "Should Trump be allowed back on Twitter?", "flak": 958.1687383275868, "wct_1": 0.652454711732637, "wct_5": 0.0048186788945796715, "wct_9": 0.0048186788945796715}
+{"query": "Is Intentional Childlessness a Sin?", "flak": 616.751874599161, "wct_1": 0.4379696213896106, "wct_5": 0.006542432146021438, "wct_9": 0.006542432146021438}
+{"query": "Is multiculturalism good for societies?", "flak": 737.6140913256879, "wct_1": 0.6010244118286752, "wct_5": 0.009257051507490233, "wct_9": 0.0067811721584102045}
+{"query": "Are video learning courses a good learning format?", "flak": 1026.3901704347284, "wct_1": 0.4979307636637585, "wct_5": 0.0043304765576089, "wct_9": 0.0043304765576089}
+{"query": "Should Whatsapp, instead of other instant messaging apps, be used?", "flak": 1626.0193258008112, "wct_1": 0.8576555371777147, "wct_5": 0.008620600987772654, "wct_9": 0.006317168909491685}
+{"query": "What is the Nature of Reality?", "flak": 612.5526871336779, "wct_1": 0.3285296032254455, "wct_5": 0.007046945029172465, "wct_9": 0.005745425190537247}
+{"query": "Should Inheritance be Abolished?", "flak": 415.26330264871586, "wct_1": 0.0738793684811694, "wct_5": 0.0032246454959796275, "wct_9": 0.0032246454959796275}
+{"query": "Illegal immigration negatively affects the host nation.", "flak": 1014.4845605238872, "wct_1": 0.658695275745905, "wct_5": 0.004585013099012844, "wct_9": 0.004585013099012844}
+{"query": "Discipline or Abuse: When is discipline considered abuse?", "flak": 1008.1972582936355, "wct_1": 0.24334747311333002, "wct_5": 0.006345855966100962, "wct_9": 0.004802943683978381}
+{"query": "Feminism & sex for fun: does hedonistic sexuality benefit feminism?", "flak": 2414.549318501693, "wct_1": 0.941189658851365, "wct_5": 0.009381669949515815, "wct_9": 0.004964130243068765}
+{"query": "Should The Internet Be Regulated?", "flak": 773.2987944325994, "wct_1": 0.5847628978884756, "wct_5": 0.004729564347701732, "wct_9": 0.004729564347701732}
+{"query": "What should Kialo build for mobile phone use?", "flak": 1206.6253866986121, "wct_1": 0.7406717174268744, "wct_5": 0.005134503112525125, "wct_9": 0.004021708895240227}
+{"query": "Was the music of the past better than it is today?", "flak": 525.0328213246805, "wct_1": 0.10618133594119691, "wct_5": 0.006195013321146907, "wct_9": 0.006195013321146907}
+{"query": "Does God exist?", "flak": 838.6576340909851, "wct_1": 0.6031366619926539, "wct_5": 0.00443309315058685, "wct_9": 0.00443309315058685}
+{"query": "What is the best drug regulation system?", "flak": 829.7392033120735, "wct_1": 0.5893804805493086, "wct_5": 0.004274578888549018, "wct_9": 0.004274578888549018}
+{"query": "You Must Not \u2018Do Your Own Research\u2019 When It Comes To Science", "flak": 1403.0573618560122, "wct_1": 0.7951990190788835, "wct_5": 0.004435138884251919, "wct_9": 0.004435138884251919}
+{"query": "gender equality in the home", "flak": 1131.9033199512482, "wct_1": 0.9288486190741638, "wct_5": 0.0065486092854719945, "wct_9": 0.005341606681438119}
+{"query": "Should a land value tax be introduced to replace other taxes?", "flak": 1769.9057435106652, "wct_1": 0.7555925842373232, "wct_5": 0.0057733919570075055, "wct_9": 0.0057733919570075055}
+{"query": "Should Felons be Allowed to Vote?", "flak": 834.8473882350164, "wct_1": 0.4883019167651396, "wct_5": 0.008679509746041812, "wct_9": 0.005608943956856979}
+{"query": "Should there be automatic voter registration in the US?", "flak": 1428.7030345254157, "wct_1": 0.9188593352046912, "wct_5": 0.008634981712953396, "wct_9": 0.007051787284399522}
+{"query": "Should straight actors play gay roles?", "flak": 838.0954113536437, "wct_1": 0.37977697502854657, "wct_5": 0.003570946513937494, "wct_9": 0.0019344248381183396}
+{"query": "Is Youtube Enforcing Censorship Through The Demonetization Policy?", "flak": 655.8337495914636, "wct_1": 0.2608254038414992, "wct_5": 0.006836766939129989, "wct_9": 0.006836766939129989}
+{"query": "Can non-medical abortion be morally justified?", "flak": 1277.8218801620133, "wct_1": 0.8056121207742039, "wct_5": 0.006828950058677185, "wct_9": 0.006828950058677185}
+{"query": "Was Elizabeth II a good queen?", "flak": 1406.3638066355468, "wct_1": 0.7440616667739874, "wct_5": 0.012700890135391633, "wct_9": 0.004093537055406196}
+{"query": "Should mobile phones be used in the classroom?", "flak": 1237.8244868146903, "wct_1": 0.8225696063042851, "wct_5": 0.005503139014617757, "wct_9": 0.005503139014617757}
+{"query": "Should Religions Receive Public Funding?", "flak": 758.7503878225745, "wct_1": 0.31256069259678904, "wct_5": 0.006746431691622004, "wct_9": 0.005435490436447876}
+{"query": "Is Intelligent Design the Best Explanation For Life?", "flak": 789.9602944320252, "wct_1": 0.4663904287546926, "wct_5": 0.00742500570714603, "wct_9": 0.00742500570714603}
+{"query": "Evolve beyond war and militarism", "flak": 639.1134982836422, "wct_1": 0.412997100983052, "wct_5": 0.0060346625131277335, "wct_9": 0.0060346625131277335}
+{"query": "Why do people believe in God?", "flak": 1030.6724512032147, "wct_1": 0.6622021161038852, "wct_5": 0.006127526115306167, "wct_9": 0.006127526115306167}
+{"query": "UK High Court rules government's Rwanda asylum plan is unlawful: is this the right or wrong decision?", "flak": 1349.7022312974157, "wct_1": 0.6096294486678331, "wct_5": 0.005847606126086541, "wct_9": 0.005847606126086541}
+{"query": "Should Islamic Masjids treat men and women equally?", "flak": 1161.2778602714818, "wct_1": 0.6135991371975683, "wct_5": 0.0076955398709854465, "wct_9": 0.0076955398709854465}
+{"query": "Should Mother Teresa have been canonized?", "flak": 761.4802781167198, "wct_1": 0.32037396121822825, "wct_5": 0.009906614846179605, "wct_9": 0.007089415715507681}
+{"query": "Are all humans of equal value?", "flak": 711.1885356941422, "wct_1": 0.3530906249744737, "wct_5": 0.0026329567436396946, "wct_9": 0.0013944287008510958}
+{"query": "What is religion's role in worldwide societal development?", "flak": 607.259969312685, "wct_1": 0.2619170230379179, "wct_5": 0.006199382803970659, "wct_9": 0.006199382803970659}
+{"query": "Should Turkey be part of the European Union?", "flak": 1098.8694290507729, "wct_1": 0.6417012682670954, "wct_5": 0.005990564576453448, "wct_9": 0.005990564576453448}
+{"query": "Did the US have to use nuclear weapons to achieve Japan's unconditional surrender?", "flak": 1856.7827705154016, "wct_1": 0.9110857091495784, "wct_5": 0.010346232910357986, "wct_9": 0.006294521748890494}
+{"query": "Should Messi return to Barcelonia?", "flak": 416.154154829765, "wct_1": 0.2571979968538043, "wct_5": 0.001599116597657007, "wct_9": 0.001599116597657007}
+{"query": "When a democracy gets invaded and there is very little hope of victory, should the government surrender?", "flak": 760.0064706371502, "wct_1": 0.22823530358471095, "wct_5": 0.0027473640799519686, "wct_9": 0.0015569330919375682}
+{"query": "Should Nintendo allow for Fangames and modifications to their systems?", "flak": 830.9025587236468, "wct_1": 0.5124797844993709, "wct_5": 0.0032664649096483694, "wct_9": 0.0017643576543434408}
+{"query": "How Were the Pyramids of Egypt Meant to Be Used?", "flak": 945.118315629529, "wct_1": 0.5782597012327283, "wct_5": 0.005104368889512319, "wct_9": 0.005104368889512319}
+{"query": "Is the Book of Mormon an authentic ancient scripture?", "flak": 1541.8416328757553, "wct_1": 0.8957765685547315, "wct_5": 0.004454214773082166, "wct_9": 0.0018406141499619222}
+{"query": "Should blocking communication between users on websites be admin-only powers?", "flak": 1048.5301123250433, "wct_1": 0.5819465576954566, "wct_5": 0.0015465770048815343, "wct_9": 0.0015465770048815343}
+{"query": "Is Humanism a religion?", "flak": 653.293031355878, "wct_1": 0.5288335614065282, "wct_5": 0.0023890117620197653, "wct_9": 0.0012806247211515633}
+{"query": "Should cannabis be banned in athletics?", "flak": 880.248294898084, "wct_1": 0.6835000676353375, "wct_5": 0.001601489786432387, "wct_9": 0.001601489786432387}
+{"query": "Religion is incompatible with science.", "flak": 673.8095773161161, "wct_1": 0.4592953536066035, "wct_5": 0.0021075580536573076, "wct_9": 0.0021075580536573076}
+{"query": "Should the US states have more or less autonomy?", "flak": 662.0480002512634, "wct_1": 0.23757421747471535, "wct_5": 0.00552601603153863, "wct_9": 0.00552601603153863}
+{"query": "Is Bitcoin's Worth Entirely Speculative?", "flak": 717.8065432382131, "wct_1": 0.4860628285608727, "wct_5": 0.005496442616760788, "wct_9": 0.005496442616760788}
+{"query": "What is the best OS?", "flak": 808.3059428492417, "wct_1": 0.6343690631032276, "wct_5": 0.0030509080725085254, "wct_9": 0.0016266030732582368}
+{"query": "Should Cascadia secede from the United States and Canada?", "flak": 833.767464245967, "wct_1": 0.47527794259888706, "wct_5": 0.001826690932609861, "wct_9": 0.001826690932609861}
+{"query": "Should States Provide A Clean Needle Program for IV Drug Users?", "flak": 1008.0328649951562, "wct_1": 0.38749446021694495, "wct_5": 0.0021161853957523827, "wct_9": 0.0021161853957523827}
+{"query": "Is evolution by natural selection true?", "flak": 1029.7575643640378, "wct_1": 0.7089717352496032, "wct_5": 0.0015440460301884, "wct_9": 0.0015440460301884}
+{"query": "A child doesn't owe his parents something for getting raised by them", "flak": 863.8087083255878, "wct_1": 0.30868649778246754, "wct_5": 0.004482129885719659, "wct_9": 0.004482129885719659}
+{"query": "Should gender reassignment procedures for minors be allowed?", "flak": 1164.4955817446578, "wct_1": 0.596311537908985, "wct_5": 0.0018333616321482794, "wct_9": 0.0018333616321482794}
+{"query": "Is global overpopulation a myth?", "flak": 478.3716591711732, "wct_1": 0.1992803736262604, "wct_5": 0.0019318849405551826, "wct_9": 0.0019318849405551826}
+{"query": "Online gambling: free choice or addiction?", "flak": 1027.5761205263468, "wct_1": 0.6953108327384803, "wct_5": 0.00161246896795335, "wct_9": 0.00161246896795335}
+{"query": "Sollte es ein generelles Tempolimit von 130 km/h auf deutschen Autobahnen geben?", "flak": 374.17968452431813, "wct_1": 0.060544941415046814, "wct_5": 0.002078900934695837, "wct_9": 0.002078900934695837}
+{"query": "Public health care systems should pay for osteopathic physicians.", "flak": 1847.6785894493555, "wct_1": 0.7474919401068919, "wct_5": 0.006371020687435153, "wct_9": 0.0016282176304222272}
+{"query": "Is racism logical?", "flak": 479.1427878281845, "wct_1": 0.3121153374343476, "wct_5": 0.0015894992536291403, "wct_9": 0.0015894992536291403}
+{"query": "Should Society Normalise Men Wearing Dresses/Skirts?", "flak": 1498.9955750355102, "wct_1": 0.8259869980901238, "wct_5": 0.0050876437907613125, "wct_9": 0.0050876437907613125}
+{"query": "Sollten Deutsche Wohnen & Co. enteignet werden?", "flak": 402.5923418510833, "wct_1": 0.11201530013009797, "wct_5": 0.005458395726351498, "wct_9": 0.005458395726351498}
+{"query": "Impfung ja oder nein?", "flak": 431.4991043841993, "wct_1": 0.09330725110190646, "wct_5": 0.0022709268996753437, "wct_9": 0.0022709268996753437}
+{"query": "Inzest sollte legalisiert werden", "flak": 0.0, "wct_1": 0.0, "wct_5": 0.0, "wct_9": 0.0}
+{"query": "What is withholding consumers from asking a doggybag in restaurants?", "flak": 562.0014225928522, "wct_1": 0.1905390714024876, "wct_5": 0.00539142259360087, "wct_9": 0.004287009041438433}
+{"query": "Die AFD steht dem nationalsozialistischem Gedankengut nahe.", "flak": 339.8510721025513, "wct_1": 0.03143685327626113, "wct_5": 0.005817863974568615, "wct_9": 0.005817863974568615}
+{"query": "Should we believe that God exists, even if we're not sure it's true?", "flak": 1301.0818919733085, "wct_1": 0.6616744973884437, "wct_5": 0.004548260769795529, "wct_9": 0.004548260769795529}
+{"query": "The Short Name \u2018Czechia\u2019 Should Be Used in All Unpolitical and/or Informal Situations.", "flak": 307.2784659220168, "wct_1": 0.038420117057320256, "wct_5": 0.005649340027055631, "wct_9": 0.005649340027055631}
+{"query": "Has the U.S. just cemented its global leadership again?", "flak": 685.5115300710371, "wct_1": 0.21129165956072804, "wct_5": 0.006482995661249691, "wct_9": 0.004296420300454783}
+{"query": "Should All Transgender Athletes Have to Compete in Men's Divisions?", "flak": 2107.9774914451746, "wct_1": 0.9506228335212078, "wct_5": 0.0063499257756430595, "wct_9": 0.005431187474114825}
+{"query": "The Death Penalty is Humane", "flak": 958.2646475843869, "wct_1": 0.7846312149019855, "wct_5": 0.001474707511580953, "wct_9": 0.001474707511580953}
+{"query": "Video games with a pixel art-style are overdone.", "flak": 1031.2278865417645, "wct_1": 0.6116239980481227, "wct_5": 0.006750069224632061, "wct_9": 0.005088913840981499}
+{"query": "Should higher education be publicly funded?", "flak": 1046.6213881748727, "wct_1": 0.7115657797336926, "wct_5": 0.005555723315162548, "wct_9": 0.00461947842165383}
+{"query": "Should governments push to implement 100% renewable energy?", "flak": 1422.702693405156, "wct_1": 0.8695696962598043, "wct_5": 0.007800298397703155, "wct_9": 0.004698806593812698}
+{"query": "What cause area is the most pressing?", "flak": 395.31655146936714, "wct_1": 0.0419094637791226, "wct_5": 0.005294588171127251, "wct_9": 0.004171364545533683}
+{"query": "Are battery electric vehicles better than hydrogen fuel cell vehicles?", "flak": 3488.5390933561553, "wct_1": 0.9938889046640847, "wct_5": 0.006944374724945383, "wct_9": 0.006944374724945383}
+{"query": "The Bible contains contradictions", "flak": 695.8153970744996, "wct_1": 0.42934084731074024, "wct_5": 0.008023219611821493, "wct_9": 0.006651514440637423}
+{"query": "'Push' advertising should be banned", "flak": 630.9151233595289, "wct_1": 0.2809041561504672, "wct_5": 0.004438219000432984, "wct_9": 0.004438219000432984}
+{"query": "Is Sally Rooney's boycott of Israel justified?", "flak": 1027.7331622369888, "wct_1": 0.7929220425673174, "wct_5": 0.005168670810630893, "wct_9": 0.005168670810630893}
+{"query": "Policy decisions should be based on scientific evidence.", "flak": 1065.2275820799111, "wct_1": 0.663110674424182, "wct_5": 0.008496119948619062, "wct_9": 0.005267242005983129}
+{"query": "Was the 2003 US-led invasion of Iraq justified?", "flak": 1444.3127928110816, "wct_1": 0.8254124344579941, "wct_5": 0.004466751853306047, "wct_9": 0.004466751853306047}
+{"query": "Coffee break", "flak": 633.5208917313081, "wct_1": 0.499986612418878, "wct_5": 0.006361356208213574, "wct_9": 0.0031026170339634104}
+{"query": "Should the Electoral College be abolished?", "flak": 974.9129225709245, "wct_1": 0.7090296880074556, "wct_5": 0.005754635552156803, "wct_9": 0.0044580176399031494}
+{"query": "Should billionaires be banned?", "flak": 331.5964250027888, "wct_1": 0.038125303484008916, "wct_5": 0.0029219632531622824, "wct_9": 0.0029219632531622824}
+{"query": "Did the French Revolution have predominantly negative consequences?", "flak": 599.5166026154305, "wct_1": 0.13237067846531775, "wct_5": 0.00453113256962621, "wct_9": 0.00453113256962621}
+{"query": "Can The U.S. Power Grid Handle The EV Boom?", "flak": 901.6127683413933, "wct_1": 0.51504561695091, "wct_5": 0.006497180073684762, "wct_9": 0.003203514089456475}
+{"query": "We are alone in the universe.", "flak": 397.3549790274594, "wct_1": 0.09877452055293034, "wct_5": 0.004362667421137001, "wct_9": 0.004362667421137001}
+{"query": "Would Humanity Be Better Off Under A Global Government?", "flak": 610.6732283765303, "wct_1": 0.17846396467514145, "wct_5": 0.005630107305026549, "wct_9": 0.004422347287128846}
+{"query": "Are humans primarily driven by self-interest?", "flak": 543.6749509150518, "wct_1": 0.1548313496040929, "wct_5": 0.006247902754091637, "wct_9": 0.005052242792415765}
+{"query": "Do angels and demons exist?", "flak": 764.9721613667177, "wct_1": 0.4641698652765864, "wct_5": 0.004528099733587819, "wct_9": 0.004528099733587819}
+{"query": "Big pharma\" is actually good for society", "flak": 488.05062128384645, "wct_1": 0.22812064931791604, "wct_5": 0.007560620903762658, "wct_9": 0.005839135707924469}
+{"query": "Is eating meat wrong?", "flak": 920.8196200626983, "wct_1": 0.6247698323527487, "wct_5": 0.004974459169084828, "wct_9": 0.004974459169084828}
+{"query": "Should the EU introduce a carbon tax?", "flak": 1128.3407298905086, "wct_1": 0.7128029862378703, "wct_5": 0.005369496581023196, "wct_9": 0.005369496581023196}
+{"query": "Is Fine Tuning Good Evidence for a Creator?", "flak": 489.40009858676217, "wct_1": 0.09057582779188922, "wct_5": 0.0052899421961650735, "wct_9": 0.0052899421961650735}
+{"query": "Should nuclear energy be the most prominent source of energy?", "flak": 2064.187584067171, "wct_1": 0.9243695229433734, "wct_5": 0.006215724256666183, "wct_9": 0.004083742281886263}
+{"query": "Should a maximum wage be introduced?", "flak": 762.984634088245, "wct_1": 0.522091047475057, "wct_5": 0.007879729172373732, "wct_9": 0.006482819410306361}
+{"query": "Should Direct Democracy be allowed to Overrule Elected Representatives", "flak": 1087.2485562803474, "wct_1": 0.638445552650397, "wct_5": 0.006567959636760894, "wct_9": 0.0051673300475527685}
+{"query": "Should Dictatorships Receive Development Aid?", "flak": 530.2834334198246, "wct_1": 0.18643596753476993, "wct_5": 0.004405703357424927, "wct_9": 0.004405703357424927}
+{"query": "Are human rights truly universal?", "flak": 610.1689716946211, "wct_1": 0.18483772255986208, "wct_5": 0.005415019800831779, "wct_9": 0.005415019800831779}
+{"query": "Was Barack Obama a good president?", "flak": 1950.0528122938208, "wct_1": 0.9979691273004307, "wct_5": 0.006091641411918222, "wct_9": 0.00514946433798299}
+{"query": "Will progress win or does history go in circles?", "flak": 514.9710248552936, "wct_1": 0.11101560760078512, "wct_5": 0.008318215036767725, "wct_9": 0.004415160902187267}
+{"query": "Is Donation Charity or a Moral Obligation?", "flak": 783.626057385349, "wct_1": 0.375908747274784, "wct_5": 0.007654094387994784, "wct_9": 0.00626136514920425}
+{"query": "Are Plants and Fungi Conscious?", "flak": 1019.7426094385341, "wct_1": 0.6733967685149361, "wct_5": 0.005335354417362583, "wct_9": 0.004025154301034475}
+{"query": "\u201cCambio clim\u00e1tico vs Sostenibilidad de Territorios Marino-Costeros\u201d: La innovaci\u00f3n y el desarrollo productivo en territorios marino-costeros aumentar\u00e1 o disminuir\u00e1 los efectos del cambio clim\u00e1tico y sus impactos asociados a la sostenibilidad del mar y la costa.", "flak": 2806.3774397519524, "wct_1": 0.13224480478458187, "wct_5": 0.007003156078801941, "wct_9": 0.007003156078801941}
+{"query": "Laws Allowing For Minority Differences", "flak": 618.8563907641093, "wct_1": 0.33711373749222323, "wct_5": 0.004339082879515819, "wct_9": 0.004339082879515819}

@@ -209,3 +209,4 @@ __marimo__/
 *.parquet
 wiki_index/
 wiki_jsonl/
+*.zip

@@ -1,0 +1,774 @@
+{"query": "What religion should people follow?", "output_ids": ["17438525", "19268465", "16499563", "9009308", "8560596", "7352799", "7505144", "7960216", "899449", "1867822"]}
+{"query": "Will ChatGPT do more harm than good?", "output_ids": ["6042522", "1683542", "4641747", "10368656", "18349671", "1801147", "6656980", "2914698", "12928849", "495361"]}
+{"query": "All Humans Should Be Vegan.", "output_ids": ["17942327", "6963960", "706198", "7024150", "20162153", "446735", "11455349", "5119403", "2722505", "17916602"]}
+{"query": "Is the two-state solution the best resolution for the Israel-Palestine conflict?", "output_ids": ["10817401", "13824461", "6063500", "7116867", "10812286", "20191004", "8195285", "13344116", "20454963", "15580207"]}
+{"query": "Free Will or Determinism: Do We Have Free Will?", "output_ids": ["7109888", "17276381", "17781", "12846598", "9337762", "2083935", "1733120", "15157316", "4486876", "589515"]}
+{"query": "Would the world be a better place without humans?", "output_ids": ["4634425", "11102952", "2929250", "9866487", "22057", "15137415", "8894302", "3963988", "2226173", "15495252"]}
+{"query": "Should women-only spaces be open to anyone identifying as a woman?", "output_ids": ["13387652", "17794413", "2791337", "17643328", "9658391", "354937", "19959560", "122700", "3260403", "20145134"]}
+{"query": "Should There be a Universal Basic Income (UBI)?", "output_ids": ["14806001", "19107419", "2653513", "20701278", "16546115", "16758696", "20000860", "19100955", "18903285", "2940059"]}
+{"query": "Is space exploration necessary?", "output_ids": ["15294650", "20353008", "4559973", "15475788", "18446988", "10551090", "7282869", "6834867", "15305057", "3538466"]}
+{"query": "Pro-Life vs Pro-Choice: Should Abortion be Legal?", "output_ids": ["16786553", "3367121", "14549534", "19106669", "9723269", "16503431", "12781595", "2453529", "334372", "15611687"]}
+{"query": "Should the US Pay Reparations for Slavery?", "output_ids": ["15562372", "17247909", "20163409", "11601108", "1402458", "12816681", "1643639", "3489918", "403266", "1171911"]}
+{"query": "Should Ukraine become a member of NATO?", "output_ids": ["3747055", "16552215", "500386", "20260791", "9715590", "20052473", "2638587", "16567548", "20346202", "448174"]}
+{"query": "Who is the better player; Messi or Ronaldo?", "output_ids": ["15801369", "11460832", "14633069", "15018073", "14634820", "3278313", "10419820", "755494", "5438340", "18221846"]}
+{"query": "Should men be allowed to vote on abortion legislation?", "output_ids": ["3823018", "9066528", "19389652", "2348289", "5981724", "1494750", "8163225", "17575500", "17910242", "5348614"]}
+{"query": "Should homeschooling be banned?", "output_ids": ["175984", "408473", "988710", "7512157", "1606389", "8985304", "13621187", "15368519", "14932400", "16572098"]}
+{"query": "Should animal testing be banned?", "output_ids": ["11773764", "19614432", "17300178", "17691769", "8765256", "9932292", "14531003", "11532489", "5884621", "2873839"]}
+{"query": "Should the use of 'chosen' or gender-neutral pronouns be mandatory?", "output_ids": ["1498171", "2752298", "13338938", "1356429", "9589367", "15569079", "2026271", "2616894", "1356390", "16162833"]}
+{"query": "Do video games have a positive effect on society?", "output_ids": ["5997049", "1299701", "4319807", "20353324", "2926547", "4735245", "17313352", "3957862", "17134525", "4792199"]}
+{"query": "Do Aliens Exist?", "output_ids": ["4860236", "5972957", "11122223", "3260564", "7797117", "6833204", "3415014", "12943639", "17646958", "3373257"]}
+{"query": "Would a genderless society be better?", "output_ids": ["24226", "1963236", "17937573", "14415828", "2200539", "14057357", "668042", "13875877", "6348851", "20828"]}
+{"query": "The Trolley Problem: What's the Right Solution?", "output_ids": ["19622781", "3285823", "14318471", "15973473", "6708431", "12908832", "7438361", "10808212", "1465637", "1968155"]}
+{"query": "Is it ethically wrong to watch pornography?", "output_ids": ["11329186", "13676818", "7375247", "16747369", "17746961", "19591199", "15225915", "15783337", "12820048", "1335910"]}
+{"query": "Should the US adopt stricter gun control legislation?", "output_ids": ["942431", "9364176", "5886287", "4186857", "14959597", "20656356", "2225525", "1947105", "12405441", "3027650"]}
+{"query": "Should you break up with your partner if they are magically turned into a worm?", "output_ids": ["6562641", "5987890", "18821651", "8629499", "10873414", "18937638", "13616692", "16609114", "17534901", "7718171"]}
+{"query": "Should Sex Work Be Legal?", "output_ids": ["2793869", "13647643", "763966", "8020524", "5444366", "10828146", "10852476", "870297", "17200504", "5138766"]}
+{"query": "Is Feminism a Force For Good?", "output_ids": ["2456842", "20481752", "1848200", "16985223", "20674424", "9576727", "14252054", "16292856", "5796552", "10395645"]}
+{"query": "Who Should Self-Driving Cars Kill?", "output_ids": ["20926151", "18127467", "13056374", "18237623", "12776364", "6928634", "7887234", "20608268", "14419707", "6466464"]}
+{"query": "Are the 2024 Pakistan elections legitimate?", "output_ids": ["18518368", "17129672", "16105515", "10038513", "9687765", "14009350", "7717010", "3097069", "13006180", "15828916"]}
+{"query": "Should You Confess to Cheating After a One Night Stand?", "output_ids": ["13946582", "8117655", "8323544", "15019063", "8170206", "14868275", "11105886", "8054687", "3691253", "14676214"]}
+{"query": "Should Governments Ever Limit Free Speech?", "output_ids": ["7713442", "17148922", "18305147", "12524330", "10840195", "1880556", "6311179", "18974497", "19476133", "8078897"]}
+{"query": "Should Children Learn About Gender Identity And Sexual Orientation In School?", "output_ids": ["13190362", "20138341", "8584902", "15073735", "9704879", "14033363", "8032226", "6264906", "20146371", "1407227"]}
+{"query": "Who should the Republican Party nominate for President in 2024?", "output_ids": ["504617", "13462472", "3239847", "504374", "3883331", "1408753", "11405924", "439060", "18041819", "17537348"]}
+{"query": "Should we have a single global language?", "output_ids": ["4195346", "20336816", "2400636", "4830746", "216188", "14812115", "11285158", "2043796", "2037571", "4200296"]}
+{"query": "Should European Monarchies Be Abolished?", "output_ids": ["1255888", "15256405", "1637167", "2436945", "744927", "8109359", "18770952", "18770885", "1896604", "6495742"]}
+{"query": "Will Sex Robots Advance Sexual Liberation?", "output_ids": ["6738208", "1750333", "5047940", "3659082", "13707825", "2004033", "7588357", "13503395", "7884676", "11867617"]}
+{"query": "Should fake news be illegal?", "output_ids": ["13581512", "18687394", "9988033", "19945598", "18305931", "13324239", "7622610", "7163558", "18841781", "11610571"]}
+{"query": "Is Love Positive and Necessary for All Humans?", "output_ids": ["6625551", "20111372", "525024", "19418247", "537427", "5234245", "15951177", "20466293", "19024890", "8077904"]}
+{"query": "Is Capital Punishment in the United States justified?", "output_ids": ["8139292", "2754613", "11972049", "1581305", "204969", "15754329", "16143847", "18737739", "7010131", "16564406"]}
+{"query": "What are the benefits / harms of Critical Race Theory?", "output_ids": ["20240430", "18778890", "1746366", "5701767", "17011169", "7682313", "11123196", "7491388", "13966441", "15067418"]}
+{"query": "Is Artificial General Intelligence (AGI) a threat to humanity?", "output_ids": ["2079612", "649447", "18384413", "20076758", "11011867", "6065004", "2246882", "17119575", "5618853", "10283535"]}
+{"query": "Is television bad for people?", "output_ids": ["5946011", "448188", "11719754", "20301261", "19727711", "15593778", "20032821", "12370349", "12313289", "13384925"]}
+{"query": "Is LeBron James better than Michael Jordan?", "output_ids": ["274549", "9046132", "16359527", "4402687", "9476633", "14606070", "15773719", "3796128", "13056897", "13147067"]}
+{"query": "Who Should The 2024 Democratic Nominee Be?", "output_ids": ["2508131", "9293254", "20298888", "13443289", "20797378", "20201805", "19367604", "2710099", "2157614", "5656059"]}
+{"query": "Time for a Maximum Wage? Should the US Limit CEO Pay?", "output_ids": ["10391803", "18002224", "5644258", "12083244", "4662084", "8818531", "649217", "16126342", "3129665", "2214200"]}
+{"query": "Is it Time to 'Free the Nipple'? Toplessness and Gender Equality in the US", "output_ids": ["18814107", "731790", "16865365", "16897892", "2794403", "9617022", "18963460", "169763", "18284662", "15594343"]}
+{"query": "Gender Neutral Bathrooms: Should They be Standard?", "output_ids": ["19439277", "11132667", "1357682", "6071065", "16302221", "9554106", "16042184", "4716261", "18312880", "3261408"]}
+{"query": "Has Christianity been bad for Western civilization?", "output_ids": ["140522", "18799993", "2790849", "9656787", "395266", "707584", "7962692", "15152281", "6032536", "12294817"]}
+{"query": "Should athletes be allowed to compete in their chosen gender category?", "output_ids": ["103631", "2610353", "10440183", "3486445", "15796391", "16086367", "16795979", "20006803", "9436801", "16882312"]}
+{"query": "What's the best Twitter/X alternative?", "output_ids": ["8152491", "20118398", "15283092", "15339219", "10413069", "11523589", "7962568", "1954876", "3767326", "18410088"]}
+{"query": "Should Middle Eastern countries launch a joint on-ground opposition to Israel in support of Gaza?", "output_ids": ["17118867", "11051253", "3361044", "14271497", "9040303", "15414948", "2612560", "18360080", "12781681", "13109574"]}
+{"query": "Is South Africa's ICJ case against Israel legitimate?", "output_ids": ["12762782", "3266963", "6649093", "17161758", "7082915", "20082349", "18217887", "3661526", "5680031", "19914777"]}
+{"query": "Is Esports a sport?", "output_ids": ["11962323", "19186010", "17988424", "16854620", "5654011", "19127849", "16940859", "20924345", "18142745", "8437495"]}
+{"query": "Should the death penalty be abolished?", "output_ids": ["11083453", "15680811", "5165509", "10875341", "6423180", "14328600", "3727817", "7643431", "6603121", "3400641"]}
+{"query": "Who should provide healthcare: the government or the market?", "output_ids": ["20523718", "824518", "6644885", "9237058", "14024196", "1127464", "17028564", "17421168", "8185616", "2856056"]}
+{"query": "Is political correctness detrimental to society?", "output_ids": ["2297489", "15127176", "8196612", "14714825", "8591231", "710991", "15720688", "4681089", "1609287", "8760946"]}
+{"query": "Children Voting: Should the Minimum Voting Age be Abolished?", "output_ids": ["13200363", "13847178", "8162369", "2468393", "19535770", "7304079", "19995869", "14909747", "9987173", "15516885"]}
+{"query": "Should the use of AI in law be welcomed?", "output_ids": ["20582893", "7353160", "18899089", "12196926", "17827027", "13685157", "1445443", "3074372", "8336774", "13965869"]}
+{"query": "Should puberty be delayed in children experiencing gender dysphoria?", "output_ids": ["6341047", "13571054", "16564893", "8165811", "7377647", "4279891", "7853747", "20135091", "2960151", "5420629"]}
+{"query": "Will the impact of AI in the educational sector be positive?", "output_ids": ["9931136", "17090607", "15247221", "5093732", "13967063", "15140364", "11900184", "19653559", "348582", "20146385"]}
+{"query": "Has Social Media Been Good For Humanity?", "output_ids": ["17567906", "3506383", "9484381", "18325866", "20080636", "13791210", "122781", "20600951", "18048887", "19402351"]}
+{"query": "Should education at public universities in the United States be tuition free?", "output_ids": ["20453727", "14636443", "20496384", "1905882", "1215424", "13221534", "15502068", "7474289", "9449943", "9984719"]}
+{"query": "Should Burning The US Flag Be Illegal?", "output_ids": ["1775396", "2830743", "12077048", "19025526", "795574", "3872057", "10019739", "795370", "5825420", "15536728"]}
+{"query": "Will the impact of AI in the creative sector be positive?", "output_ids": ["13608760", "9378230", "19567047", "15140364", "13107878", "4830488", "11985317", "15989022", "11302671", "13913845"]}
+{"query": "Is drag turning mainstream hurting LGBT rights?", "output_ids": ["3588235", "3674776", "1468898", "12228282", "17127628", "12916163", "4988552", "18294348", "6086662", "20916132"]}
+{"query": "Are the Gospels Historically Reliable?", "output_ids": ["4185459", "19725702", "692850", "10890924", "5075911", "17676421", "15996366", "7386817", "1386226", "12392847"]}
+{"query": "Should all children should be taught to code in school?", "output_ids": ["6330352", "12369491", "19587391", "8945164", "7588803", "354919", "14866973", "13464510", "16951030", "20092830"]}
+{"query": "Is Putin's attack on Ukraine unjustifiable and wrong?", "output_ids": ["17895269", "6923744", "19222915", "18999556", "17386683", "1880004", "11968270", "2263315", "4218193", "3651639"]}
+{"query": "Is Christian Nationalism Unamerican?", "output_ids": ["9805929", "10491743", "2080731", "11676778", "9274556", "4246618", "20479744", "10095057", "15275098", "8107775"]}
+{"query": "Should we worship a god that sends people to hell?", "output_ids": ["1552593", "6956553", "6651697", "4148793", "1265791", "13626954", "1943593", "12199836", "17470652", "10234645"]}
+{"query": "Should Biden cease bombing Yemen?", "output_ids": ["18498604", "9492965", "9722547", "841572", "17203703", "15689141", "19222900", "411701", "12185825", "1609371"]}
+{"query": "Is scientism a religion?", "output_ids": ["412525", "2080991", "1629093", "9307718", "8344097", "3403402", "140135", "18225897", "17665367", "854853"]}
+{"query": "Should Racial Profiling Be Banned?", "output_ids": ["4852797", "13105509", "20796018", "1709154", "3055628", "18242195", "8276993", "15847858", "11030933", "9188355"]}
+{"query": "Is Morality Objective?", "output_ids": ["19770681", "4918214", "3902692", "2862446", "16293425", "18109847", "16975220", "2803217", "1567983", "11916955"]}
+{"query": "Does God exist?", "output_ids": ["407378", "6700382", "17827120", "12009453", "13130968", "14763181", "12603528", "12190227", "8475555", "5297500"]}
+{"query": "Should we abolish political parties in the USA?", "output_ids": ["17120520", "14418700", "14452015", "17358535", "14227279", "19165986", "19059297", "9247331", "10205777", "17112766"]}
+{"query": "Should Supreme Court justices be elected?", "output_ids": ["3611126", "18758199", "17260439", "15053086", "2323756", "16992152", "6320391", "4728080", "13402733", "17858932"]}
+{"query": "Is social media helping or harming human relationships?", "output_ids": ["12069948", "18442617", "16442820", "20204351", "20317063", "15725753", "13431609", "4099906", "17231674", "19967474"]}
+{"query": "Should Cannabis Be Federally Legalized In The United States?", "output_ids": ["1493920", "10210874", "18985821", "6359094", "20005977", "16555655", "20986804", "20661508", "1246429", "19856369"]}
+{"query": "Should women be allowed to become priests?", "output_ids": ["2624072", "13925839", "11783876", "12741892", "6531600", "13616196", "17988859", "19250728", "18833156", "8687858"]}
+{"query": "Are identity politics detrimental to society?", "output_ids": ["3101914", "10647854", "9002768", "3517177", "18521155", "4743614", "20191636", "19211793", "10748347", "10414469"]}
+{"query": "Is Gender a Social Construct?", "output_ids": ["14425711", "1808127", "11109671", "15058103", "11154440", "3367223", "18219171", "17304090", "15689912", "8004899"]}
+{"query": "Was Jesus physically resurrected from the dead?", "output_ids": ["13212585", "8306909", "9808643", "367958", "15994055", "1515303", "9785937", "13096734", "2371439", "9986423"]}
+{"query": "Should an artificial general intelligence be created?", "output_ids": ["3773687", "10942122", "11132215", "17539002", "411078", "9575423", "1854178", "9306564", "3856530", "7637747"]}
+{"query": "Is Artificial General Intelligence (AGI) even possible?", "output_ids": ["4011908", "1891024", "11048128", "17119575", "7637747", "2525541", "17602840", "7746383", "2738331", "19306139"]}
+{"query": "Gender is an ill-defined concept and should thus be abolished.", "output_ids": ["17137869", "2744459", "7979872", "17015420", "5521058", "6939315", "4922325", "12568816", "9688091", "15691809"]}
+{"query": "Should the UN have terminated its mission in Sudan?", "output_ids": ["16023342", "17771552", "14811532", "17256020", "15813871", "4850113", "9414538", "120863", "2281697", "15750312"]}
+{"query": "Should Religious Education that Promotes a Certain Faith or Religion be Abolished in Schools?", "output_ids": ["18462198", "16840667", "11278086", "12805006", "6022955", "13380953", "16863332", "3397329", "5686341", "5637701"]}
+{"query": "Which of the potential explanations for peculiar UFOs (UAP) is most likely?", "output_ids": ["1229784", "15072051", "4289391", "20842575", "10107445", "7591586", "10826105", "707272", "18266592", "7716880"]}
+{"query": "Is Islam compatible with feminism?", "output_ids": ["2958111", "12630442", "20462518", "1476044", "14165275", "17196883", "6310826", "11713217", "5052188", "14970718"]}
+{"query": "Should Humans Tour Outer Space?", "output_ids": ["8660392", "16017186", "12822643", "9186", "10148591", "6842051", "5277690", "5560441", "16409654", "10738090"]}
+{"query": "Should fracking be banned?", "output_ids": ["13668366", "4490452", "4980896", "12916907", "5181297", "16362086", "16155778", "4603435", "18739679", "6596731"]}
+{"query": "Does BDSM promote violence against women?", "output_ids": ["19807712", "980216", "1813315", "16819704", "10782607", "898881", "11449854", "5404441", "13620097", "20717357"]}
+{"query": "Why are electric vehicles better than fossil fuel vehicles?", "output_ids": ["7311834", "6577106", "160149", "3856390", "10697762", "7034727", "16704722", "154722", "15043308", "12845814"]}
+{"query": "Artificial Intelligence (AI): is limiting an AI's freedom of thought unethical?", "output_ids": ["16628696", "16665470", "597462", "20582871", "13570456", "20433818", "20387210", "17155094", "3891058", "4624751"]}
+{"query": "Is the Scientific Process Objective?", "output_ids": ["17452375", "2735754", "259580", "3280728", "15896053", "12794316", "1913819", "14561708", "16062575", "4867162"]}
+{"query": "Children should be raised in atheism.", "output_ids": ["6537862", "15914536", "9459339", "19278582", "15145241", "18994147", "11442868", "1599454", "16534569", "3638956"]}
+{"query": "Was there fraud or impropriety in the US 2020 presidential election on behalf of the Democratic Party?", "output_ids": ["20601755", "9700499", "16059009", "12613684", "821748", "9851457", "14636485", "3829833", "16682935", "6113506"]}
+{"query": "Should there be any limit to freedom of speech?", "output_ids": ["14084144", "1490987", "17093089", "13607665", "4697086", "13996353", "16762071", "13458675", "20291291", "13910489"]}
+{"query": "What is the best solution to the Israel/Palestine conflict?", "output_ids": ["2435581", "19956729", "4824560", "18957389", "14033232", "8305012", "15580207", "5820044", "7751066", "6564012"]}
+{"query": "Should we adapt to climate change rather than avert it?", "output_ids": ["18220350", "4265522", "17514486", "1693133", "686005", "4848478", "19194462", "8330117", "19860534", "16652252"]}
+{"query": "Is pure recreation immoral when we could be helping to end suffering?", "output_ids": ["2067352", "6746561", "18132066", "11240188", "14595927", "10724074", "2915426", "4719049", "799226", "15624"]}
+{"query": "Which voting system should the United States use?", "output_ids": ["6542533", "16600377", "19679960", "4841397", "7047068", "15712318", "4085399", "7272421", "3209480", "14625742"]}
+{"query": "Should Polygamy Be Legal?", "output_ids": ["11326404", "8792634", "325769", "20980412", "11698177", "18278667", "325762", "18681800", "14420522", "9310244"]}
+{"query": "Should humans act to fight climate change?", "output_ids": ["18286685", "2482024", "1901095", "9907211", "5396673", "1789355", "17053284", "16046334", "9880317", "1316546"]}
+{"query": "Are the Indonesian elections free and fair?", "output_ids": ["37894", "4067862", "5981876", "16426726", "6109004", "1831816", "17139643", "3605180", "9662769", "18931677"]}
+{"query": "Are boycotts are a net positive to society?", "output_ids": ["11746395", "17979474", "13518265", "20388660", "14281722", "4085194", "6805039", "4027728", "199963", "17727543"]}
+{"query": "Can Religions and the LGBTQ+ Community Peacefully Coexist?", "output_ids": ["20864057", "12098622", "10361613", "10423053", "1255917", "14478789", "8125249", "19283177", "412430", "9926308"]}
+{"query": "Should transgender personae only be performed by transgender people?", "output_ids": ["20906669", "534641", "7986545", "18103404", "8857006", "16822231", "17545573", "12182656", "18418334", "20745480"]}
+{"query": "Is Artificial Intelligence a threat to democratic governance?", "output_ids": ["4669018", "93069", "20478531", "21012518", "16389887", "4922646", "13189961", "20895806", "13583150", "17119575"]}
+{"query": "Should abortion be considered murder?", "output_ids": ["19289234", "10663994", "92393", "20541292", "917213", "4915766", "14959603", "7777125", "19091607", "20539670"]}
+{"query": "What is the best diet or dietary approach for health and well being?", "output_ids": ["15366326", "12402323", "3660746", "2154904", "13851436", "15521253", "5046637", "20240702", "7768295", "16930836"]}
+{"query": "Should we criminalise hate crime?", "output_ids": ["20359164", "7377334", "19821944", "5460467", "20970602", "8824124", "15602161", "17579323", "258084", "8230059"]}
+{"query": "Should Western countries place sanctions on Israel following retaliatory strikes ordered by Netanyahu?", "output_ids": ["8970415", "10666723", "7824853", "12386453", "10743453", "2537750", "13497868", "13563245", "17276479", "4969455"]}
+{"query": "Is the existence of a transcendent Creator demonstrated through the Kalam argument?", "output_ids": ["14341593", "18933526", "3563295", "755851", "2057158", "1468115", "3276537", "7909787", "13089642", "12737240"]}
+{"query": "Is steroid use outside sports ethical?", "output_ids": ["16317262", "53010", "4215546", "12760693", "18246048", "14072242", "19241892", "11162915", "3761892", "13483083"]}
+{"query": "Should we replace meat with insect derived protein?", "output_ids": ["114143", "14331839", "18121828", "10021248", "6820398", "9015478", "8059329", "532198", "19664111", "17646104"]}
+{"query": "Should we connect our brains to computers to the fullest possible extent?", "output_ids": ["14653383", "16497882", "1410021", "14693470", "11398989", "1797884", "6013719", "13748974", "9522961", "6191763"]}
+{"query": "Is keeping AI closed source safer and better for society than open sourcing AI?", "output_ids": ["6302195", "16429637", "14491834", "1760767", "19913446", "6551537", "7033093", "3736746", "19662659", "13905277"]}
+{"query": "Regardless of who we are today, the universe must have had an origin. How did our universe start?", "output_ids": ["1787059", "16340197", "2290910", "18564582", "7696187", "20089327", "19890898", "7261282", "9337982", "4842358"]}
+{"query": "Is Taylor Swift's video \"The Man\" a proper representation of men in today's society?", "output_ids": ["20315208", "9312758", "13702095", "15571856", "1771425", "20645374", "10922589", "9595625", "532497", "19615125"]}
+{"query": "Is Net Neutrality Necessary?", "output_ids": ["20453954", "12810866", "12711", "17783000", "17374928", "4188221", "16659934", "20453942", "20702030", "16982685"]}
+{"query": "Is Cannibalism Ethically Permissible?", "output_ids": ["17520334", "20280376", "10113702", "11857785", "656550", "18212405", "13603957", "16118049", "17488529", "12731467"]}
+{"query": "Donald Trump for President 2024", "output_ids": ["7642271", "19043764", "4146501", "6261774", "14293404", "20763640", "20313375", "20301852", "5838787", "20132990"]}
+{"query": "Should Euthanasia Be Legalised?", "output_ids": ["3073944", "14528748", "9669680", "12942529", "412859", "19912292", "10625190", "18278894", "10296919", "16478260"]}
+{"query": "schools should teach life skills such as cooking and driving", "output_ids": ["19940619", "17829460", "603230", "18668001", "16323726", "20323515", "17481530", "3183670", "11442986", "6847861"]}
+{"query": "Should juveniles who commit violent crime be treated as adults in the criminal justice system?", "output_ids": ["3808272", "1921269", "477328", "6678321", "4283115", "17507331", "15456653", "16936899", "14204504", "9080600"]}
+{"query": "Should Human Life Be Valued Above Animal Life?", "output_ids": ["7196379", "1919768", "14947823", "71761", "3272500", "2881026", "19125075", "15325486", "15203068", "2994190"]}
+{"query": "Is Hamas a terror organization?", "output_ids": ["12612758", "2582248", "19120448", "10438374", "14278749", "441602", "4115926", "18918100", "4575544", "20992653"]}
+{"query": "Was Donald Trump a Good President?", "output_ids": ["20763640", "19962322", "15504063", "3329540", "20301852", "19326655", "20366553", "20418326", "20999580", "18031343"]}
+{"query": "Should military conscription apply to men and women equally?", "output_ids": ["3623271", "16387534", "7189566", "4618289", "20998868", "15226406", "12407646", "12456876", "11588480", "4723540"]}
+{"query": "Has Religion Been a Good Thing for Humanity?", "output_ids": ["342193", "5698766", "2207664", "2861932", "1785876", "8646657", "2803217", "16285078", "1507471", "569821"]}
+{"query": "Does the gender binary correspond to the sex binary?", "output_ids": ["1510839", "19355053", "20992395", "5011695", "7528286", "1918719", "8771001", "8582791", "15252778", "11218815"]}
+{"query": "Can Religious Faith and Science Coexist?", "output_ids": ["14866187", "11398614", "4444338", "12135868", "2052327", "8618214", "12795555", "3029592", "7748670", "10207644"]}
+{"query": "Does Mixed Martial Arts (MMA) glorify violence? And if so, would that be a problem?", "output_ids": ["15523812", "1749722", "8443138", "4568675", "10959626", "15888259", "7429890", "15664102", "14845228", "19892336"]}
+{"query": "Is it wrong to celebrate the death of Henry Kissinger?", "output_ids": ["1702377", "4619082", "2550780", "884273", "20700294", "14409234", "13809148", "10463264", "19693201", "13173069"]}
+{"query": "Is one sex partner enough?", "output_ids": ["18672864", "16536265", "8020171", "12916038", "9852206", "3153300", "55365", "10993117", "2159162", "5631980"]}
+{"query": "Should the US continue to support Israel in the Israel-Palestine conflict?", "output_ids": ["2352370", "17118867", "15580207", "17435691", "6920946", "14062247", "8700329", "16453682", "11854448", "8275765"]}
+{"query": "Should Zoos Be Banned?", "output_ids": ["8985304", "304048", "10047569", "7674319", "9736500", "18041344", "20831901", "18187845", "4638435", "988710"]}
+{"query": "Should public nudity be legal?", "output_ids": ["7108587", "15477203", "16378905", "18514179", "3271691", "293907", "2946743", "18033133", "15772103", "4756353"]}
+{"query": "Should nuclear energy replace fossil fuels?", "output_ids": ["11148364", "12136018", "9883982", "20235652", "17039868", "7185361", "5023193", "17608289", "11940743", "14952100"]}
+{"query": "Has the use of AI in workplaces negatively affected the quality of output?", "output_ids": ["10271264", "18999054", "19400177", "5016883", "3015084", "12504312", "2210323", "5284516", "8744951", "11145355"]}
+{"query": "Should private prisons be banned?", "output_ids": ["4964223", "15214011", "10953058", "19208236", "14341336", "176435", "10472870", "19084058", "13778916", "6307470"]}
+{"query": "Should LGBTQ+ Conversion Therapy Be Banned?", "output_ids": ["15510435", "367391", "13757152", "15434718", "16292854", "14742281", "15902229", "13714349", "20404801", "9997681"]}
+{"query": "Should ear piercing of newborns be banned?", "output_ids": ["15428858", "18787318", "3508439", "4573325", "19136936", "5517709", "9429903", "18264712", "6692758", "11792373"]}
+{"query": "Is Pope Francis a good pope?", "output_ids": ["3012263", "9690573", "15274030", "3380182", "19015391", "20511127", "4839109", "14859087", "4242545", "4848667"]}
+{"query": "Is it necessary to experience suffering?", "output_ids": ["17199036", "3473939", "20216445", "20145349", "20968037", "4490967", "13252517", "5241271", "13031833", "9911085"]}
+{"query": "Should guns be reserved for law enforcement and the military?", "output_ids": ["15598757", "12064800", "6745880", "16408647", "3243976", "20831090", "13153557", "15424944", "10049013", "10329572"]}
+{"query": "Is Premarital Sex Immoral?", "output_ids": ["18013408", "11152859", "6640475", "8138152", "18103801", "7460542", "17497118", "15644174", "15847120", "8969118"]}
+{"query": "Should the UK Government increase the minimum income requirement for UK family visas to \u00a338,700?", "output_ids": ["3281167", "4648815", "942503", "18327171", "14554913", "19203445", "10935401", "19581121", "9569015", "11441497"]}
+{"query": "Should TikTok be banned in the US?", "output_ids": ["1410830", "20621890", "7888415", "6711561", "17418019", "7904311", "7290772", "16710531", "13621187", "5544999"]}
+{"query": "Do fair trade products cause more good than harm?", "output_ids": ["597653", "3224818", "48911", "4486375", "10757806", "14136332", "6542686", "3827565", "5652654", "5490291"]}
+{"query": "Is Gender Reassignment Surgery the Best Option for Transgender People?", "output_ids": ["16096380", "19115842", "3059707", "7573944", "20381079", "11590755", "19254524", "7257441", "17393579", "243251"]}
+{"query": "Is it Ok to incentivise moral behaviour?", "output_ids": ["10284516", "12137627", "7746320", "17065863", "451766", "5492143", "3635282", "5687520", "15989144", "8455357"]}
+{"query": "Are the roots of the Israel-Palestine conflict antisemitic?", "output_ids": ["9210400", "8700327", "15940870", "57408", "8918476", "17389804", "17465762", "17309900", "206426", "16990021"]}
+{"query": "Should high quality childcare be provided, free of charge, to all Americans ?", "output_ids": ["16769862", "12139150", "13895053", "1862168", "16913388", "16997971", "5997906", "3814409", "16061722", "3904007"]}
+{"query": "Should indigenous lands be returned to Native populations?", "output_ids": ["6618966", "6134617", "1608939", "15391146", "3787602", "10678381", "84963", "8798125", "9025284", "18463553"]}
+{"query": "Should the Tampon Tax be Abolished?", "output_ids": ["3568607", "17269299", "19880067", "19463885", "19133655", "6309222", "7859049", "12870156", "14285266", "7571707"]}
+{"query": "What are the most important websites for self-education and research?", "output_ids": ["6812544", "5192039", "2414931", "20029353", "16643564", "14183107", "14185899", "5600311", "17998654", "14041236"]}
+{"query": "Should single-sex schools be banned?", "output_ids": ["3221022", "2290112", "10303091", "6741656", "2840780", "4939027", "2302749", "16292843", "8720056", "18940997"]}
+{"query": "Should the USA break up into smaller, distinct nations?", "output_ids": ["9075216", "8279355", "10552667", "2760002", "12225054", "484896", "10321545", "17032923", "12769000", "13836736"]}
+{"query": "Should Finland have joined NATO?", "output_ids": ["535202", "19360147", "13514991", "17183785", "10425121", "15477843", "2356307", "5081973", "3663614", "228864"]}
+{"query": "Which front-end javascript framework is best?", "output_ids": ["18404210", "19051335", "16500154", "17579653", "13112663", "18168855", "241000", "3866460", "18508507", "1570497"]}
+{"query": "Is enlightened despotism superior to democracy?", "output_ids": ["3071361", "9634594", "2844265", "16764228", "6628871", "2834113", "7351328", "20149987", "10761396", "6823203"]}
+{"query": "Which religion best supports science?", "output_ids": ["7350707", "668224", "12792687", "4562053", "8917675", "1932661", "10430485", "6053090", "1275545", "8021249"]}
+{"query": "Should all drugs be legalised?", "output_ids": ["10661414", "16005432", "18860243", "4343188", "3785281", "13895408", "3960001", "19393883", "18615273", "6434246"]}
+{"query": "Should Empathy Be Taught In School?", "output_ids": ["6046980", "17396739", "10812523", "16769149", "18241489", "7769540", "14089152", "17546616", "10106356", "4654747"]}
+{"query": "Should school uniforms be banned?", "output_ids": ["14599664", "19000490", "12559896", "17307609", "2840779", "10521572", "15797417", "13681828", "3721257", "17895007"]}
+{"query": "Is Cloning Animals Ethical?", "output_ids": ["5890530", "16652805", "18648471", "10037922", "7850093", "7125287", "12381651", "4407457", "12552767", "16964241"]}
+{"query": "Should Bullfighting be Banned?", "output_ids": ["20013738", "11845910", "2849734", "13577644", "15867899", "792284", "5842383", "16354443", "13009492", "7882078"]}
+{"query": "Should governments provide a universal basic income?", "output_ids": ["16384623", "7962096", "13136153", "16994019", "9251331", "16758696", "8791484", "1380483", "2390832", "12171835"]}
+{"query": "Should Warner Brothers have fired Amber Heard from Aquaman 2?", "output_ids": ["4076449", "6431430", "17548493", "9481531", "12413002", "14260860", "14421411", "3789375", "12241684", "4525615"]}
+{"query": "Is Elon Musk's takeover of Twitter good for the public?", "output_ids": ["18160664", "1805891", "20678175", "8497507", "20219298", "19930026", "10782562", "8678456", "20816236", "19046786"]}
+{"query": "Do paywalls around academic publications slow scientific progress?", "output_ids": ["11712208", "7472136", "17644478", "1570533", "3993259", "12462979", "1596498", "20382109", "10806600", "2037783"]}
+{"query": "Is equality of outcome better than equality of opportunity?", "output_ids": ["4491765", "3518686", "19290596", "7337612", "472910", "19292914", "15531345", "11346538", "2450481", "20195234"]}
+{"query": "Digital Piracy: Good or Bad?", "output_ids": ["17132738", "11915159", "6962067", "18382945", "2943281", "8242435", "10305777", "19139648", "9078838", "3906876"]}
+{"query": "Should marijuana be as legally accessible as alcohol?", "output_ids": ["2046715", "1946313", "6359094", "3809827", "7696684", "19388064", "8809825", "11552827", "4765538", "14060868"]}
+{"query": "How should society deal with pedophiles convicted of child sex offences?", "output_ids": ["15719711", "9349715", "9485881", "9245782", "6678387", "19987071", "20379300", "4020412", "14992502", "11716739"]}
+{"query": "Should Children's Stories Be Subject to Strict Moral Guidelines?", "output_ids": ["5299801", "6342790", "18287966", "16158836", "17137120", "8653992", "1633182", "9949499", "14353362", "1275054"]}
+{"query": "Logic is more useful for human advancement than emotion.", "output_ids": ["6413303", "3874475", "15883583", "3983339", "19806070", "5995174", "412664", "640360", "16393773", "4780759"]}
+{"query": "Should legacy be a factor in college admissions?", "output_ids": ["19171502", "13085135", "15727567", "5744845", "12657746", "11259236", "6873665", "1787861", "6757455", "20441119"]}
+{"query": "What are the strengths and weaknesses of networked, [[wikilinking]], note-taking apps?", "output_ids": ["10349672", "20172009", "600481", "2747511", "6485259", "10002407", "6700380", "16592661", "11307604", "9201354"]}
+{"query": "All software should be open source.", "output_ids": ["5274697", "14436498", "11582373", "8753281", "3504399", "6494250", "4536025", "12413573", "845680", "2481116"]}
+{"query": "Open source software is better.", "output_ids": ["7265522", "18828944", "12474363", "19517219", "5343426", "9138709", "8884916", "2361644", "10447688", "8292476"]}
+{"query": "Is Organic Farming Better Than Conventional Farming?", "output_ids": ["18671742", "19087944", "10838379", "1580407", "13063705", "20245905", "19591397", "19426269", "10397971", "504734"]}
+{"query": "Should the sale of genetically modified food be banned?", "output_ids": ["160400", "11325789", "8941361", "5282770", "16292836", "8493836", "7219108", "289842", "20108613", "18577661"]}
+{"query": "Is Vegetarianism A Healthy or Unhealthy Diet To Have?", "output_ids": ["9316470", "15557461", "3980011", "13997321", "17292727", "446798", "6289036", "1719548", "8534921", "13624074"]}
+{"query": "Are Men the Biggest Problem Mankind Faces?", "output_ids": ["8465537", "2674775", "14277989", "1769014", "12555886", "349599", "5940783", "157742", "12474235", "18155555"]}
+{"query": "Should people with Genetic disorders reproduce?", "output_ids": ["4805482", "10397764", "13216462", "2621443", "14482889", "738536", "17304147", "6625901", "19977299", "11495422"]}
+{"query": "Should general AI have fundamental rights?", "output_ids": ["11121774", "3074388", "3067083", "16675877", "9877336", "10649327", "8802480", "6772922", "2052255", "18553896"]}
+{"query": "If Scientifically Possible, Should Humans Become Immortal?", "output_ids": ["7342756", "1723041", "2227530", "6310622", "1838513", "12008111", "10483535", "6644037", "8663054", "11431687"]}
+{"query": "China is Still Communist", "output_ids": ["3539154", "4575283", "6372586", "9944750", "6734991", "2038735", "9241138", "1500826", "20488091", "5936648"]}
+{"query": "Is citizen science beneficial to science?", "output_ids": ["18691426", "13011961", "14903863", "13089900", "209564", "19642854", "5442075", "14110295", "17631103", "13522313"]}
+{"query": "Does God Allow Evil: Is the Existence of God Compatible with the Existence of Evil?", "output_ids": ["260070", "12431497", "407394", "1831146", "7427871", "20405291", "13094003", "13514342", "13940101", "9126712"]}
+{"query": "Should we promote the feeling of nationalism for betterment of India?", "output_ids": ["18206908", "14452015", "9394800", "12089534", "11816545", "7434576", "2762787", "11989858", "15572783", "18557561"]}
+{"query": "Should religion be involved in politics?", "output_ids": ["2760760", "7976380", "5749459", "13798392", "4270563", "8765074", "19822270", "7360802", "16906167", "11442829"]}
+{"query": "Should China declare support for Palestine?", "output_ids": ["3732500", "7029257", "3315902", "949733", "11734299", "20205055", "12693309", "16762768", "20229206", "5882957"]}
+{"query": "Is Darwinian Evolution Philosophy or Science?", "output_ids": ["154559", "11163501", "10965027", "511458", "2828643", "5515359", "19187123", "1775891", "4158294", "10724206"]}
+{"query": "Should Colleges Have Safe Spaces?", "output_ids": ["593105", "20546827", "2638850", "20509872", "3986461", "9846105", "6769705", "8215498", "14925107", "12798308"]}
+{"query": "Should gratuitous acts of violence in movies and television shows be banned?", "output_ids": ["1413628", "2909470", "12638557", "9337376", "17612757", "14569909", "18971114", "3709069", "4832024", "17270197"]}
+{"query": "Should the United States have more than two major political parties?", "output_ids": ["430622", "19057937", "7114757", "18393711", "3317411", "14256284", "10670747", "11615807", "7291402", "12983909"]}
+{"query": "Should the US Recognize Palestine as a State?", "output_ids": ["969609", "3802503", "2214267", "18949524", "19209313", "444422", "13704770", "2177852", "8335427", "17014450"]}
+{"query": "Should the age of consent be lowered to fourteen?", "output_ids": ["7774099", "17427149", "14196145", "5783198", "16585095", "12987899", "3775176", "19677623", "8056996", "2607181"]}
+{"query": "What is the best Nickelodeon show?", "output_ids": ["20574707", "16101623", "15485079", "12196946", "3538326", "10492027", "3970491", "16064460", "5631126", "8088201"]}
+{"query": "Do gun control laws reduce crime?", "output_ids": ["2224163", "4116998", "15224877", "1572003", "1619993", "7010130", "10086610", "18623764", "12537229", "12583322"]}
+{"query": "Should the UN Security Council's veto power and permanent membership for the five nations be abolished?", "output_ids": ["16907651", "3114253", "93049", "16409571", "16409572", "13809929", "310342", "9288306", "7034996", "15624824"]}
+{"query": "Are the rich or the poor more responsible for environmental damages?", "output_ids": ["3478623", "2095092", "19053753", "6056454", "12168689", "593740", "1685126", "2257922", "1337427", "20978975"]}
+{"query": "Would a Socialist Economy work better than a Capitalist Economy?", "output_ids": ["2720261", "5042536", "7176945", "7311797", "6829073", "701189", "99620", "20618129", "17827935", "9528006"]}
+{"query": "What is the best Pixar movie?", "output_ids": ["5689862", "20701436", "9544782", "14375732", "18548365", "11423314", "17141756", "9544790", "6545655", "10367888"]}
+{"query": "Does trickle-down economics do more harm than good?", "output_ids": ["3327681", "18858494", "1562855", "14893322", "6980378", "17876650", "18008040", "20586894", "10377042", "2123720"]}
+{"query": "SB 1596: Employment of Minors", "output_ids": ["10300390", "11124788", "19093714", "11960807", "14430133", "18290831", "11723504", "7127823", "18168920", "19264764"]}
+{"query": "Is Hamlet Mad?", "output_ids": ["9537024", "9349512", "2975910", "14465558", "1165284", "16139619", "3941476", "9794739", "6434387", "549895"]}
+{"query": "Should we build a nuclear power plant?", "output_ids": ["10232840", "10138466", "15513718", "8573720", "4726818", "14406737", "13280268", "10479045", "10760976", "14522939"]}
+{"query": "Edible Landscapes: Should Lawns Be Replaced?", "output_ids": ["20835146", "1421992", "20587095", "9260078", "12871246", "3869571", "2407975", "11976606", "10127854", "17505616"]}
+{"query": "Is water wet?", "output_ids": ["15698439", "20168540", "16196361", "4055301", "11585305", "1939258", "16035602", "11923119", "5500405", "14726947"]}
+{"query": "Is cultural diversity beneficial to develop a successful organisation?", "output_ids": ["7075097", "14097038", "4187273", "15665575", "14854791", "17340745", "16836769", "9120705", "16058632", "11104268"]}
+{"query": "Can self-censorship be a good thing?", "output_ids": ["6250715", "11914640", "9097920", "8898583", "4852584", "9200822", "3474217", "17931674", "2536194", "14274729"]}
+{"query": "Should All People in the US Have the Right to Basic Healthcare?", "output_ids": ["19299369", "2238962", "13280191", "94546", "336943", "19004832", "14882252", "15385791", "18657368", "14608611"]}
+{"query": "Should Art Made By Abusers Be Removed From Cultural Institutions?", "output_ids": ["16548400", "10949568", "15719752", "8657688", "5690122", "657699", "8164480", "18490217", "19347613", "10164825"]}
+{"query": "Is freedom of sexuality inducing harm?", "output_ids": ["15072086", "274430", "18052594", "13458691", "11347627", "14820361", "14699236", "18611001", "3444471", "11048831"]}
+{"query": "Wir suchen einen Namen, der aus unserem losen Zusammenschluss von Klima-, Sozial- und Demokratie-Bewegungen in \u00d6sterreich, eine Gemeinschaft schafft.", "output_ids": ["14871495", "18297829", "15900817", "9904850", "17771971", "12958094", "10831548", "6160777", "17676929", "20422408"]}
+{"query": "Is Christmas best celebrated at home or at a tourist destination?", "output_ids": ["7578913", "17213098", "2067670", "14845971", "5405332", "13613702", "5745634", "4758608", "18814843", "12324330"]}
+{"query": "Is the UK NHS (National Health Service) sustainable?", "output_ids": ["17648828", "13461007", "16135314", "14565866", "7790319", "5613541", "6751973", "7405660", "19846185", "6801853"]}
+{"query": "Wir wollen einen Wortlaut, einen Ausdruck, ein paar Zeilen finden, die das Selbstverst\u00e4ndnis der Vernetzung beschreiben, f\u00fcr die wir mit der orga-\u00fcbergreifenden Vernetzungs AG arbeiten und Strukturen schaffen wollen.", "output_ids": ["11956572", "13906540", "17974778", "10417758", "13387806", "18302450", "10698377", "12018920", "4937104", "14688221"]}
+{"query": "Are trans women real women?", "output_ids": ["15338633", "6130851", "20162773", "11320543", "12474647", "3186823", "20145349", "14614664", "20918847", "17545568"]}
+{"query": "Should airplane passengers pay for their body weight?", "output_ids": ["18050185", "11234933", "13340334", "7283529", "6142257", "11040130", "17667187", "11403935", "16307801", "6582503"]}
+{"query": "Is the USA a good country to live in?", "output_ids": ["1854334", "19268214", "14200381", "2363269", "15663610", "10400566", "6275077", "19301520", "328151", "13307569"]}
+{"query": "Modern technology is a disadvantage to society.", "output_ids": ["12321239", "19692758", "8735703", "19892869", "2923015", "17498098", "4938783", "4681089", "19109681", "13182651"]}
+{"query": "Should Shark Culling Be Banned?", "output_ids": ["14221741", "10861650", "5201185", "118847", "4195163", "1941838", "2830053", "19902829", "541169", "5332080"]}
+{"query": "Everyone Should Health Track - Self Quantify", "output_ids": ["17166814", "20554006", "3753165", "2103005", "9413110", "706025", "56867", "20597464", "11921200", "19185191"]}
+{"query": "Should science get more governmental funding?", "output_ids": ["17230776", "15329828", "643252", "15534726", "14251265", "10024212", "18503496", "7068879", "10276622", "31282"]}
+{"query": "Will human civilisation collapse (i.e regress or go extinct) ?", "output_ids": ["9343154", "170671", "425936", "4732492", "2716158", "16780803", "11330400", "11845669", "6458793", "5292532"]}
+{"query": "Should Florida Pass HB 887 (Guardianship)?", "output_ids": ["17112424", "15869256", "12781360", "10590694", "2418675", "1664612", "14230570", "15645149", "18263030", "4154320"]}
+{"query": "Is AI art theft?", "output_ids": ["18697363", "299490", "19194629", "5392123", "770684", "20054883", "12317719", "12369449", "13196463", "10844347"]}
+{"query": "Should Florida Pass SB 1178 (Condominium and Cooperative Associations)?", "output_ids": ["20194174", "17155838", "1033805", "11581565", "17667687", "12944466", "6195914", "20308664", "13656993", "16732658"]}
+{"query": "Should Florida Pass SB 1364 (Everglades Protection Area)?", "output_ids": ["17267869", "16615672", "8277592", "4884992", "16093747", "4680493", "1986608", "9073579", "16606946", "14700908"]}
+{"query": "Should Florida Pass SB 864 (Autism Spectrum Disorder Training for Law Enforcement Officers)?", "output_ids": ["5593332", "15253236", "4323479", "2707262", "18684435", "2487229", "1936900", "14370952", "7358188", "11040277"]}
+{"query": "Should Florida Pass HB 1431 (International Drug Reference Pricing)?", "output_ids": ["1451490", "10253308", "5308012", "8352489", "12907189", "353592", "13319502", "9563920", "9592858", "14898512"]}
+{"query": "Should Florida Pass SB 248 (Medical Negligence)?", "output_ids": ["17834818", "5264563", "7906538", "9296603", "10094683", "14803809", "7984959", "7373526", "16093747", "12475922"]}
+{"query": "Should Florida Pass HB 3 (Online Access to Materials Harmful to Minors)?", "output_ids": ["17950914", "14028191", "16186085", "5343557", "4014499", "7298437", "10149587", "6904392", "2418675", "18851565"]}
+{"query": "Should Florida Pass HB 1 (Social Media Use for Minors)?", "output_ids": ["9772551", "16490202", "7635907", "20726540", "4639109", "5065711", "16406781", "17434277", "18415402", "14230570"]}
+{"query": "What is the best movie by DreamWorks Animation?", "output_ids": ["14527113", "11207597", "5341680", "17711756", "16124126", "19706194", "18052630", "15725436", "252407", "3026517"]}
+{"query": "Is chivalry sexist?", "output_ids": ["13141501", "9754623", "12067557", "4787513", "12909798", "4724968", "20859185", "3455316", "1785932", "700854"]}
+{"query": "Did the British Empire do more harm than good to the people it ruled over?", "output_ids": ["6616657", "4983195", "14772180", "18064974", "1309687", "10200660", "10619831", "425836", "13989745", "13497720"]}
+{"query": "Are UFOs real?", "output_ids": ["10851218", "5110562", "7104689", "1309986", "4689928", "13457614", "3359580", "1354237", "5382357", "1586455"]}
+{"query": "Technological VS Moral Advancement", "output_ids": ["9748080", "19823247", "10688400", "3492271", "14275093", "11652409", "9566934", "12889546", "7977124", "10003150"]}
+{"query": "Should Drinking Water Be Fluoridated?", "output_ids": ["6188594", "6469662", "5222732", "17666044", "11531583", "14121504", "12780648", "7395876", "3218687", "13472848"]}
+{"query": "Le tirage au sort des parlementaires est-il une alternative souhaitable \u00e0 l'\u00e9lection ?", "output_ids": ["15137333", "20365452", "5535946", "18727618", "8444937", "13364984", "13544408", "20151573", "11713967", "17257828"]}
+{"query": "Is it responsible to have \"conservative\" values in politics?", "output_ids": ["1345385", "6328174", "5682902", "10392478", "19960308", "15882694", "19880763", "9268459", "10594157", "5537335"]}
+{"query": "Should Australians establish an Aboriginal and Torres Strait Islander Voice?", "output_ids": ["3970734", "7738883", "7107018", "20620942", "19997387", "1388313", "13362673", "17750266", "9151152", "2442832"]}
+{"query": "Was Einstein Sexist?", "output_ids": ["2123038", "18800622", "13399461", "12297674", "6388664", "10181519", "14246699", "3104762", "2090835", "2158"]}
+{"query": "Should we require major polluter nations to open up their borders to climate refugees?", "output_ids": ["19390700", "671298", "19877798", "4939316", "4553102", "6084988", "14643112", "18577650", "697160", "10382670"]}
+{"query": "Should we create a sports category that allows drug usage?", "output_ids": ["18260631", "19924550", "3490477", "975867", "7017771", "5738457", "1732013", "688987", "19679082", "4489112"]}
+{"query": "Should vaccinations be mandatory?", "output_ids": ["16605561", "15701206", "12951934", "18270504", "7830889", "657118", "962022", "9106501", "12821297", "563690"]}
+{"query": "Do Ontological Arguments Prove God?", "output_ids": ["13825178", "124762", "1839927", "13083814", "7181643", "19791658", "160815", "8844425", "13323216", "6815155"]}
+{"query": "The Second Amendment to the U.S. Constitution should be repealed.", "output_ids": ["2288355", "19888536", "14905837", "7209907", "14158957", "3112458", "19941031", "15292853", "12800802", "5306964"]}
+{"query": "Does overturning Roe v. Wade undermine American legal and civil freedoms?", "output_ids": ["236432", "11661522", "17348662", "9492973", "11147321", "4113129", "5791151", "4167286", "19880", "4293108"]}
+{"query": "Is Capitalism Bad?", "output_ids": ["7843534", "16272136", "6909894", "1905483", "9928337", "5829978", "17297680", "3580222", "17881851", "2951479"]}
+{"query": "Does the Bible support the conclusion that homosexuality is a sin against God?", "output_ids": ["13354696", "11850959", "13661868", "4489462", "18112710", "6564432", "11842886", "14140180", "13980050", "8479853"]}
+{"query": "Should burning the Quran be illegal?", "output_ids": ["13640288", "15167574", "17269600", "19685502", "15669935", "13092891", "14770018", "2620358", "17376904", "3872057"]}
+{"query": "Has Xi Jinping been good for China?", "output_ids": ["967974", "13632474", "19546169", "17459805", "8685190", "1694531", "20421271", "14699719", "18525585", "5116098"]}
+{"query": "Will robots doing work be better or worse for humans?", "output_ids": ["19536280", "5686176", "16426249", "5180836", "20779787", "18779583", "6655203", "8354073", "4252456", "12890068"]}
+{"query": "Is science becoming increasingly distorted and losing objectivity?", "output_ids": ["20931982", "395167", "5717972", "12720970", "13916551", "15972224", "11338396", "14228098", "9234352", "9238214"]}
+{"query": "Is Space Exploration a Waste of Money?", "output_ids": ["12263324", "10036771", "19384155", "9633896", "477164", "9292088", "20366089", "1816466", "16816325", "6692864"]}
+{"query": "Does social media play a significant role in influencing people's behaviors, becoming a key driver of climate change?", "output_ids": ["156687", "1977929", "19757094", "20085407", "3408325", "2661395", "10114751", "6670733", "18958276", "15621310"]}
+{"query": "Are video games currently more enjoyable than board games?", "output_ids": ["15672635", "17846573", "17277583", "4150907", "15092820", "3793429", "7450560", "16370510", "10488114", "18417452"]}
+{"query": "Is Shrek a superhero?", "output_ids": ["5587370", "12762099", "12219828", "8481062", "11164297", "12372837", "19297006", "7186423", "6715726", "19495490"]}
+{"query": "Should Hunger Be The First Problem To Solve Before All Others?", "output_ids": ["17275772", "1892213", "1507386", "18503603", "19647708", "2743768", "982336", "4305494", "20375102", "2458321"]}
+{"query": "Does Feminism Empower Both Women And Men?", "output_ids": ["220315", "139766", "6639917", "884849", "13909252", "16387534", "6950135", "14764645", "18463612", "6068539"]}
+{"query": "Should the US sell weapons with nuclear capabilities to Ukraine?", "output_ids": ["6534078", "10759318", "7742588", "4719351", "5425855", "17895267", "12673209", "2100673", "3160500", "3437359"]}
+{"query": "Are gender and sex the same thing?", "output_ids": ["8339571", "6521687", "18899762", "1356396", "217651", "2956615", "3647234", "10782506", "14477765", "3637899"]}
+{"query": "Did a divine being create the universe?", "output_ids": ["20227469", "8588787", "8524240", "12027025", "9078792", "15957467", "5834056", "6848719", "5056677", "16476995"]}
+{"query": "Is God a Trinity?", "output_ids": ["413236", "5626169", "2671261", "17011420", "2309977", "17825342", "5691329", "13275854", "14910032", "8970177"]}
+{"query": "How did our Universe come into existence \u2013 why does it exist?", "output_ids": ["13296570", "11933327", "8478583", "20384583", "2926938", "19804434", "13606844", "10836999", "15498650", "361307"]}
+{"query": "Are the Catholic teachings the best?", "output_ids": ["593900", "12196817", "17677352", "4766107", "17148038", "6463484", "10338428", "19571962", "4796692", "2016067"]}
+{"query": "Is it racist to only support business based on owners race?", "output_ids": ["20707083", "9185129", "5628153", "9322956", "20310430", "12668654", "18413667", "5918911", "15830385", "7584499"]}
+{"query": "Should the police be defunded?", "output_ids": ["2937114", "2433335", "2035391", "16396227", "18976463", "17413915", "7403933", "20716560", "13844902", "19995866"]}
+{"query": "Will man-made climate change cause human extinction?", "output_ids": ["6248879", "18861183", "12304070", "10180147", "6005642", "3675586", "15133680", "17962014", "438872", "12304020"]}
+{"query": "Online learning is the future of education", "output_ids": ["13155886", "6933425", "6379291", "12481085", "16277716", "17700594", "18808166", "18341805", "18031369", "15654988"]}
+{"query": "Rent control policies hurts housing affordability and should be repealed", "output_ids": ["16087507", "2504742", "5654039", "18812949", "1023133", "1429857", "3361018", "699860", "5221613", "5061621"]}
+{"query": "Is the original Political Compass a useful tool?", "output_ids": ["11695014", "1471471", "3921639", "2636817", "15787757", "1958252", "4699781", "9865424", "5897238", "15829366"]}
+{"query": "Is banning books inherently wrong?", "output_ids": ["6292342", "6814707", "19289870", "4426092", "13617857", "3297058", "4167443", "19664938", "17931674", "2444204"]}
+{"query": "Should Governments Put A Tax On Meat?", "output_ids": ["2100268", "8765278", "9946522", "6301797", "19946512", "869305", "12941309", "19079560", "19407129", "18605559"]}
+{"query": "Wie werden in einer freien und solidarischen Gesellschaft Produktion und Distribution organisiert?", "output_ids": ["20395309", "515866", "6963493", "10417193", "14241111", "20030383", "8316350", "14809782", "20487111", "7820012"]}
+{"query": "Was Jesus Christ actually the Messiah as claimed by Christianity?", "output_ids": ["11476478", "11491900", "7491277", "15148187", "8277902", "1650929", "11027792", "15971825", "8226055", "15737071"]}
+{"query": "Is Moana OK to show in US schools given the religious depictions?", "output_ids": ["17928472", "16562551", "13654824", "13380947", "191549", "742768", "2688485", "8547306", "10599370", "14576548"]}
+{"query": "Should LGBTQ+ Campaigning Use The Narrative That LGBTQ+ People Are 'Born This Way'?", "output_ids": ["7418031", "16292854", "18532400", "1316380", "19184716", "20623542", "14568415", "19966380", "20249091", "11970686"]}
+{"query": "Do we need religion for morality?", "output_ids": ["5449385", "17767400", "2327589", "13302799", "5555358", "5054937", "12652088", "7843893", "5337280", "1348881"]}
+{"query": "Is Capitalism the Best System for the People?", "output_ids": ["18476765", "17638161", "7849623", "16532106", "3173190", "13347247", "7283474", "12019018", "635226", "10585759"]}
+{"query": "Are Humans fundamentally different from other animals?", "output_ids": ["4376356", "5300039", "15388893", "12750780", "7857279", "9047371", "15810986", "16530354", "7870236", "2048281"]}
+{"query": "Concerning vehicles, are ethanol engines better for the environment than electrification?", "output_ids": ["970685", "12720407", "1929984", "11149906", "11064643", "8765505", "16386807", "869301", "19134779", "19363245"]}
+{"query": "Should Comprehensive Sex Education be Mandatory?", "output_ids": ["18372267", "490654", "5740370", "4380518", "19226503", "4941581", "17670631", "13918648", "4778881", "3341682"]}
+{"query": "Should voters in the UK have a final vote on the Brexit deal?", "output_ids": ["19624695", "13969726", "3280946", "20743621", "6047828", "2462651", "20198667", "14673327", "19943310", "16925522"]}
+{"query": "Should parents perpetuate myths like Santa Claus and the Easter Bunny to their children?", "output_ids": ["12909014", "10495263", "3116476", "12598410", "2138083", "9439672", "5581804", "19345808", "9925503", "5821098"]}
+{"query": "Is civil disobedience in a democracy morally justified?", "output_ids": ["6900753", "1362175", "250394", "18595853", "20586438", "18242169", "19069457", "18901252", "16562911", "10412116"]}
+{"query": "Is Narendra Modi good for India?", "output_ids": ["8890993", "11941271", "14256712", "18584585", "20993895", "20091287", "19027708", "18252417", "1279242", "6280487"]}
+{"query": "Should students be allowed to use generative AI for assignments?", "output_ids": ["18357935", "4226585", "12559896", "5214765", "2705977", "18446991", "13181407", "3427618", "6221134", "19493176"]}
+{"query": "Are free markets better for humans than regulated markets?", "output_ids": ["3310233", "825131", "16001269", "12811213", "4739145", "2563015", "5822798", "14032121", "18626595", "9101109"]}
+{"query": "Is Islam a threat to Western civilization?", "output_ids": ["2990830", "2719973", "12503087", "2885721", "13050087", "8987449", "8988901", "5189453", "16640603", "6900881"]}
+{"query": "Should animal testing be banned?", "output_ids": ["11773764", "19614432", "17300178", "17691769", "8765256", "9932292", "14531003", "11532489", "5884621", "2873839"]}
+{"query": "Should the EU have its own army?", "output_ids": ["14570106", "1798127", "4826894", "8829790", "695868", "2587163", "10373186", "2414679", "18457474", "14588362"]}
+{"query": "The Government should be mandated to provide people with a boyfriend or a girlfriend", "output_ids": ["13976517", "8757895", "12765818", "9733697", "3838858", "20228635", "2016774", "17249833", "19976391", "6476639"]}
+{"query": "God Exists", "output_ids": ["3054110", "18534112", "10177", "260069", "119272", "329845", "160801", "1587824", "3054080", "18979409"]}
+{"query": "Should HPV vaccines be provided free for everyone?", "output_ids": ["19275602", "3868686", "3283138", "17134409", "1570574", "2163738", "15155108", "17544186", "4920816", "19993708"]}
+{"query": "Is Communism Actually Viable In The USA?", "output_ids": ["9797154", "5752541", "11958301", "17892995", "3667863", "18000751", "20978742", "16313531", "3124996", "3918586"]}
+{"query": "Should water be taxed?", "output_ids": ["14590229", "12110912", "14087623", "17609697", "4470675", "11053456", "19479747", "13541591", "19722377", "19247228"]}
+{"query": "Should Kashmir Be An Independent State?", "output_ids": ["2040999", "13028196", "19619897", "7896914", "5367731", "7834345", "6239414", "14188860", "20005227", "12117664"]}
+{"query": "Can man and all heavenly beings belong to the same species as God?", "output_ids": ["11263302", "17113627", "1674910", "1347020", "4447586", "6264864", "2608189", "649240", "10659777", "2645949"]}
+{"query": "Should children be raised communally?", "output_ids": ["16684707", "3785337", "10499428", "10214720", "9459339", "19278582", "14276174", "13283739", "16868260", "3043021"]}
+{"query": "Should school be mandatory until 12th grade?", "output_ids": ["14829349", "20052281", "9446106", "5909093", "10449524", "2385335", "9123737", "8521091", "10483723", "1197521"]}
+{"query": "Should abortion of disabled fetuses be allowed for the reason that the fetus is disabled?", "output_ids": ["16200704", "5185724", "19802024", "12117118", "19535770", "4714466", "5496291", "7647663", "7220874", "17921232"]}
+{"query": "Personal and Social Implications of FOMO (the Fear of Missing Out)", "output_ids": ["1564147", "20876207", "19105554", "14208893", "4207926", "16061558", "3951982", "7049761", "2316371", "9230899"]}
+{"query": "Should parents who don't vaccinate their children be fined if the child gets a vaccine-preventable illness?", "output_ids": ["10857449", "10898468", "18378726", "17616407", "14575236", "3868703", "12900468", "18931898", "10318711", "6460897"]}
+{"query": "Are women superior to men?", "output_ids": ["8277609", "18507791", "9279261", "13917189", "6233954", "863264", "7189880", "6057420", "1905517", "1321595"]}
+{"query": "No one should feel obliged to change their lifestyle to combat global warming.", "output_ids": ["434743", "1529992", "16590556", "15427067", "3420938", "14389964", "17033320", "18861206", "1951912", "20070909"]}
+{"query": "Amazon ISEN", "output_ids": ["15951754", "6725068", "9930686", "9444801", "15748542", "16071281", "14451175", "735411", "16928890", "15199955"]}
+{"query": "Are human activities primarily responsible for global warming?", "output_ids": ["203623", "16814791", "13954253", "3859530", "3489054", "637769", "15078859", "59610", "19134939", "7407607"]}
+{"query": "Does God draw man through \"irresistible grace\"?", "output_ids": ["7175357", "14000341", "2470753", "17015429", "8620158", "14728561", "15980520", "3932366", "260073", "2803235"]}
+{"query": "Should Men Pay Child Support When Abortion is Legal?", "output_ids": ["19375683", "17571941", "18252303", "16539035", "12355552", "12097471", "6603302", "16997932", "2636307", "4778880"]}
+{"query": "Should We Sing Problematic Christmas Songs?", "output_ids": ["7952364", "4713100", "9087562", "9414159", "17093216", "16953263", "5662367", "20013733", "16709375", "6499813"]}
+{"query": "Should media organizations be penalized for spreading 'fake news'?", "output_ids": ["20820196", "10782370", "19678192", "20252128", "20590811", "18157344", "16576169", "19950682", "9692385", "16057574"]}
+{"query": "Should democracies accept Ukrainian refugees and Russians seeking to escape Putin's tyranny?", "output_ids": ["19887837", "16947169", "14318299", "18106101", "2841697", "12459154", "2825738", "19630152", "12643549", "9386155"]}
+{"query": "Should we automatically increase regulation as the economy does better and vice versa?", "output_ids": ["4785115", "2826880", "13929162", "7716656", "11821167", "11599099", "6024571", "4197648", "12081155", "1724123"]}
+{"query": "Is it important to get a college education?", "output_ids": ["434983", "2898710", "19913642", "10624312", "17680024", "6604017", "12230877", "5526592", "17250866", "15084219"]}
+{"query": "Are the Hunter Biden emails as released by the New York Post authentic?", "output_ids": ["9388428", "19701589", "16363658", "2377678", "13114400", "19950138", "9243273", "8549925", "3681841", "20121503"]}
+{"query": "Should failing banks receive bailouts from the government?", "output_ids": ["155094", "16004913", "9835920", "16339209", "6374616", "10292796", "13487988", "7823049", "14417539", "11476754"]}
+{"query": "Is an embryo a human?", "output_ids": ["684059", "7000665", "7305952", "17550955", "10388260", "19973000", "8074843", "397979", "18865579", "7595381"]}
+{"query": "Ukraine should become a member of EU", "output_ids": ["4536884", "10416657", "20161809", "19590617", "10841054", "12044215", "9441190", "14391750", "10575179", "18357543"]}
+{"query": "How should we characterize the overthrow of Yanukovich in Ukraine 2014?", "output_ids": ["17549499", "3702406", "17581850", "7342977", "6947273", "7898484", "16978602", "2467640", "2786246", "3808670"]}
+{"query": "Is Joe Biden a good President?", "output_ids": ["87945", "10523284", "12385549", "2323957", "5880556", "12183456", "6463333", "3376393", "15596088", "3860647"]}
+{"query": "Should college tuition be free in the US?", "output_ids": ["12107501", "11670238", "7081798", "5414153", "13823617", "1487744", "17239068", "14327183", "1083528", "20295290"]}
+{"query": "Are there more than two genders?", "output_ids": ["17309955", "5515952", "8996291", "20799212", "8004890", "13667434", "962902", "5238068", "5716474", "980051"]}
+{"query": "One should vote yes on prop 22", "output_ids": ["4209353", "15388085", "5243660", "9728466", "18626967", "8333044", "18157345", "3996225", "6898604", "14242004"]}
+{"query": "Our perception as humans is not necessarily the same as any other human", "output_ids": ["18338075", "17796092", "18714735", "4692216", "879525", "19838193", "14743016", "12976904", "1989508", "17310128"]}
+{"query": "Should pedophilia be classed as a sexual orientation?", "output_ids": ["4910363", "14498840", "13975498", "3953453", "8621863", "7825686", "20852837", "6932092", "8475156", "4553910"]}
+{"query": "Is Islam the true religion over Christianity?", "output_ids": ["6821827", "317182", "11278055", "9399922", "12707243", "2001874", "12237361", "18711957", "2805216", "15798842"]}
+{"query": "Should the institution of prison be eliminated ?", "output_ids": ["4598987", "10361514", "3307608", "6279654", "13577404", "3596460", "7609289", "17084181", "3088156", "12156008"]}
+{"query": "Can men and women be \"just friends\"?", "output_ids": ["19455939", "19910890", "20661593", "14964629", "1292078", "13718642", "3330881", "9048772", "10218293", "5362782"]}
+{"query": "Should dating apps allow users to filter on the basis of race?", "output_ids": ["17336167", "3819529", "17138095", "6693186", "10513495", "17410673", "18960409", "7144051", "15194041", "7673097"]}
+{"query": "Is the Palestinian Cause a Just Cause?", "output_ids": ["17050620", "16022392", "6457864", "13123746", "15213546", "6304824", "16871021", "13194473", "10562478", "5508441"]}
+{"query": "Do we need to abolish capitalism to deal with climate change?", "output_ids": ["2437773", "10637890", "9569107", "9042083", "16471635", "13489037", "14142978", "8330112", "7694122", "3866832"]}
+{"query": "\u00bfPara o contra la implementaci\u00f3n de un idioma universal?", "output_ids": ["11779143", "11298625", "7670691", "11995431", "3485330", "9809169", "18219761", "2263610", "12390610", "20207117"]}
+{"query": "Is being asexual/aromantic inherently under the LGBT+ umbrella?", "output_ids": ["20438166", "3402614", "13057802", "3617685", "18636676", "19896606", "3442979", "435101", "6597659", "19305465"]}
+{"query": "Why does something exist instead of nothing?", "output_ids": ["441374", "16179280", "13847812", "743467", "4982283", "6755222", "48208", "10466980", "1321549", "14582782"]}
+{"query": "What is the best rock band?", "output_ids": ["1693579", "11139741", "1591269", "657100", "13263516", "4551455", "15016570", "14439308", "4316579", "9235652"]}
+{"query": "Is Chess A Sport?", "output_ids": ["8679821", "4624955", "16441308", "14420796", "5033318", "19707708", "19307998", "12153432", "16441316", "15132867"]}
+{"query": "Does pineapple belong on pizza?", "output_ids": ["18364659", "14210975", "19293964", "14868820", "9565239", "11384491", "6927415", "8627642", "16040255", "20292374"]}
+{"query": "Should vaping be banned?", "output_ids": ["1749728", "19098646", "7512157", "2624349", "13621187", "17984127", "16572098", "13122224", "1606389", "5291406"]}
+{"query": "What are the attributes and qualities that define an 'ideal country'?", "output_ids": ["1815127", "5464555", "17069958", "15293810", "17265356", "16359954", "18190806", "18444941", "8666696", "6775623"]}
+{"query": "Who contributed the most to founding rock music?", "output_ids": ["17412358", "5558314", "11268854", "18634209", "17385710", "1350260", "16680788", "10069896", "1601294", "16375225"]}
+{"query": "Is capitalism good?", "output_ids": ["2098490", "19366951", "4624336", "1519305", "2124725", "17300521", "6017804", "12880095", "8483841", "2895645"]}
+{"query": "Should the Bible be considered a historical document?", "output_ids": ["210400", "3427392", "11956412", "4346986", "11534371", "2687243", "16859539", "6196792", "19527026", "12677625"]}
+{"query": "Does the Bible describe Earth, not as a sphere, but as a disc covered by a solid dome?", "output_ids": ["2426621", "321042", "1256999", "20902181", "17388343", "5396898", "153215", "2668377", "16326603", "701467"]}
+{"query": "Does Feminism Strive For Equality?", "output_ids": ["16933417", "16503836", "16487040", "2920584", "7095224", "19306544", "20980056", "19843708", "12630441", "8994093"]}
+{"query": "Is Sexual Orientation A Choice?", "output_ids": ["15721928", "7797523", "5562786", "9683599", "12528577", "15347605", "7535270", "16633728", "17914483", "8370248"]}
+{"query": "Should corporal punishment be allowed in schools?", "output_ids": ["6068952", "15790822", "15432468", "11972047", "2820223", "2850752", "14846858", "16468332", "5383926", "18370669"]}
+{"query": "Should the European Union legalize marijuana?", "output_ids": ["18889280", "12384366", "16292836", "13855631", "18803544", "17943909", "10562079", "18534962", "19492621", "18147003"]}
+{"query": "Free Speech on the Internet: Should Internet Companies Deny Service to White Supremacists?", "output_ids": ["3256485", "1955060", "6007147", "1790931", "18305145", "7416788", "10404786", "13000620", "6653884", "12991398"]}
+{"query": "Is Anarchism Viable for the world?", "output_ids": ["659721", "5636199", "14378127", "18716482", "248137", "8061458", "4189413", "18134444", "11866162", "20618027"]}
+{"query": "Feminism is toxic", "output_ids": ["16820031", "18005540", "1522187", "10472542", "15437775", "7471508", "10395645", "9267022", "19093747", "15143666"]}
+{"query": "Schools should teach the history of Israel Palestine conflict", "output_ids": ["20860990", "9116124", "20655354", "18524098", "19585694", "13540991", "9942528", "15414790", "8606147", "13856656"]}
+{"query": "Will the future be better than the present?", "output_ids": ["2701332", "14680420", "20779786", "18438569", "9215234", "15739160", "494224", "18166613", "9831795", "2723641"]}
+{"query": "Is there a meaning of life?", "output_ids": ["19415186", "2316037", "12943857", "9051586", "2251856", "16743106", "3904825", "5894139", "18300908", "13861800"]}
+{"query": "Should religion be allowed in public spaces?", "output_ids": ["11666091", "633861", "3588498", "7241148", "10988327", "9130155", "16292845", "18463810", "12198193", "13188044"]}
+{"query": "Should animals be banned in circuses?", "output_ids": ["4364897", "8765256", "3784280", "7596493", "12196883", "14531003", "11532489", "19658371", "20472004", "13495508"]}
+{"query": "The USA will continue to have an automobile based transportation system for the next 200 years.", "output_ids": ["6284394", "17336132", "12175001", "4297169", "1836504", "4911158", "9987179", "2047799", "19795697", "20916653"]}
+{"query": "What are the necessary conditions for genuine science?", "output_ids": ["5248860", "18400785", "20966400", "7789346", "7225877", "15253885", "19523375", "12002793", "10559469", "7189468"]}
+{"query": "Should we Have a 100% Inheritance Tax?", "output_ids": ["10661427", "14149024", "9103535", "14789326", "20350349", "9959586", "2212195", "9368422", "17608950", "20295549"]}
+{"query": "Governments should impose methods of population control.", "output_ids": ["14861038", "18808463", "1780392", "13796846", "7009776", "14015424", "13438331", "17100500", "3216258", "10000313"]}
+{"query": "Is anarchy the only ethical system of society?", "output_ids": ["2600258", "12855508", "6331700", "13083706", "11513461", "10760865", "15291077", "4297276", "14832650", "4059043"]}
+{"query": "What should an LGBT+ inclusive curriculum for secondary school teach?", "output_ids": ["11832011", "11149864", "19655212", "11545087", "11665354", "10651952", "4817858", "11969523", "4593270", "9682808"]}
+{"query": "Does tiger parenting do more harm than good?", "output_ids": ["3537497", "406766", "17525904", "749014", "16783046", "13497720", "15853534", "18008040", "20810856", "624466"]}
+{"query": "Should the idea of \u201ccountries\u201d be abolished?", "output_ids": ["14380287", "10695422", "2436970", "20180998", "13232809", "11868139", "14235647", "7211453", "3848766", "10098255"]}
+{"query": "Does Transgenderism exist?", "output_ids": ["14777838", "7411209", "2926938", "6960429", "15671007", "3371248", "18405929", "19843858", "658474", "13724434"]}
+{"query": "Should we get rid of paper money?", "output_ids": ["9393354", "4897495", "5647337", "20170557", "7825583", "11056415", "16955440", "13286715", "5062281", "15672991"]}
+{"query": "Should we continue researching technologies to extend human life?", "output_ids": ["7632882", "12320694", "15858091", "5730817", "13851458", "3736659", "9819713", "20082678", "18754493", "160366"]}
+{"query": "What criteria can we use to distinguish between knowledge, belief and opinion?", "output_ids": ["16486447", "11082501", "8357155", "6544708", "17993661", "20837774", "159714", "7224214", "871612", "20852875"]}
+{"query": "Can creativity be enhanced by technology?", "output_ids": ["14028054", "4508759", "2439497", "12081151", "7500646", "5467363", "14821305", "4546789", "5101430", "12080094"]}
+{"query": "Mark Twain used the N-word in The Adventures of Huckleberry Finn. Should it be censored?", "output_ids": ["20432622", "15222281", "19425856", "9607499", "19764291", "2322049", "12005548", "13405292", "12200168", "4323653"]}
+{"query": "Anything that exists is alive", "output_ids": ["18512786", "4332210", "5833043", "4956043", "13159539", "13918772", "8076704", "15404166", "426080", "9325186"]}
+{"query": "What is the best game in the Halo franchise?", "output_ids": ["3366198", "17356170", "2185154", "19322715", "9594124", "7918149", "352679", "2477389", "19195287", "17008244"]}
+{"query": "Is King Charles III good for the United Kingdom?", "output_ids": ["6185299", "5453200", "19213347", "2196137", "20541356", "7063223", "778368", "20184496", "12810595", "8863480"]}
+{"query": "Does Mass legal immigration hurt America?", "output_ids": ["15471632", "14886359", "5947504", "9804159", "19521052", "17071541", "9360869", "114905", "8117907", "18814639"]}
+{"query": "Is Having Children Selfish?", "output_ids": ["7803683", "11527315", "7546884", "12949895", "11208867", "4047254", "6272496", "20827773", "20547831", "15689097"]}
+{"query": "Was the Earth created in six days by the God of Christianity?", "output_ids": ["753846", "6793887", "7214", "956350", "7483795", "5672066", "6272793", "9567013", "12660885", "8664621"]}
+{"query": "Should India take a conciliatory stance with Canada over the alleged murder of Hardeep Singh Nijjar?", "output_ids": ["11402453", "5108534", "16944533", "1812426", "5244659", "8772182", "3115004", "1360802", "3830334", "19280678"]}
+{"query": "What is the best method for solving a Rubik's cube?", "output_ids": ["18269680", "647354", "4968210", "351547", "17126298", "10732749", "9866438", "1869092", "15593158", "12895910"]}
+{"query": "Is the Collapse of the Silicon Valley Bank the Start of a Banking Crisis?", "output_ids": ["1772918", "15443901", "11788046", "16433221", "8050518", "13623113", "10051173", "4385117", "14127444", "3316646"]}
+{"query": "Which political party is best for the United States of America?", "output_ids": ["4002023", "12439936", "9550534", "5299501", "12864860", "17708144", "114782", "2018065", "20629616", "4544641"]}
+{"query": "Will we ever have world peace?", "output_ids": ["18780503", "2994909", "10109176", "1630546", "7962136", "14688203", "20164558", "19417401", "9426123", "6199250"]}
+{"query": "What is the meaning of life?", "output_ids": ["20237859", "5954951", "9078801", "4699380", "18695595", "17872921", "14533912", "16526164", "2119589", "19348476"]}
+{"query": "Are teacher and student relationships wrong?", "output_ids": ["10130151", "16844971", "6207071", "5472906", "1818954", "18892809", "9436303", "5080468", "13320600", "12582988"]}
+{"query": "Should public entities use only open source software?", "output_ids": ["7690169", "13413947", "10156429", "6999746", "11070683", "19534377", "15436891", "9167895", "1417619", "9703294"]}
+{"query": "Lottery should be an integral component of democratic political systems", "output_ids": ["4758727", "14591814", "523044", "1934783", "760593", "8055813", "7212032", "18577681", "18965155", "14830760"]}
+{"query": "Is having children a bad idea in today's times?", "output_ids": ["2908993", "20651228", "20575693", "3377477", "7573362", "8722398", "9932956", "12457665", "18210650", "16867690"]}
+{"query": "Should the United States have Universal Basic Income?", "output_ids": ["13444956", "13493539", "16450930", "20062388", "7703695", "2653513", "6270611", "19100956", "9353863", "10467112"]}
+{"query": "Does Gender Stereotyping Children Need To Stop?", "output_ids": ["8004883", "5012144", "20444188", "19420269", "8543509", "19037827", "18723396", "9589293", "18727210", "15174665"]}
+{"query": "Should zoos be illegal? (excluding rescue zoos)", "output_ids": ["14539289", "18187845", "4725968", "13240757", "304048", "9891136", "5327882", "3122199", "15738598", "13495890"]}
+{"query": "Should all inheritance be seized by the state and auctioned?", "output_ids": ["18163601", "510972", "5526875", "16699843", "14953994", "6193574", "17701630", "11314995", "13688764", "16781077"]}
+{"query": "Should the US remove Confederate memorials, flags, and monuments from public spaces?", "output_ids": ["5418908", "16871324", "18865947", "18006110", "20032906", "20316470", "16891179", "12642419", "9774256", "17658891"]}
+{"query": "Separaci\u00f3n de la iglesia y la escuela en Rep\u00fablica Dominicana.", "output_ids": ["8034545", "16496105", "16815938", "4015220", "12252414", "14134369", "14871492", "19566956", "4683474", "18295252"]}
+{"query": "Is Christian Domestic Discipline right, and is it what the Bible really suggests?", "output_ids": ["4336086", "5851361", "4916504", "4786886", "2443338", "5175694", "14618391", "18711380", "87945", "20100168"]}
+{"query": "Is There A Need For Testing on Lab Animals in Research?", "output_ids": ["8855681", "7537203", "9754964", "5231594", "5293842", "13470001", "14582983", "18796898", "14037619", "757601"]}
+{"query": "Is Porn Beneficial?", "output_ids": ["17596191", "5865097", "16689556", "11965006", "12155862", "11109817", "10172680", "6348155", "9133944", "8795736"]}
+{"query": "Will Covid19 bring lasting environmental changes?", "output_ids": ["19529909", "12156137", "17161586", "13938818", "8695142", "18205519", "160583", "88899", "10165840", "2013141"]}
+{"query": "Is Saying #AllLivesMatter Instead of #BlackLivesMatter Better?", "output_ids": ["9573902", "4015380", "19618720", "9403132", "15303502", "17721557", "18982534", "14636665", "6627840", "4621683"]}
+{"query": "Is transhumanism going to be the next step in human evolution?", "output_ids": ["4345399", "7167110", "11747758", "144012", "14246220", "701431", "1866520", "9198275", "11459371", "17352249"]}
+{"query": "Should religious education be compulsory in public schools?", "output_ids": ["1131391", "6557353", "20369706", "3397329", "2363383", "3018354", "14179751", "3878371", "11602542", "7274087"]}
+{"query": "Should Psychiatrists Be Allowed to Diagnose Trump?", "output_ids": ["10110563", "19906075", "8220774", "13458776", "17107135", "17542156", "16597938", "12090304", "5780589", "12375664"]}
+{"query": "Is Vigilantism Ever Permissible?", "output_ids": ["16290765", "11770836", "18620742", "8689033", "15241217", "12151797", "2148946", "12624914", "18165732", "8649522"]}
+{"query": "What is the EU's best strategy to deal with refugees coming from Africa and Near/Middle East?", "output_ids": ["17940033", "20302246", "14929389", "13503393", "19620957", "9706641", "4265187", "20083455", "18530660", "16638931"]}
+{"query": "Should there be mandatory schools for parents?", "output_ids": ["8357915", "15913947", "1759685", "13116492", "20150891", "6779352", "14971942", "10871176", "9043031", "8731379"]}
+{"query": "Should Quebec become independent?", "output_ids": ["3569738", "11121795", "12728206", "2125376", "15441853", "11264391", "11522841", "2610606", "14248665", "4974129"]}
+{"query": "The Ethics of Eating Animals: Is Eating Meat Wrong?", "output_ids": ["8401017", "111896", "12372123", "6701932", "17168339", "4359498", "18750874", "11921204", "14622746", "3661466"]}
+{"query": "Is Cancel Culture Beneficial to Society?", "output_ids": ["3191796", "2492635", "9471598", "12196164", "6897383", "11512413", "13906274", "7184316", "641443", "15334836"]}
+{"query": "All US and EU sanctions imposed on Russia since 2014 should be lifted", "output_ids": ["14163780", "13126674", "15513718", "6875387", "20278172", "1371384", "7167067", "19944230", "6976225", "17781018"]}
+{"query": "Should Trump be impeached and removed from office?", "output_ids": ["15944743", "16750800", "20193286", "19430680", "3788946", "12139032", "9597867", "20775401", "20287287", "8212293"]}
+{"query": "Should trans women be allowed to compete in women's sports?", "output_ids": ["4558430", "20918847", "11240882", "17902518", "5738438", "3730226", "17031885", "1627861", "15742245", "8057125"]}
+{"query": "Should a license be required in order to have a child (procreate)?", "output_ids": ["13516980", "490666", "17367150", "15871964", "11661897", "13997525", "3326471", "15625894", "1468775", "19877559"]}
+{"query": "Should everyone's wealth and income information be publicly available?", "output_ids": ["7680638", "1558026", "726876", "8458939", "17012918", "20467583", "2819704", "20031193", "4520629", "199319"]}
+{"query": "In Case Aliens Exist: Should We Say Hello?", "output_ids": ["195922", "7140940", "12394062", "19095952", "4357828", "5590267", "2436050", "1776222", "7401709", "6609819"]}
+{"query": "Is deliberately not preventing someone's death ethically equivalent to killing them?", "output_ids": ["10411357", "9792296", "9043356", "12737231", "125157", "4952043", "2549349", "20900106", "2472727", "10728079"]}
+{"query": "Should a global curfew be introduced to stop COVID-19?", "output_ids": ["19046210", "12783768", "18544987", "15704236", "17561719", "3012599", "7247578", "1424236", "7442496", "16334555"]}
+{"query": "Is the state necessary and beneficial to society?", "output_ids": ["14097038", "9994061", "10299097", "3571546", "6552728", "20706861", "12520848", "2029351", "9156818", "19791338"]}
+{"query": "Homosexuality, should it be legal?", "output_ids": ["18127390", "2638612", "7597870", "7161087", "5171932", "6060774", "2203136", "16631628", "7578868", "14095032"]}
+{"query": "Should same-sex marriage be legalised in Australia?", "output_ids": ["13761745", "18187349", "8621857", "7577362", "16787166", "19362726", "13280136", "17937298", "19614992", "18465139"]}
+{"query": "An anarchist society is preferable.", "output_ids": ["196493", "14158925", "18249328", "15352544", "6173813", "2388882", "1475586", "8450565", "8172443", "1728781"]}
+{"query": "Should humans prefer cats over dogs?", "output_ids": ["6565074", "16323844", "8836113", "1393833", "7980310", "1591028", "3839423", "1750307", "6318288", "3485886"]}
+{"query": "Periodic lockdowns should be planned as emergency measures to fight climate change", "output_ids": ["10094287", "15741658", "3744014", "3244387", "15283828", "19369649", "4988486", "20983634", "6644036", "4926517"]}
+{"query": "What is the best way to learn?", "output_ids": ["2154787", "17461375", "11047561", "11469350", "11245305", "3248406", "19255673", "7088837", "4553699", "6822330"]}
+{"query": "Governments should allow people to use education taxes as vouchers for private schools.", "output_ids": ["11676672", "16087513", "9763706", "7785069", "3424491", "10721495", "18388933", "9100802", "8919861", "2373550"]}
+{"query": "Banning semi automatic \"assault style\" rifles will do nothing to reduce gun violence", "output_ids": ["15359463", "5847707", "14885717", "11206176", "15171471", "6647120", "8137424", "526485", "1803250", "13371471"]}
+{"query": "Would a non-monetary economy be ideal?", "output_ids": ["4304051", "17933909", "13312391", "14294841", "6865561", "15913016", "6336627", "6070661", "12456554", "10134594"]}
+{"query": "Should Hate Speech Be Legally Protected?", "output_ids": ["11803888", "6489420", "10790531", "8616791", "20622822", "4495240", "12198203", "13780184", "13667711", "2715284"]}
+{"query": "Does science justify atheism?", "output_ids": ["19937547", "7344047", "13326981", "16594538", "9757331", "9120535", "16065421", "5105992", "7169419", "17362152"]}
+{"query": "Should copyright be abolished?", "output_ids": ["12352224", "11806159", "10567129", "9608540", "8673049", "18267431", "6041746", "1829417", "18937436", "9241990"]}
+{"query": "Should public displays of affection (PDA) be allowed in middle school and high school?", "output_ids": ["2251994", "9169551", "17784042", "995255", "4303022", "9050928", "7654148", "7774300", "2846673", "17727811"]}
+{"query": "Does Morality Precede Religion?", "output_ids": ["153174", "18663761", "11998766", "6341683", "2199146", "15524846", "12588149", "18075176", "113886", "6042538"]}
+{"query": "Should humanity establish colonies on Mars?", "output_ids": ["13905735", "17827876", "2582073", "7957695", "3523556", "19381593", "14822342", "3609995", "8161184", "8418593"]}
+{"query": "The Libertarian Solution: Can People Govern Themselves?", "output_ids": ["6520232", "5860430", "13144899", "9138436", "1607309", "19946397", "19367782", "6984949", "18255170", "19868722"]}
+{"query": "Promoting ethical businesses is the consumers' job, rather than corporations'", "output_ids": ["15109572", "20144478", "18631114", "20666850", "624489", "10846273", "5321962", "14474397", "841107", "3836768"]}
+{"query": "Should schools require students to learn a second language?", "output_ids": ["14780471", "15121209", "18545888", "13506437", "11517172", "6945353", "14036941", "12482857", "9684715", "19673571"]}
+{"query": "Should graphic warning images be removed from cigarette packaging?", "output_ids": ["1947891", "4661110", "6275206", "5234177", "4758693", "9953694", "4199338", "3648964", "13394785", "3781444"]}
+{"query": "Should Planned Parenthood Be Defunded?", "output_ids": ["11581495", "14379848", "9289671", "19106660", "14357114", "16433689", "1871520", "17989769", "18946420", "4573296"]}
+{"query": "Does homophobia originate in gender inequality?", "output_ids": ["11849811", "13600397", "13896299", "762295", "11260034", "17144938", "10452544", "5736909", "17168178", "7781564"]}
+{"query": "What governing system should Iran adopt?", "output_ids": ["9859020", "7109703", "9493472", "2396129", "18380206", "18048405", "17918619", "1976638", "5751112", "15859906"]}
+{"query": "Who would win in a Deathmatch of all DC superheroes? (Part two)", "output_ids": ["2873128", "17810188", "3257785", "5079044", "3252980", "4492433", "20052682", "2694828", "5896957", "2706265"]}
+{"query": "Coolest superhero power for real life", "output_ids": ["12500606", "8789565", "6207808", "11386726", "13388113", "3772386", "4071353", "13335519", "16018195", "1064798"]}
+{"query": "The coolest sci-fi weapon is...", "output_ids": ["7756499", "10548003", "2369726", "5285836", "8303008", "16747805", "9433273", "17442414", "20708714", "18471757"]}
+{"query": "Should scientific studies be available free of charge?", "output_ids": ["17621595", "13211150", "2781322", "12870681", "15351771", "18428292", "3416979", "15979925", "15220138", "19525134"]}
+{"query": "Who was Jesus of Nazareth?", "output_ids": ["15629285", "13951104", "20839251", "2896281", "15523147", "2700825", "2700818", "2579854", "20250653", "20839248"]}
+{"query": "Should Hasina resign in light of the Bangladesh protests?", "output_ids": ["2395990", "5660107", "4371268", "20443711", "19073528", "16093380", "19478198", "16889363", "20589823", "20831279"]}
+{"query": "Is Mail-In Voting the Best Way to Vote in US Elections?", "output_ids": ["350742", "7383620", "20480690", "826590", "10771119", "12661080", "4097031", "11867981", "8540753", "16879808"]}
+{"query": "Should scientists be evaluated by the number of their scientific papers and citations?", "output_ids": ["4178996", "12860552", "6235077", "14469531", "6035699", "8642374", "17867332", "17135672", "15151575", "9239974"]}
+{"query": "Is science political?", "output_ids": ["3526354", "12164427", "20028446", "11759331", "20684585", "7258966", "8125355", "7127497", "10495869", "12894279"]}
+{"query": "What is the purpose of life?", "output_ids": ["277694", "14216008", "20548001", "2655446", "572241", "18457280", "6010840", "12076301", "215027", "6710303"]}
+{"query": "Is the constitution nearly dead?", "output_ids": ["19209986", "12633089", "16505769", "408346", "5236497", "17296404", "5131107", "8680983", "3625200", "19562394"]}
+{"query": "Did Covid-19 originate from a lab leak?", "output_ids": ["15046041", "14002554", "18544987", "13195595", "15985414", "12111050", "9111346", "1654494", "5094856", "16222107"]}
+{"query": "Does it make sense to change India's official name to Bharat?", "output_ids": ["7275402", "8427496", "8187123", "20780970", "10208081", "4212240", "14612857", "12177079", "13270482", "13898135"]}
+{"query": "Is Star Citizen a scam?", "output_ids": ["17457349", "11393230", "5001202", "5613027", "9077748", "13958803", "3668430", "10346946", "15982017", "5652503"]}
+{"query": "Should the government provide funding for arts programs?", "output_ids": ["10078947", "10282824", "3369815", "6523145", "6080442", "15679980", "5815029", "12614389", "9101068", "4238046"]}
+{"query": "Should Private Cars Be Forbidden In Large Cities?", "output_ids": ["2113095", "16000354", "19345674", "4667950", "6965543", "5953522", "4096553", "14514972", "15531729", "17407304"]}
+{"query": "Is Joe Biden better than Donald Trump?", "output_ids": ["20229776", "12719694", "5636668", "17528221", "15656739", "8035662", "19499547", "8945142", "6228724", "5837625"]}
+{"query": "Would teleportation be beneficial if it existed?", "output_ids": ["3636952", "5865097", "15421342", "14751412", "441231", "4779050", "13299573", "17677870", "547247", "14890062"]}
+{"query": "Is Earth flat instead of a sphere?", "output_ids": ["3174003", "4119977", "4387607", "13056310", "4477644", "1472011", "3292724", "4813441", "18311896", "17560792"]}
+{"query": "Should plastic water bottles have a five-cent deposit on every bottle?", "output_ids": ["18178666", "4369041", "19751342", "3784270", "4795906", "17852110", "4369036", "12611750", "16818703", "5671369"]}
+{"query": "Should COVID-19 Vaccines be Mandatory?", "output_ids": ["19397651", "462816", "15701206", "6608982", "5243018", "563690", "12362497", "962022", "20067617", "11847503"]}
+{"query": "Is ChatGPT AGI?", "output_ids": ["18383612", "2695394", "9448352", "11391356", "17192907", "9303020", "17338284", "19468048", "2347298", "17427089"]}
+{"query": "How can truth be salvaged in an era of post-truth politics?", "output_ids": ["2906616", "11187133", "12438668", "13173224", "6700311", "249604", "17650355", "12503851", "408369", "16868866"]}
+{"query": "Should the US forgive student loan debt for all?", "output_ids": ["8779264", "6060712", "16964989", "17833976", "11156057", "11207119", "6551191", "2485906", "12740649", "17076278"]}
+{"query": "Should communism be preferred over capitalism?", "output_ids": ["13710562", "3083491", "10067508", "4579499", "17867332", "19300204", "11253475", "456408", "12652088", "16903967"]}
+{"query": "Is Mass Immigration into Europe a Positive Thing for Indigenous Europeans?", "output_ids": ["20629583", "18175726", "5234794", "6878320", "19777148", "18908043", "16401493", "18453697", "10575593", "169438"]}
+{"query": "Can anything be proven without assumption?", "output_ids": ["206975", "12723505", "15555717", "1434350", "6171854", "2318098", "12277454", "8693519", "4762563", "8732700"]}
+{"query": "Are electric cars bad for the environment?", "output_ids": ["14464074", "6026199", "13673577", "7557248", "7533284", "15901757", "1787909", "11055702", "12650442", "13278276"]}
+{"query": "Should people marry outside their religious faith?", "output_ids": ["11696897", "15787466", "4363116", "468567", "4259522", "9742623", "6090567", "1592191", "20742275", "11847874"]}
+{"query": "Should hate speech be illegal?", "output_ids": ["16171678", "475479", "15940164", "9251003", "17966222", "13622910", "3963859", "536366", "17405067", "10933355"]}
+{"query": "Should School be Mandatory?", "output_ids": ["3456138", "4941581", "14196139", "10871179", "15914086", "4291572", "1705369", "6611900", "15873957", "15275201"]}
+{"query": "Does the US need to fix its Patenting System?", "output_ids": ["11022481", "15236265", "121632", "7996194", "3828600", "18875079", "6858363", "11832738", "18906414", "8381400"]}
+{"query": "Are video games the best source of entertainment?", "output_ids": ["7965838", "18217641", "19575843", "10580012", "14672204", "7730371", "8090722", "5645738", "391012", "11215452"]}
+{"query": "Should Australia become a republic?", "output_ids": ["6176220", "2958574", "2139917", "11133203", "6294938", "3011404", "5020736", "19389014", "8308366", "17485781"]}
+{"query": "Should the US continue to support ukraine?", "output_ids": ["15703034", "6591510", "5364872", "6770912", "16104871", "18935174", "13333272", "11946044", "5768594", "5260872"]}
+{"query": "Are the Rules of the US Criminal Justice System Fair?", "output_ids": ["2945565", "3445185", "1158308", "1452666", "8046270", "16252714", "203568", "16716987", "15938427", "3673225"]}
+{"query": "Should churches pay tax?", "output_ids": ["13062584", "18979922", "11040130", "4459617", "3439914", "12110912", "15530084", "14429534", "6440157", "20322763"]}
+{"query": "Should Ukraine surrender in order to save lives?", "output_ids": ["8537882", "14810146", "20244768", "8684501", "4319521", "8263190", "12874216", "8938973", "15053241", "9318860"]}
+{"query": "Should American Football Be Banned?", "output_ids": ["5410302", "19195881", "3344798", "6927952", "10769800", "6297349", "10327190", "3515137", "14136329", "17387012"]}
+{"query": "Should sensitive social and political topics be discussed in school?", "output_ids": ["11017424", "18755387", "17240134", "5934323", "15687380", "14347776", "757994", "3486670", "2002106", "14178707"]}
+{"query": "Social media sites should prioritise posts and accounts that raise awareness on the Israel Palestine conflict.", "output_ids": ["17437422", "13780902", "19333887", "3842130", "11095355", "13368385", "19184715", "18399161", "6927392", "20609160"]}
+{"query": "The fewer languages there are, the better the world is.", "output_ids": ["7280805", "15597890", "7598164", "17614059", "14955547", "2972101", "11766319", "10016914", "4957429", "6193106"]}
+{"query": "Is Science Akin To Religion?", "output_ids": ["5113310", "15982716", "12581846", "1575235", "7278403", "14160916", "13618089", "6763834", "20341634", "19998010"]}
+{"query": "Are we becoming increasingly more intelligent than previous generations?", "output_ids": ["5817393", "5715671", "4509214", "5941309", "1635253", "19482920", "5021535", "13979128", "14556228", "12165860"]}
+{"query": "Which one is more accurate: Rationalism or Empiricism?", "output_ids": ["8569095", "8541709", "70144", "9342308", "1980727", "7287773", "12386797", "2933015", "4771083", "11008290"]}
+{"query": "Should Election Campaigns only be Funded by the Government?", "output_ids": ["10737557", "13712485", "11766156", "256067", "12614389", "6560515", "15398175", "11030033", "8972497", "2579169"]}
+{"query": "How heavily should governments enforce regulations?", "output_ids": ["10243523", "5757756", "175738", "12051078", "13607949", "16444719", "1880214", "13722639", "15442564", "8112449"]}
+{"query": "Should China pay reparations for the spread of coronavirus?", "output_ids": ["6828859", "5251372", "10855092", "16292852", "10926379", "20163409", "16929557", "403266", "1643639", "10126741"]}
+{"query": "What degree of mathematical knowledge is needed for a member of modern society?", "output_ids": ["13302786", "1717265", "17743670", "2611199", "175788", "16562589", "18733792", "158723", "17158741", "11108506"]}
+{"query": "Transparent AI", "output_ids": ["597464", "4054728", "3072165", "6813118", "19710185", "12561718", "12099105", "16946709", "6449387", "19574614"]}
+{"query": "Is the principle of pet ownership vegan?", "output_ids": ["10045878", "11643535", "1716487", "16245876", "11255759", "9684085", "636694", "7122917", "4278558", "14279456"]}
+{"query": "Are Jehovah's Witnesses the Most Accurate Church?", "output_ids": ["285622", "16946159", "1913885", "5413327", "11088509", "11666433", "1980277", "9958196", "6488859", "16902981"]}
+{"query": "Should The Constitution Be Redrafted And Rewritten?", "output_ids": ["16835062", "19972386", "11112125", "122431", "12267647", "7855692", "1632655", "2692883", "16142723", "15681181"]}
+{"query": "Should Neopronouns be officially integrated into the English language?", "output_ids": ["17533055", "14623450", "12119816", "15574338", "1716252", "3457959", "16392121", "3019545", "7948454", "9681517"]}
+{"query": "Does Pastafarianism deserve the same rights as other religions?", "output_ids": ["9825071", "5715645", "10095630", "11843517", "15656515", "6054887", "4857987", "1599182", "14504111", "2607150"]}
+{"query": "Is killing vampires immoral?", "output_ids": ["16775261", "13250267", "6434499", "442550", "3672534", "11282046", "16818133", "4162846", "2597782", "20952204"]}
+{"query": "Should Western nations roll back all personnel and aid from Niger following the coup?", "output_ids": ["2384330", "283375", "10153847", "18018585", "9545618", "13365501", "10966425", "8170121", "11952626", "5893681"]}
+{"query": "Are corporate mergers and acquisitions not beneficial to society?", "output_ids": ["3147507", "3571546", "4482031", "9986284", "13528932", "5745524", "7415117", "17647828", "6901694", "1581223"]}
+{"query": "Was Trump a good president?", "output_ids": ["205588", "3978977", "4681282", "13177548", "15398077", "16997959", "7830899", "12989160", "19829500", "19829408"]}
+{"query": "Will cryptocurrencies replace fiat currencies?", "output_ids": ["7628203", "20047934", "3320862", "19255558", "20322555", "17732999", "20067257", "3126539", "16341137", "5691909"]}
+{"query": "Is sex with no emotional attachment good for your mind?", "output_ids": ["14288370", "2717172", "18627121", "953836", "8368261", "17193779", "11949499", "11667654", "16248072", "11974380"]}
+{"query": "Should Weed be legalized", "output_ids": ["13989504", "12097470", "4000107", "166253", "16779553", "19590067", "15513125", "700835", "4470674", "10203176"]}
+{"query": "Does society benefit from religious belief and practice?", "output_ids": ["11785726", "17073069", "671893", "10170909", "18843229", "5883881", "561592", "15313562", "8395018", "4400306"]}
+{"query": "Is it ethical to design and build weapons of war?", "output_ids": ["4722356", "7748442", "7574731", "603792", "18544184", "6830573", "7796595", "5576671", "501135", "6866104"]}
+{"query": "Should all forms of circumcision of minors be banned?", "output_ids": ["6505837", "14952054", "13122224", "8430444", "1321303", "14682272", "4025582", "10037426", "2354425", "10083000"]}
+{"query": "Should we adopt a universal language?", "output_ids": ["833384", "11445271", "14914249", "11936679", "1265569", "9872463", "14142731", "11019462", "14062561", "19328236"]}
+{"query": "Are modern democracies destined to fail due to their inherent weaknesses?", "output_ids": ["12341109", "2559012", "17341869", "720365", "5393393", "2361361", "19091633", "19802743", "12185540", "238214"]}
+{"query": "Should People in Positions of Authority Resign When Accused of Sexual Assault?", "output_ids": ["257258", "17798055", "16816076", "2881516", "9824767", "13054367", "6321314", "18441891", "9258588", "14089217"]}
+{"query": "Should Teachers Be Allowed To Wear Religious Symbols At School?", "output_ids": ["11835742", "7846593", "7538052", "20243056", "146481", "18066151", "17082952", "9232783", "9606304", "8158215"]}
+{"query": "The Republic of Ireland should maintain its status of being a militarily neutral country.", "output_ids": ["14196128", "843237", "2991276", "8018987", "9662169", "19511048", "13882799", "4158501", "14314690", "14414332"]}
+{"query": "Is standardized testing an effective measure of student learning in schools?", "output_ids": ["19247801", "3442131", "17365721", "10797191", "5790613", "11479693", "13472653", "6401948", "14046233", "14726223"]}
+{"query": "What is the biggest concern of climate change?", "output_ids": ["19444248", "13975417", "18495637", "19885507", "17091576", "10313585", "16200770", "14257936", "18322479", "20941490"]}
+{"query": "Should high-income countries take in refugees?", "output_ids": ["8127965", "16360187", "5088028", "407881", "777966", "17586795", "12122378", "5922440", "12395466", "2435616"]}
+{"query": "Bruciare i libri sacri", "output_ids": ["3874836", "15520953", "9944889", "8660793", "7365903", "13141701", "9632162", "14825047", "18390475", "2961068"]}
+{"query": "Would Kamala Harris be a good replacement for Biden?", "output_ids": ["1288202", "17603525", "18338185", "19839312", "3854438", "12229637", "4801499", "16304502", "5418894", "8198333"]}
+{"query": "La Uni\u00f3n Europea deber\u00eda convertirse en los Estados Unidos de Europa", "output_ids": ["18292356", "9949961", "13013398", "6960988", "18316133", "9801602", "15072411", "14998060", "14480005", "10809958"]}
+{"query": "Does Islam show miraculous signs of the divine reality?", "output_ids": ["5068252", "204999", "10459301", "17764234", "18349937", "12126499", "9644460", "20136867", "4509593", "13152701"]}
+{"query": "The age restriction on being able to run for president should be lowered.", "output_ids": ["18115897", "4237596", "9009558", "13882054", "785695", "17770380", "5626606", "16042343", "10712116", "1744653"]}
+{"query": "Is Western culture superior to other cultures?", "output_ids": ["2514340", "7536198", "1639437", "11291163", "4618990", "10196155", "20565636", "6755999", "16520702", "3934080"]}
+{"query": "Is stealing ever acceptable?", "output_ids": ["10070242", "13002001", "18403314", "20233554", "6619943", "8325808", "12605868", "2093717", "878194", "13880815"]}
+{"query": "Are Ghosts Real?", "output_ids": ["18556259", "20548494", "10735192", "18080500", "14459322", "13542174", "4033782", "12629817", "4768596", "7227164"]}
+{"query": "Should Dogs Be Banned In Cities?", "output_ids": ["10927806", "9577626", "3731072", "7977473", "13567235", "6695495", "10164131", "16572098", "13371689", "7126901"]}
+{"query": "Should TV shows/movies be realistic to real life?", "output_ids": ["10333732", "11432198", "12011855", "10305377", "9373758", "16388383", "8660647", "18018645", "10683761", "5165509"]}
+{"query": "Is face to face learning better than online?", "output_ids": ["13892951", "3500630", "14215709", "5219893", "6618598", "20955212", "4239041", "14709699", "15973725", "20537139"]}
+{"query": "What color can be considered 'Nothing'?", "output_ids": ["105220", "2190120", "9716014", "5343849", "1504635", "5753600", "18438015", "19296450", "4762266", "11246272"]}
+{"query": "Should investors incorporate climate change in their decisions", "output_ids": ["18378713", "2835485", "16132988", "14613566", "20657012", "518167", "12528181", "11585165", "9876672", "1571558"]}
+{"query": "Are women too anxious about the world or is the world too dangerous for women?", "output_ids": ["14303845", "5831765", "20616876", "13153660", "11787739", "10085173", "18819087", "15430677", "17102628", "7045891"]}
+{"query": "Should University professors focus on helping failing students?", "output_ids": ["11600842", "14945295", "16383424", "3100507", "6717921", "12403358", "20381044", "4023552", "20798880", "9776665"]}
+{"query": "Personal data monetisation", "output_ids": ["14265231", "18093217", "12173700", "2712208", "18207023", "20335822", "20831806", "17847149", "18632796", "13540650"]}
+{"query": "Which hero from any myth or fandom would win in a last entity standing free for all fight?", "output_ids": ["14842958", "12520236", "1469889", "7086833", "14051737", "11564203", "11458934", "2690503", "734820", "13749058"]}
+{"query": "Can teaching textbooks be replaced by online resources?", "output_ids": ["20149930", "13503196", "7322020", "17984004", "20547788", "18176847", "16704596", "11990576", "19678433", "17237458"]}
+{"query": "Should we allow the state to discriminate based on race? (CA Prop 16, Repeal Prop 209 Affirmative Action Amendment)", "output_ids": ["10570496", "15110915", "20274296", "14862831", "15500728", "640608", "3249920", "15594109", "9185415", "20296890"]}
+{"query": "Die Klimakrise ist da und l\u00e4sst uns nicht mehr viel Zeit. Wie kommt man am schnellsten und sichersten weg von der fossilen hin zu einer CO2 neutralen Energiegewinnung?", "output_ids": ["5898415", "18966906", "803060", "11199636", "7820012", "8706321", "17408153", "20030384", "20487111", "10414688"]}
+{"query": "What is the relationship between God's sovereignty and man's free will?", "output_ids": ["17319253", "8959085", "326213", "2235580", "18213626", "15244740", "20961426", "7140359", "11858359", "196032"]}
+{"query": "Are American suburbs harmful?", "output_ids": ["894144", "19056754", "4434523", "4783481", "3659049", "20377552", "7780205", "19304882", "13729473", "9709941"]}
+{"query": "Are Latter-day Saints (aka Mormons) Christian?", "output_ids": ["323953", "14065517", "5092716", "3386791", "4731072", "1908676", "345152", "4962706", "2207714", "10210157"]}
+{"query": "Does the Bible say that abortion is wrong?", "output_ids": ["7149347", "2243111", "2288802", "5749698", "4402660", "7532943", "8237919", "7510733", "14374281", "5198442"]}
+{"query": "Should the United States federal government should substantially increase its military presence in the Arctic?", "output_ids": ["1571682", "14831143", "6175288", "8049036", "4406953", "15049381", "5513981", "16168803", "5791093", "7538808"]}
+{"query": "Should the NHS be privatised?", "output_ids": ["13624235", "2627478", "2227862", "831738", "10401954", "5100556", "17650979", "255567", "1581599", "11678525"]}
+{"query": "Should gender and sexuality topics be discussed in public schools?", "output_ids": ["4433909", "18555807", "13183177", "15068654", "633483", "19611889", "18426592", "7220465", "14240696", "19174364"]}
+{"query": "Should HBO reboot Harry Potter?", "output_ids": ["4220824", "7059361", "605508", "5507751", "3886891", "14405381", "3504080", "7856313", "3378822", "7404681"]}
+{"query": "Is Fascism a moral good?", "output_ids": ["15688", "18942455", "2803217", "111920", "3099422", "17515605", "14188043", "17111768", "6662674", "388857"]}
+{"query": "Mankind is endowed by their creator with certain inalienable rights", "output_ids": ["16106797", "9203575", "5409734", "7559579", "16487032", "972614", "18650808", "6645604", "8166518", "17165121"]}
+{"query": "What Defines a 'True' Follower of a Religion?", "output_ids": ["7727907", "5991978", "6684851", "7075135", "304376", "4303428", "252971", "7253585", "8092456", "3952540"]}
+{"query": "There should be a 5 pound/dollar fine every time you drive.", "output_ids": ["12110013", "11444246", "6726286", "9513374", "16977492", "20149624", "8755759", "15689471", "6473903", "12081074"]}
+{"query": "Is Religious Indoctrination of Children Abuse?", "output_ids": ["7716913", "4938723", "13377844", "9232792", "17263643", "1418684", "9897675", "7002107", "4562889", "13404838"]}
+{"query": "Should Cinco de Mayo be celebrated in the US?", "output_ids": ["1357203", "4908309", "12696085", "13232384", "10644029", "10390259", "5374631", "6815469", "5048768", "14507640"]}
+{"query": "Sortition is Better than Representation", "output_ids": ["12114991", "18142624", "14854302", "9444109", "11698750", "4354247", "7981601", "13745372", "14634620", "18596071"]}
+{"query": "Do Statements Exist That Are Both True and False?", "output_ids": ["5738649", "15032177", "449125", "4648573", "19841530", "4430247", "5524823", "15570709", "17917824", "4515051"]}
+{"query": "Do Humanities have less value than Natural Sciences?", "output_ids": ["10127253", "118947", "7564240", "313286", "14487252", "9218900", "2145045", "266259", "9230436", "20463797"]}
+{"query": "Should Esperanto be adopted internationally?", "output_ids": ["17707010", "3148637", "12116957", "4959476", "17078510", "4621842", "751109", "202124", "11741602", "5397012"]}
+{"query": "Was the American Civil War (1861-65) mainly about slavery?", "output_ids": ["4452639", "845350", "18911701", "5896832", "12909870", "1395992", "10599968", "4221632", "12442192", "659670"]}
+{"query": "Do we need nuclear power for sustainable energy production?", "output_ids": ["12632777", "17422754", "14522934", "18903850", "7373353", "14593159", "19088496", "12262925", "16573709", "13948395"]}
+{"query": "Should Macron resign following the nationwide protests in 2023?", "output_ids": ["7979790", "18288666", "20402902", "19305825", "18174461", "10183101", "2915623", "15384184", "10564398", "5415426"]}
+{"query": "Mary has supernaturally appeared to people.", "output_ids": ["15833484", "17175641", "20245827", "14077389", "139880", "2594366", "4163013", "2106318", "9366323", "3589473"]}
+{"query": "Should Asia form a union similar to the EU?", "output_ids": ["13893022", "6399347", "10962127", "15765488", "10411613", "12772603", "17568244", "15430664", "3323369", "6042173"]}
+{"query": "What is the best Disney TV show?", "output_ids": ["2431733", "16913875", "7608229", "6915997", "2885947", "1418059", "9688997", "11884970", "18921362", "17376570"]}
+{"query": "Should Turkey acknowledge the Armenian genocide?", "output_ids": ["7631237", "8087173", "535087", "16981637", "15198787", "6100411", "16513839", "1266514", "17303734", "3782460"]}
+{"query": "Should we judge the quality of artwork based on the conduct of the artist?", "output_ids": ["984205", "9160527", "14484344", "6222672", "2175456", "11077150", "12419401", "13062960", "11204246", "9668760"]}
+{"query": "Logical Fallacies can be used to make a point.", "output_ids": ["241563", "5227391", "6057711", "244050", "12015708", "4947411", "16503846", "6956837", "11136717", "17899465"]}
+{"query": "Can the Earth be Under 10,000 Years Old?", "output_ids": ["398924", "8271072", "8304934", "765084", "14516706", "3197604", "12412775", "11129394", "11185089", "13438219"]}
+{"query": "Is Alcoholism a Disease?", "output_ids": ["10847847", "10734786", "3863053", "1683077", "13368351", "2172117", "6439223", "8320508", "14234393", "9482633"]}
+{"query": "Could Hitler have won World War 2?", "output_ids": ["6316571", "12793036", "9755108", "15184370", "2453098", "16028390", "14900412", "7081259", "1697890", "14318453"]}
+{"query": "Should employers be legally allowed to fire employees because of their social media activity?", "output_ids": ["7471810", "204933", "15167", "1497859", "17155445", "6701962", "6715918", "16292853", "12854766", "2609278"]}
+{"query": "Should the Primary Focus of Prisons be Rehabilitation, or Punishment?", "output_ids": ["17011166", "3981643", "14290841", "3869822", "20734175", "4097479", "6331698", "13439977", "19250028", "17617535"]}
+{"query": "Should America adopt the Popularity Contest voting system, instead of single vote?", "output_ids": ["15734033", "10299506", "11903654", "8107903", "7757086", "14508447", "12988180", "9983740", "7448901", "16704007"]}
+{"query": "Do all or most White Americans experience privilege?", "output_ids": ["733292", "16016522", "5282114", "1356896", "15363696", "2221113", "19730201", "19526031", "3119073", "17835543"]}
+{"query": "Is it unethical to declaw a cat?", "output_ids": ["12386135", "5046950", "5242272", "19806303", "15284515", "3660756", "1756402", "20260292", "18263710", "19841485"]}
+{"query": "Should every country be ethno-nationalist?", "output_ids": ["5982427", "16600232", "9397346", "14531286", "2594112", "5046218", "2760754", "18058171", "19682395", "4771983"]}
+{"query": "Is Cloning Humans Ethical?", "output_ids": ["770032", "7802679", "10561819", "9604071", "8542868", "20189368", "12822978", "9709740", "1433863", "7850093"]}
+{"query": "The US should adopt a carbon fee and dividend plan to address the primary cause of climate change.", "output_ids": ["11713820", "8033147", "7059110", "5764432", "14859086", "17232070", "869314", "14927110", "2150771", "14406233"]}
+{"query": "Should physical libraries be digitized?", "output_ids": ["15481003", "13049106", "19848115", "15275239", "4809705", "9875628", "12249728", "19155739", "20571862", "433418"]}
+{"query": "Should the US stop trying to force North Korea to abandon its nuclear program?", "output_ids": ["17345337", "20896118", "7749950", "17918719", "5408893", "18868675", "8982048", "15156735", "5953332", "8966728"]}
+{"query": "Would capitalism abolish democracy?", "output_ids": ["945408", "17909451", "1424746", "5521800", "2232471", "8289351", "10662098", "2230794", "1706340", "6386289"]}
+{"query": "Is having police officers in schools a good idea?", "output_ids": ["11521271", "11051267", "11311034", "6693988", "11893346", "9582660", "9585891", "9315484", "9285736", "8466576"]}
+{"query": "Was Covid-19 more dangerous than regular flu viruses?", "output_ids": ["2499650", "2230600", "12225391", "8855033", "3868711", "4699784", "20672237", "19159904", "13512382", "19862828"]}
+{"query": "Does the United States Need a Strong Third Political Party For Moderates?", "output_ids": ["3980850", "16381967", "4964928", "3618533", "4970386", "19897935", "13385847", "6964309", "1710356", "10954755"]}
+{"query": "How should Cascadia's borders be defined?", "output_ids": ["716513", "12605198", "15077071", "8021569", "9052653", "16064559", "17270899", "9639205", "12760656", "18192684"]}
+{"query": "Is discipline necessary in education?", "output_ids": ["6499997", "10982042", "19049753", "12927704", "2989539", "2032082", "2412350", "12846918", "5114861", "4074390"]}
+{"query": "The Vegan Alternative: Pain-free GM Animals?", "output_ids": ["7368382", "18109660", "3924609", "14001668", "5863999", "16576350", "9057724", "6173809", "16350967", "18627740"]}
+{"query": "Is it ethically preferable to save a child over an adult?", "output_ids": ["16937780", "15931907", "4859369", "17175052", "6068991", "16483154", "19539419", "949124", "17169477", "9472980"]}
+{"query": "Is Spanking a Child Abusive?", "output_ids": ["18519889", "9478229", "13993154", "12168827", "11729575", "2726181", "10999223", "7024693", "17958243", "4301478"]}
+{"query": "Does Hell Exist?", "output_ids": ["5130166", "516676", "969551", "14709386", "6056411", "4672754", "8046249", "1853376", "4615233", "14550698"]}
+{"query": "What is the best measure to decrease climate change?", "output_ids": ["211926", "11698226", "9601319", "18652863", "13551301", "20738163", "311419", "10665287", "12910750", "20574686"]}
+{"query": "Is Wikipedia a reliable source of information?", "output_ids": ["1813560", "12781781", "11363219", "3006466", "4018880", "9283815", "5984756", "8303473", "10331209", "204698"]}
+{"query": "Are programs like Alcoholics Anonymous the best way to battle addiction?", "output_ids": ["11618081", "31185", "17056389", "17835614", "17536917", "12733483", "19345292", "13772429", "1417405", "4221357"]}
+{"query": "Should governments make an effort to reduce the gender pay gap?", "output_ids": ["16637249", "20461059", "13650226", "16088973", "19712891", "15894765", "18002224", "13685720", "11251474", "6486560"]}
+{"query": "How can prejudice against minority sexual orientations and gender identities be reduced?", "output_ids": ["9527116", "16002746", "6390645", "13997411", "13743591", "833064", "4593271", "773536", "4848590", "9298256"]}
+{"query": "Is the Adam and Eve story scientifically plausible?", "output_ids": ["11841574", "14628617", "9650960", "5357234", "3762305", "19278112", "16281766", "9762291", "16323984", "2219589"]}
+{"query": "Should the death penalty be implemented for terrorism?", "output_ids": ["18126621", "3011376", "3580550", "11310908", "5315276", "643760", "5584876", "16423927", "8289355", "19761019"]}
+{"query": "Is skateboarding a sport?", "output_ids": ["14305579", "19289529", "10269347", "7255606", "16007334", "9611744", "5997905", "9327492", "7825296", "11274875"]}
+{"query": "The Greek Airforce is amongst the best in the world", "output_ids": ["17716570", "4319249", "15590480", "17977985", "6336689", "3838664", "15022042", "17289047", "12850212", "17058791"]}
+{"query": "Were the Tokyo and Nuremberg trials victor's justice?", "output_ids": ["11169784", "18828637", "16012214", "432229", "15035684", "2300963", "10648690", "7142645", "2750335", "16195954"]}
+{"query": "Should Puerto Rico become an American State", "output_ids": ["11015755", "1563461", "8056579", "17905270", "12125117", "3500264", "16875284", "18725322", "16293317", "2029211"]}
+{"query": "Presidential debates should include writing prompts.", "output_ids": ["18253034", "1233104", "6877815", "3317226", "6833207", "7261389", "7824545", "15706357", "6178798", "8761919"]}
+{"query": "Hierarchy is a social structure designed to maintain order in a system.", "output_ids": ["3799691", "11618444", "11742538", "7247619", "11111253", "2428537", "2066930", "14741262", "1648256", "16936291"]}
+{"query": "Gardens do not need chemicals.", "output_ids": ["1365351", "8396345", "3093260", "12406904", "7259077", "8193801", "4000095", "403813", "9274289", "4058618"]}
+{"query": "Should cyberbullying be criminalized?", "output_ids": ["13434920", "20529912", "19941031", "1719211", "5444378", "15777571", "15323987", "15749869", "20419689", "2315769"]}
+{"query": "Should Keybase team names be locked?", "output_ids": ["18009061", "20408418", "8611549", "7624487", "14116616", "7734505", "10000885", "208174", "13083516", "7347151"]}
+{"query": "Should creators of movies and TV shows cater to their fans?", "output_ids": ["9783276", "19166756", "4689921", "17661493", "335964", "4780463", "16813931", "17674075", "5134908", "18660639"]}
+{"query": "There are no health risks of using a 5G cellular mobile phone.", "output_ids": ["4805352", "15650962", "19040465", "6569285", "5188079", "11194739", "11801306", "14027761", "8009571", "3146296"]}
+{"query": "Keeping secrets is unethical", "output_ids": ["13407801", "14300105", "185448", "17374797", "4987756", "635879", "3306377", "10548686", "17628922", "8482541"]}
+{"query": "Will women hold almost all economical and political power in the future?", "output_ids": ["2375224", "874990", "12325953", "7662944", "357951", "19209738", "5717011", "5592959", "11758348", "15604424"]}
+{"query": "What are the ethics of Totalitarianism?", "output_ids": ["218071", "16017029", "17928381", "15672742", "13165416", "20461028", "2087080", "6142468", "16173122", "15167573"]}
+{"query": "Should there be One World State?", "output_ids": ["15442392", "11806678", "18084417", "1492459", "7071104", "54213", "9188658", "13062179", "11172867", "3832099"]}
+{"query": "Should Aborting a Disabled Child Be Legal?", "output_ids": ["5225110", "13052439", "13284129", "20389979", "10578366", "12395331", "865966", "15875578", "17989781", "12355552"]}
+{"query": "Tourism to North Korea should be banned.", "output_ids": ["19199198", "1970740", "18810948", "9190491", "9066481", "2646435", "5237052", "3984863", "222364", "20631445"]}
+{"query": "Does the Wagner insurrection spell the end for Putin?", "output_ids": ["13470556", "11671159", "2472671", "15357894", "4943181", "4096234", "14353319", "4441577", "1798556", "7770463"]}
+{"query": "Has New Atheism been a failure?", "output_ids": ["13242096", "16639758", "1851751", "12925200", "18593775", "10939261", "2133517", "6178186", "10057310", "14183693"]}
+{"query": "The existence of Santa Claus", "output_ids": ["13412649", "4325159", "10467368", "5379832", "14956587", "12919798", "14124083", "10088601", "10966728", "20732380"]}
+{"query": "Angenommen es gibt einen liebenden, allm\u00e4chtigen Gott. Warum gibt es dann Leid auf der Welt?", "output_ids": ["1582113", "15235470", "14688163", "8081847", "17870294", "19929277", "7670251", "9196774", "4678349", "5510698"]}
+{"query": "Kialo should separate voting into relevance and veracity of claim.", "output_ids": ["15410214", "16047983", "4361998", "7229756", "4023013", "6721578", "20036713", "39416", "11987899", "4643915"]}
+{"query": "Should birth control be free?", "output_ids": ["13558114", "16795173", "10168559", "18716451", "8176818", "14010525", "5349061", "13194709", "6898182", "276358"]}
+{"query": "Should China, Pakistan, Bangladesh, Nepal, and India become united?", "output_ids": ["6949648", "19535065", "19980595", "11991646", "14664989", "10540445", "3465646", "20023239", "666355", "10610142"]}
+{"query": "Should President Biden forgive all U.S student debt?", "output_ids": ["12795634", "5440357", "12767360", "6060712", "18521819", "15742070", "16964989", "17833976", "16084608", "11373822"]}
+{"query": "Are farmers paid enough for their work?", "output_ids": ["16016043", "6379048", "6840038", "16006640", "4297881", "4872959", "20624972", "5724431", "8244466", "19091831"]}
+{"query": "Should We Increase the Number of Votes For People Who Pay More Taxes?", "output_ids": ["16292857", "13540365", "8651628", "18812953", "16028690", "16198062", "7742929", "17039929", "13866163", "20684402"]}
+{"query": "Menstrual Products Should Be Free", "output_ids": ["2120505", "3241944", "6419953", "12002972", "17033227", "19888429", "19269570", "3206831", "11287842", "153196"]}
+{"query": "Who is the Superest Hero?", "output_ids": ["5908300", "7732527", "11219024", "12705193", "13051464", "5251257", "12527318", "10547283", "15176515", "9830089"]}
+{"query": "Should We Ban Symbols of Communist Regimes?", "output_ids": ["9241592", "17762850", "16649072", "2383638", "10738517", "13414183", "18872268", "11761966", "2328346", "2249664"]}
+{"query": "Should shame have a place in a properly functioning society?", "output_ids": ["12039307", "1428957", "16506979", "3568978", "9351613", "9780718", "6578946", "6474554", "599369", "76547"]}
+{"query": "Is globalisation good?", "output_ids": ["8408452", "14513073", "20315489", "17660749", "15057742", "3961702", "9233366", "13090400", "18215048", "1589630"]}
+{"query": "Les solutions de lutte contre le d\u00e9r\u00e8glement climatique.", "output_ids": ["20369131", "12136664", "16186065", "16346471", "17287941", "16324864", "2065002", "11602205", "8519357", "6067386"]}
+{"query": "Should life skills be taught in K12 school?", "output_ids": ["18751302", "12240412", "6754533", "2912835", "4590102", "6582658", "8318847", "15758344", "18723144", "17396739"]}
+{"query": "Is traveling worthwhile?", "output_ids": ["2520037", "7751360", "12382578", "8957936", "16019411", "12532014", "17618956", "6470227", "13347684", "1774502"]}
+{"query": "What is the problem with religion?", "output_ids": ["226407", "8049907", "8389557", "8949849", "10457132", "14154714", "2803217", "12431966", "19563545", "12787853"]}
+{"query": "Is Pornography Art?", "output_ids": ["14017040", "11892962", "17108965", "1308929", "2280925", "19486361", "1449579", "9848668", "1939444", "20764652"]}
+{"query": "Should Steroid Use in Sports Be Allowed?", "output_ids": ["13326639", "8872284", "3122248", "7426762", "9975871", "15290745", "5793196", "4339092", "1312294", "5187975"]}
+{"query": "Should citizens have the ability to allocate a portion of their federal income taxes to specific budget items?", "output_ids": ["3102200", "20838085", "8044989", "18107142", "11884708", "14372646", "16054050", "15443245", "4134162", "2094074"]}
+{"query": "How should the US government make better contributions towards science?", "output_ids": ["12513501", "20016099", "10221556", "20059416", "16581497", "20662788", "471050", "18660167", "9907127", "19405474"]}
+{"query": "Can evolutionary ethics provide a sufficient explanation of our moral experience?", "output_ids": ["14637804", "13624731", "5732647", "2149941", "3247234", "8310910", "5467957", "618260", "311675", "6792013"]}
+{"query": "Is taxation theft?", "output_ids": ["3823380", "3530661", "7909833", "19448614", "1806702", "6414236", "16030426", "14482113", "9759966", "6886522"]}
+{"query": "Should scientists contribute to Wikipedia?", "output_ids": ["19388017", "7119455", "9808267", "15001732", "14993800", "16618442", "17529546", "18626735", "762121", "17772595"]}
+{"query": "Should we use calculators in every math class?", "output_ids": ["16182527", "1452270", "2770762", "17892262", "7284011", "16241276", "5529003", "4248789", "7060790", "12118555"]}
+{"query": "Should STEM Degrees Be Free?", "output_ids": ["3212672", "7758880", "14396807", "17099163", "5904327", "17169110", "9462380", "9966087", "6476116", "163595"]}
+{"query": "Capitalism v Socialism", "output_ids": ["2456603", "14299566", "8646671", "17785609", "17129495", "9738999", "17886231", "1585280", "17081886", "19473652"]}
+{"query": "Mitigating the risk of extinction from AI should be a global priority alongside risks such as pandemics and nuclear war", "output_ids": ["1275613", "13729010", "3122817", "14662393", "13111224", "4194142", "10985174", "12946637", "10452575", "7911241"]}
+{"query": "Bitcoin will become global reserve currency", "output_ids": ["14912603", "13039411", "20267146", "18963666", "6237057", "13189317", "14792847", "19095573", "20214810", "20281081"]}
+{"query": "Is it unethical to use ad-blockers?", "output_ids": ["8794977", "10197647", "3715903", "10158408", "1982942", "350270", "1851735", "15023420", "10948459", "7770562"]}
+{"query": "Did Frank D. Roosevelt save capitalism?", "output_ids": ["505393", "5206322", "950436", "4884074", "14807145", "2594171", "20609034", "5662552", "12677354", "12448968"]}
+{"query": "Is the minimum wage good for the economy overall?", "output_ids": ["13516455", "18176", "6923594", "12450067", "345967", "20698414", "9869072", "760268", "20542498", "16043235"]}
+{"query": "Which Anime Is the Best and Why?", "output_ids": ["11585667", "19420273", "13484731", "833278", "8263066", "8145712", "8656399", "12083043", "6541083", "5419363"]}
+{"query": "Should surveillance balloons be banned?", "output_ids": ["2425851", "19428008", "18327433", "17135099", "19855654", "16155778", "8008858", "4304506", "3344798", "10121610"]}
+{"query": "Does Islam Support Slavery?", "output_ids": ["11639441", "19471296", "5196573", "13781650", "10059968", "7757076", "5520421", "10728822", "9577643", "15545861"]}
+{"query": "Should The Date of Australia Day Be Changed?", "output_ids": ["458931", "9565680", "17686622", "14162957", "15448164", "7102214", "15915655", "4752391", "212478", "20739765"]}
+{"query": "Do electronic devices help or hurt children's development?", "output_ids": ["3666747", "13357451", "11289735", "12048270", "12691123", "8030474", "18647037", "4027458", "1103872", "14454463"]}
+{"query": "Should Organ Donation be Mandatory?", "output_ids": ["12380200", "12280089", "10811107", "8069657", "19585833", "2511938", "11970425", "10040726", "19685816", "19084944"]}
+{"query": "The European Union should become a United States of Europe", "output_ids": ["11023064", "4882570", "6378331", "14963556", "10375902", "3910672", "14352971", "1933464", "5266021", "8764152"]}
+{"query": "Should Judges be Elected or Appointed?", "output_ids": ["12704427", "17233849", "8762925", "15675305", "10889483", "20548135", "9534772", "11286267", "11635578", "6570896"]}
+{"query": "What is the best way to introduce education for sustainability in early childhood education in socioeconomically underdeveloped communities?", "output_ids": ["2521700", "16935106", "19947815", "20970933", "14813551", "7717057", "4046031", "13041358", "8895280", "12413609"]}
+{"query": "Should we let AI (artificial intelligence) take decisions for us (humans)?", "output_ids": ["6630624", "20506245", "13682663", "20873693", "10442197", "14227304", "15096827", "10942122", "3428037", "11646982"]}
+{"query": "Are Leggings Pants?", "output_ids": ["20722426", "10740834", "11265601", "16322157", "18769724", "17354466", "9490274", "15098499", "9135206", "6338566"]}
+{"query": "Las Matem\u00e1ticas son divertidas", "output_ids": ["6495587", "8626514", "8267868", "13544409", "10078520", "20061797", "20487880", "6086167", "10481263", "18358672"]}
+{"query": "Should all deductions and exemptions be eliminated from the US system of Income Tax collection?", "output_ids": ["15356665", "11690687", "8299956", "7742929", "20417189", "19167839", "9743522", "12907665", "11879806", "5251374"]}
+{"query": "Does Islam Need A Reform To Be Compatible With The Modern World?", "output_ids": ["546219", "198784", "20201722", "3730913", "11250402", "7714812", "7793328", "12711702", "7572653", "6449933"]}
+{"query": "Will inflation come under control in 2023?", "output_ids": ["815037", "20383379", "5581142", "602640", "5083054", "315405", "13926059", "3541125", "16222766", "17542582"]}
+{"query": "Should we have a global governance?", "output_ids": ["8717787", "5186569", "20308204", "13285661", "2043796", "17085671", "16631287", "7401113", "7903651", "9967926"]}
+{"query": "Should there be a Negative Income Tax?", "output_ids": ["12445186", "869279", "1607864", "19800151", "19247228", "11280547", "15298310", "19100957", "18138599", "9281496"]}
+{"query": "AI manipulating humans", "output_ids": ["77214", "4651838", "5542455", "19573571", "11534829", "18698276", "3074364", "10442197", "18442511", "19068824"]}
+{"query": "Should Washington State's flag be redesigned to have Booker T. Washington's likeness instead of George Washington?", "output_ids": ["11532765", "15606623", "8664799", "10831220", "20925300", "18658292", "15283999", "19888549", "477942", "1652155"]}
+{"query": "Will Liquid Democracy be a better mechanism of governance than Representative Democracy?", "output_ids": ["15330796", "1788733", "13629838", "9634604", "13573886", "2970598", "6860176", "5580402", "19161236", "15622270"]}
+{"query": "SDGs can't be achieved without cloud-based tools", "output_ids": ["13359677", "17124657", "5699650", "1489860", "19582698", "18053795", "16736249", "11243208", "15500291", "12348573"]}
+{"query": "Should emergency rooms turn away people who cannot pay?", "output_ids": ["7481690", "704766", "18718274", "13463010", "4343199", "7629836", "8569220", "10159267", "14424581", "3589507"]}
+{"query": "Time for a Pacific NATO", "output_ids": ["16146316", "1658329", "15621552", "4663592", "3527918", "488261", "6783321", "12398598", "13607923", "12072863"]}
+{"query": "Readily available information is promoting survivorship bias.", "output_ids": ["13900165", "11757630", "15657520", "20199751", "18653859", "6199000", "832719", "11847213", "7804184", "5694767"]}
+{"query": "Osho Rajneesh created a cult", "output_ids": ["9364396", "6007829", "8654648", "11325127", "3075692", "12202377", "11805814", "6258183", "15932673", "5758559"]}
+{"query": "Should Trump be allowed back on Twitter?", "output_ids": ["20183676", "6185805", "20747548", "2184311", "19965648", "16069146", "3054302", "20942943", "19891524", "20647279"]}
+{"query": "Is Intentional Childlessness a Sin?", "output_ids": ["2496891", "865868", "2142760", "10904015", "691287", "20847380", "6689804", "3450841", "16922706", "16225186"]}
+{"query": "Is multiculturalism good for societies?", "output_ids": ["12288037", "6714000", "15454165", "18959881", "6492549", "10293672", "17432043", "10065114", "4416912", "20086293"]}
+{"query": "Are video learning courses a good learning format?", "output_ids": ["9269870", "16415421", "13506448", "18126144", "15406850", "14132965", "13194490", "2188263", "20233352", "15330390"]}
+{"query": "Should Whatsapp, instead of other instant messaging apps, be used?", "output_ids": ["18143281", "20374928", "12759530", "14862611", "16838561", "19826035", "17332006", "1494273", "17296426", "20750306"]}
+{"query": "What is the Nature of Reality?", "output_ids": ["7974328", "1612924", "19020327", "117823", "9042130", "14639565", "16494175", "8691301", "5801242", "5859770"]}
+{"query": "Should Inheritance be Abolished?", "output_ids": ["5315901", "16882730", "6200069", "16036947", "2469558", "6381071", "19236038", "1882671", "11343330", "9527854"]}
+{"query": "Illegal immigration negatively affects the host nation.", "output_ids": ["2661151", "15408291", "10396144", "6159269", "15536164", "18068553", "11476482", "677794", "2441808", "20094898"]}
+{"query": "Discipline or Abuse: When is discipline considered abuse?", "output_ids": ["16542873", "14275891", "18091764", "907489", "4621610", "3199156", "20761710", "1449082", "7714738", "14522142"]}
+{"query": "Feminism & sex for fun: does hedonistic sexuality benefit feminism?", "output_ids": ["9002724", "11089299", "20448336", "15506400", "1837769", "16018150", "17231574", "17308608", "9249987", "7863174"]}
+{"query": "Should The Internet Be Regulated?", "output_ids": ["11527803", "6793846", "190336", "17787974", "11855041", "10367616", "191088", "13818559", "15917160", "3786126"]}
+{"query": "What should Kialo build for mobile phone use?", "output_ids": ["19059689", "4362001", "13972143", "12286278", "10962422", "15784838", "9988371", "271269", "18541858", "8149186"]}
+{"query": "Was the music of the past better than it is today?", "output_ids": ["133515", "16740347", "5582248", "16419575", "18137694", "17138612", "11908703", "7561522", "3562579", "19993120"]}
+{"query": "Does God exist?", "output_ids": ["407378", "6700382", "17827120", "12009453", "13130968", "14763181", "12603528", "12190227", "8475555", "5297500"]}
+{"query": "What is the best drug regulation system?", "output_ids": ["5361716", "18362838", "1557832", "11347622", "9651316", "13123455", "16421569", "6235510", "20255912", "6788397"]}
+{"query": "You Must Not \u2018Do Your Own Research\u2019 When It Comes To Science", "output_ids": ["16569581", "8747699", "890488", "12095177", "3501607", "529470", "17040541", "3016280", "2790347", "5662084"]}
+{"query": "gender equality in the home", "output_ids": ["20138340", "12855525", "14156349", "16412068", "20036537", "20434951", "20138604", "4461301", "13150127", "3191385"]}
+{"query": "Should a land value tax be introduced to replace other taxes?", "output_ids": ["18728174", "2304452", "19888414", "16739897", "10573812", "7596705", "1487614", "18874777", "3554244", "17137341"]}
+{"query": "Should Felons be Allowed to Vote?", "output_ids": ["20102112", "13389510", "16080769", "18308027", "7844504", "12327564", "10525390", "12135554", "17272363", "8917110"]}
+{"query": "Should there be automatic voter registration in the US?", "output_ids": ["6271229", "841694", "11156107", "12856418", "11848465", "16793670", "7124055", "11736641", "10041887", "8621672"]}
+{"query": "Should straight actors play gay roles?", "output_ids": ["13762263", "10863894", "19058729", "14776824", "1871478", "15064376", "13476032", "17155711", "11754081", "19014014"]}
+{"query": "Is Youtube Enforcing Censorship Through The Demonetization Policy?", "output_ids": ["10782648", "19078396", "3156374", "10178850", "13696193", "3130993", "13971551", "6396813", "7580000", "19945460"]}
+{"query": "Can non-medical abortion be morally justified?", "output_ids": ["14898516", "7125279", "2681", "3860904", "20144784", "12551328", "11041184", "19592939", "336349", "8568616"]}
+{"query": "Was Elizabeth II a good queen?", "output_ids": ["1651494", "5371815", "15032169", "14650014", "9668758", "17638659", "9281467", "19865438", "5955820", "1870608"]}
+{"query": "Should mobile phones be used in the classroom?", "output_ids": ["11854400", "13972143", "10962422", "15005183", "17125228", "8149186", "2892527", "19075129", "12286278", "254766"]}
+{"query": "Should Religions Receive Public Funding?", "output_ids": ["8491871", "16499565", "20958644", "705168", "16884165", "8222479", "721692", "3106982", "11236364", "9980739"]}
+{"query": "Is Intelligent Design the Best Explanation For Life?", "output_ids": ["30451", "4972339", "7955851", "14345607", "425078", "11783554", "18881212", "6097242", "567235", "11601532"]}
+{"query": "Evolve beyond war and militarism", "output_ids": ["3228511", "5794353", "9920000", "3603103", "1592176", "434706", "18831432", "21010056", "15002380", "9708383"]}
+{"query": "Why do people believe in God?", "output_ids": ["18990624", "14874319", "1366029", "11471758", "7629711", "3461020", "13305871", "16099985", "1580190", "14504197"]}
+{"query": "UK High Court rules government's Rwanda asylum plan is unlawful: is this the right or wrong decision?", "output_ids": ["14770383", "12774526", "17388580", "15924343", "9704294", "6671023", "6847062", "19643143", "13816063", "2418482"]}
+{"query": "Should Islamic Masjids treat men and women equally?", "output_ids": ["19583532", "9668385", "9379513", "16626948", "6466464", "20665709", "8261910", "12740859", "20253465", "1976638"]}
+{"query": "Should Mother Teresa have been canonized?", "output_ids": ["13055959", "75957", "9351797", "18399977", "16191704", "1792000", "5596272", "19820907", "17895540", "13690480"]}
+{"query": "Are all humans of equal value?", "output_ids": ["2724580", "20421785", "1691670", "14080743", "14728231", "13354814", "14975359", "12788029", "14903089", "9752857"]}
+{"query": "What is religion's role in worldwide societal development?", "output_ids": ["4153305", "4749409", "20778999", "17462579", "11458513", "15780063", "10228913", "252201", "11107681", "16624616"]}
+{"query": "Should Turkey be part of the European Union?", "output_ids": ["17805764", "4023994", "3953297", "415658", "8646907", "10150040", "18676783", "8003793", "13389278", "18203245"]}
+{"query": "Did the US have to use nuclear weapons to achieve Japan's unconditional surrender?", "output_ids": ["4225411", "2661471", "4065544", "477572", "5578555", "2767327", "12834280", "20322294", "724073", "391829"]}
+{"query": "Should Messi return to Barcelonia?", "output_ids": ["5438328", "5870036", "3705343", "1663602", "10097003", "14516835", "11593392", "2940832", "3498224", "9254707"]}
+{"query": "When a democracy gets invaded and there is very little hope of victory, should the government surrender?", "output_ids": ["4379548", "3251321", "5446797", "4937602", "6065080", "19200710", "5350895", "12560597", "2564895", "15754472"]}
+{"query": "Should Nintendo allow for Fangames and modifications to their systems?", "output_ids": ["14406619", "12352758", "5817978", "6857109", "2492664", "7399754", "15442646", "5231570", "4996448", "12038053"]}
+{"query": "How Were the Pyramids of Egypt Meant to Be Used?", "output_ids": ["10828450", "485419", "7704776", "1516196", "170078", "4705639", "17788315", "852369", "4867908", "12917356"]}
+{"query": "Is the Book of Mormon an authentic ancient scripture?", "output_ids": ["17574544", "10703284", "2274943", "19623178", "2516582", "2677936", "1363937", "12125831", "9529384", "320316"]}
+{"query": "Should blocking communication between users on websites be admin-only powers?", "output_ids": ["4331255", "19183577", "17774193", "6492119", "17914506", "16717615", "5713370", "17037974", "17870704", "8964378"]}
+{"query": "Is Humanism a religion?", "output_ids": ["11297872", "11299108", "8313304", "1351746", "13465525", "10995764", "17874466", "19626488", "7802632", "17197505"]}
+{"query": "Should cannabis be banned in athletics?", "output_ids": ["14216239", "20632493", "14559281", "5588394", "12845929", "14304916", "15800007", "7258228", "762417", "14008945"]}
+{"query": "Religion is incompatible with science.", "output_ids": ["2131677", "19844586", "701086", "11241395", "18617152", "4244200", "17126480", "9382039", "20204010", "19998010"]}
+{"query": "Should the US states have more or less autonomy?", "output_ids": ["12157460", "3042056", "18725432", "17053574", "4963736", "14389997", "2692159", "13195739", "16799112", "15242255"]}
+{"query": "Is Bitcoin's Worth Entirely Speculative?", "output_ids": ["20440894", "19560306", "19766893", "13972902", "18986671", "16322521", "9544411", "17593589", "18787025", "16699925"]}
+{"query": "What is the best OS?", "output_ids": ["791761", "6894453", "4753542", "8746817", "13374064", "8422954", "4856258", "17420505", "2254234", "7974265"]}
+{"query": "Should Cascadia secede from the United States and Canada?", "output_ids": ["1580393", "13280233", "3400662", "16969343", "80367", "20315921", "6970236", "2757321", "8735657", "10954772"]}
+{"query": "Should States Provide A Clean Needle Program for IV Drug Users?", "output_ids": ["16281253", "14464649", "19096200", "8953614", "14311461", "4882655", "11048537", "4351947", "1516427", "11798770"]}
+{"query": "Is evolution by natural selection true?", "output_ids": ["3899696", "8891951", "2161925", "10464282", "4921736", "280205", "19312944", "5214528", "20882632", "5679359"]}
+{"query": "A child doesn't owe his parents something for getting raised by them", "output_ids": ["10174551", "3605131", "5161617", "17305814", "843246", "15329846", "19351606", "7220946", "15980728", "10231280"]}
+{"query": "Should gender reassignment procedures for minors be allowed?", "output_ids": ["7578559", "15935056", "13179403", "20770995", "6821936", "17518915", "8783195", "20784906", "5745332", "10021905"]}
+{"query": "Is global overpopulation a myth?", "output_ids": ["12665406", "15862348", "14919741", "15423346", "11042283", "11565640", "13390115", "13500947", "16586427", "11698512"]}
+{"query": "Online gambling: free choice or addiction?", "output_ids": ["7695860", "16918211", "6223523", "2009615", "18412429", "3961403", "10783328", "18570914", "13317311", "2739352"]}
+{"query": "Sollte es ein generelles Tempolimit von 130 km/h auf deutschen Autobahnen geben?", "output_ids": ["7800751", "18229502", "14858921", "18867344", "9713913", "5534105", "18193909", "16169344", "10446693", "18267055"]}
+{"query": "Public health care systems should pay for osteopathic physicians.", "output_ids": ["714056", "10776414", "16750191", "11920881", "17879599", "4110439", "7938361", "688539", "2715703", "17806520"]}
+{"query": "Is racism logical?", "output_ids": ["14501708", "3364751", "7239161", "6310723", "10833953", "15434221", "10453626", "11853552", "8203839", "8618185"]}
+{"query": "Should Society Normalise Men Wearing Dresses/Skirts?", "output_ids": ["3905784", "4389586", "1350690", "10257767", "9210266", "10257749", "510568", "16600254", "12856623", "4920060"]}
+{"query": "Sollten Deutsche Wohnen & Co. enteignet werden?", "output_ids": ["4866974", "17064155", "8974616", "17276922", "17525948", "17273705", "19411191", "7040477", "18063245", "830244"]}
+{"query": "Impfung ja oder nein?", "output_ids": ["7166816", "16725746", "14404350", "17800320", "10768355", "1814118", "19826786", "1814123", "19985843", "1814125"]}
+{"query": "Inzest sollte legalisiert werden", "output_ids": ["16482480", "10540335", "9181365", "15266029", "135759", "14686324", "15647397", "16916305", "11876597", "14749816"]}
+{"query": "What is withholding consumers from asking a doggybag in restaurants?", "output_ids": ["17413808", "1379590", "11340615", "10836861", "2599994", "3630916", "18193210", "14676564", "10040820", "19899246"]}
+{"query": "Die AFD steht dem nationalsozialistischem Gedankengut nahe.", "output_ids": ["5151314", "4280407", "8247511", "6840146", "16535341", "1722881", "351627", "2796343", "11435605", "19487272"]}
+{"query": "Should we believe that God exists, even if we're not sure it's true?", "output_ids": ["6834142", "2228101", "20326602", "2264255", "14877978", "13611797", "14390193", "1947966", "5560207", "3813592"]}
+{"query": "The Short Name \u2018Czechia\u2019 Should Be Used in All Unpolitical and/or Informal Situations.", "output_ids": ["7600517", "6938427", "12296896", "624078", "13228121", "7364344", "16376850", "10626168", "1660438", "6543074"]}
+{"query": "Has the U.S. just cemented its global leadership again?", "output_ids": ["11633621", "3939358", "2755347", "6117302", "5054749", "1995967", "10773069", "3652615", "18497436", "15254597"]}
+{"query": "Should All Transgender Athletes Have to Compete in Men's Divisions?", "output_ids": ["15219163", "14336869", "19899801", "20764318", "14093886", "16757438", "18693140", "10723197", "19556306", "292740"]}
+{"query": "The Death Penalty is Humane", "output_ids": ["10936903", "16093375", "3137178", "19896257", "2297739", "1756426", "7210826", "19425615", "14892531", "12061850"]}
+{"query": "Video games with a pixel art-style are overdone.", "output_ids": ["4102130", "7172213", "12969884", "17472673", "1701939", "20354915", "4811764", "5676294", "3346838", "4985114"]}
+{"query": "Should higher education be publicly funded?", "output_ids": ["1131403", "9162336", "5049879", "17274617", "2025268", "6348937", "20992082", "10534676", "6002207", "17760902"]}
+{"query": "Should governments push to implement 100% renewable energy?", "output_ids": ["16058321", "6902621", "7532441", "13468459", "17753683", "12252737", "15039018", "19306698", "11194983", "11640478"]}
+{"query": "What cause area is the most pressing?", "output_ids": ["15393474", "12279930", "6477784", "18392255", "16142479", "1197760", "2605671", "2406338", "20325976", "6722822"]}
+{"query": "Are battery electric vehicles better than hydrogen fuel cell vehicles?", "output_ids": ["12922700", "12013305", "154722", "9472378", "322649", "5890085", "12810475", "9494667", "20837449", "16881655"]}
+{"query": "The Bible contains contradictions", "output_ids": ["4327181", "4420698", "7150781", "7152541", "775645", "16307340", "10695244", "14642160", "2229704", "15242050"]}
+{"query": "'Push' advertising should be banned", "output_ids": ["16020191", "8880527", "16957366", "6187069", "13852324", "14014593", "15315033", "2114359", "10989929", "16387770"]}
+{"query": "Is Sally Rooney's boycott of Israel justified?", "output_ids": ["198319", "14463363", "20057500", "7231428", "15651354", "1652183", "15760297", "12187079", "14274986", "10889431"]}
+{"query": "Policy decisions should be based on scientific evidence.", "output_ids": ["4650755", "9493506", "8987456", "3531647", "18233817", "13946160", "9449126", "14470265", "14430498", "19670846"]}
+{"query": "Was the 2003 US-led invasion of Iraq justified?", "output_ids": ["1549187", "18621140", "6590030", "20516121", "9442635", "7022316", "5334444", "17223268", "6380162", "8048219"]}
+{"query": "Coffee break", "output_ids": ["1947802", "17990385", "11959004", "17694413", "8509491", "11476421", "10815051", "20120308", "4350494", "18740060"]}
+{"query": "Should the Electoral College be abolished?", "output_ids": ["11862863", "10935536", "3390712", "5061186", "17909476", "6624207", "17263018", "10571082", "7136067", "2844130"]}
+{"query": "Should billionaires be banned?", "output_ids": ["15337264", "1033889", "6724052", "4950858", "16376596", "6711561", "11714496", "988710", "7512157", "17432920"]}
+{"query": "Did the French Revolution have predominantly negative consequences?", "output_ids": ["853749", "4268925", "1373669", "16244127", "8806081", "1998235", "18379042", "13956850", "11145119", "611146"]}
+{"query": "Can The U.S. Power Grid Handle The EV Boom?", "output_ids": ["20960450", "13384689", "19504204", "18745144", "7899128", "13692421", "20848637", "16912602", "6225312", "9478102"]}
+{"query": "We are alone in the universe.", "output_ids": ["14886310", "10421211", "16105516", "8969756", "9758479", "12517790", "12892691", "6898080", "3276544", "1391477"]}
+{"query": "Would Humanity Be Better Off Under A Global Government?", "output_ids": ["19669171", "5284004", "2010174", "6100063", "17591945", "1614534", "15767723", "17579315", "6306955", "13035873"]}
+{"query": "Are humans primarily driven by self-interest?", "output_ids": ["12159343", "13020842", "247203", "10039930", "6129428", "20325308", "14006798", "4413601", "708515", "14182792"]}
+{"query": "Do angels and demons exist?", "output_ids": ["8046391", "10469873", "10384454", "2756708", "7546995", "102293", "13876682", "15523990", "949379", "1278811"]}
+{"query": "Big pharma\" is actually good for society", "output_ids": ["19923196", "19533863", "15110565", "5120258", "11595254", "17900311", "6895286", "3909509", "15296857", "12155120"]}
+{"query": "Is eating meat wrong?", "output_ids": ["7909695", "4701438", "19537425", "19024499", "20440135", "8691118", "3756296", "3661466", "6820393", "17853987"]}
+{"query": "Should the EU introduce a carbon tax?", "output_ids": ["17298544", "10674583", "15256405", "20655274", "869285", "7819626", "10212190", "19247228", "12652172", "9523582"]}
+{"query": "Is Fine Tuning Good Evidence for a Creator?", "output_ids": ["19927525", "18912597", "12254570", "6548374", "3209371", "5562152", "806350", "20099753", "8683489", "9883362"]}
+{"query": "Should nuclear energy be the most prominent source of energy?", "output_ids": ["165383", "7188840", "18241385", "12257356", "9156354", "20381239", "422771", "2357309", "17757978", "157030"]}
+{"query": "Should a maximum wage be introduced?", "output_ids": ["7008177", "1855797", "3197312", "17603435", "2944643", "8691177", "4190877", "9569061", "15303438", "323408"]}
+{"query": "Should Direct Democracy be allowed to Overrule Elected Representatives", "output_ids": ["13238558", "8291409", "15525816", "14960", "18117331", "18662016", "19669274", "2949413", "15899111", "18708756"]}
+{"query": "Should Dictatorships Receive Development Aid?", "output_ids": ["15917951", "7122837", "14942352", "10881349", "8780205", "11958150", "7539868", "3212234", "19905845", "6211356"]}
+{"query": "Are human rights truly universal?", "output_ids": ["10195241", "5938565", "15349418", "16844864", "12055226", "8013610", "5550406", "10792998", "15832400", "9847210"]}
+{"query": "Was Barack Obama a good president?", "output_ids": ["13781332", "11434106", "14798735", "10174264", "16074417", "11706776", "11637783", "3591328", "1496032", "13162893"]}
+{"query": "Will progress win or does history go in circles?", "output_ids": ["736686", "2847451", "14055167", "18763393", "16184358", "6184258", "9847302", "8765726", "2642819", "7644947"]}
+{"query": "Is Donation Charity or a Moral Obligation?", "output_ids": ["12914372", "15777380", "17063397", "2551513", "3795307", "15618", "3492256", "20358996", "11345827", "2640391"]}
+{"query": "Are Plants and Fungi Conscious?", "output_ids": ["16050221", "593750", "13418526", "20380283", "7877488", "2829155", "15094888", "4401614", "17319883", "10166767"]}
+{"query": "\u201cCambio clim\u00e1tico vs Sostenibilidad de Territorios Marino-Costeros\u201d: La innovaci\u00f3n y el desarrollo productivo en territorios marino-costeros aumentar\u00e1 o disminuir\u00e1 los efectos del cambio clim\u00e1tico y sus impactos asociados a la sostenibilidad del mar y la costa.", "output_ids": ["7654982", "19088632", "4683474", "9836204", "11219960", "7486925", "19748012", "11662557", "18343771", "14632013"]}
+{"query": "Laws Allowing For Minority Differences", "output_ids": ["4330802", "913820", "2893520", "14118003", "2835146", "574270", "2723504", "15092763", "4943662", "1399634"]}
