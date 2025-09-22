@@ -283,6 +283,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--lambd", type=float, default=None, help="Lambda parameter for task 4"
     )
+    parser.add_argument(
+        "--time", action="store_true", help="Flag to record execution time"
+    )
     args = parser.parse_args()
 
     random.seed(args.seed)
@@ -313,8 +316,17 @@ if __name__ == "__main__":
     os.makedirs(out_dir, exist_ok=True)
     file = open(f"{out_dir}/samples_{args.K}.jsonl", "w")
 
+    if args.time:
+        start_time = time.time()
     with multiprocessing.Pool(processes=multiprocessing.cpu_count()) as pool:
         results = list(tqdm(pool.imap(task, ds), total=len(ds)))
+    if args.time:
+        end_time = time.time()
+
     for S, row in zip(results, ds):
         out_dict = {"query": row["question"], "output_ids": S}
         file.write(f"{json.dumps(out_dict)}\n")
+
+    if args.time:
+        with open(f"{out_dir}/time_{args.K}.txt", "w") as f:
+            f.write(f"{end_time - start_time}\n")
