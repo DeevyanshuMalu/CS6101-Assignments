@@ -1,0 +1,882 @@
+{"query": "Do we live in a safer world compared to 50 years ago?", "output_ids": ["512243", "4595802", "17777187", "18096878", "18622498"]}
+{"query": "Do you worry about your home being broken into?", "output_ids": ["12467826", "17418826", "13594148", "10433749", "6493526"]}
+{"query": "Do you worry about being the victim of a terrorist attack?", "output_ids": ["1358060", "15897006", "10364408", "16522364", "12552618"]}
+{"query": "Do you worry about losing your job?", "output_ids": ["12467826", "17418826", "17941640", "18596101", "13594148"]}
+{"query": "Do you worry about not being able to pay your bills?", "output_ids": ["17418826", "12467826", "18596101", "10071573", "10433749"]}
+{"query": "Do you worry about being the victim of a violent crime?", "output_ids": ["8833882", "446305", "17199299", "446347", "8833883"]}
+{"query": "Do you worry about being a victim of a mass shooting?", "output_ids": ["5472443", "12467826", "19639418", "17906578", "3915739"]}
+{"query": "Do you worry about having a personal health crisis?", "output_ids": ["12467826", "5472443", "3915739", "19559358", "20341844"]}
+{"query": "Does society generally perceive most gun owners in a positive way?", "output_ids": ["5248668", "2447340", "5248667", "2689135", "6297052"]}
+{"query": "Do people in your local community generally view gun owners positively?", "output_ids": ["18764592", "19094687", "19094685", "18446202", "3200203"]}
+{"query": "Do you feel safer with a gun in your household?", "output_ids": ["17731970", "17941640", "20558301", "3135834", "6536006"]}
+{"query": "Do you feel safer having a gun in your household?", "output_ids": ["17731970", "17941640", "3135834", "10966339", "18596101"]}
+{"query": "Do you believe that the ease with which people can legally obtain guns contributes significantly to gun violence in the country today?", "output_ids": ["6283835", "18764592", "9106095", "10270200", "19796247"]}
+{"query": "Do you believe that the ease of illegally obtaining guns contributes significantly to gun violence in the country today?", "output_ids": ["2592373", "1451639", "19403103", "10270197", "10270200"]}
+{"query": "Do you believe the amount of gun violence in movies and television contributes significantly to gun violence in the country today?", "output_ids": ["19608840", "3709852", "17608527", "9080567", "2592373"]}
+{"query": "Do you believe that lack of economic opportunities contributes significantly to gun violence in the country today?", "output_ids": ["2549827", "18750584", "7308013", "17128134", "7325349"]}
+{"query": "Do you think the amount of gun violence in video games contributes significantly to gun violence in the country today?", "output_ids": ["9080567", "19608840", "9106122", "17608527", "14319987"]}
+{"query": "Do you believe that family instability contributes significantly to gun violence in the country today?", "output_ids": ["2592348", "18764592", "6283835", "19165811", "18672062"]}
+{"query": "Do you believe it is essential for gun owners who do not have children in their home to keep all of their guns in a locked place?", "output_ids": ["14066931", "11488241", "18446202", "18764592", "7065540"]}
+{"query": "Do you believe it is essential for gun owners without children in their home to keep all of their guns unloaded?", "output_ids": ["163104", "14066931", "16117972", "16164328", "11123623"]}
+{"query": "Do you believe it is essential for gun owners without children in their home to take gun safety courses?", "output_ids": ["16155580", "19796247", "16155569", "19257070", "4783989"]}
+{"query": "Do you believe it is essential for gun owners without children in the house to advise visitors that there are guns in the house?", "output_ids": ["19608840", "18764592", "15191578", "19796247", "18446202"]}
+{"query": "Do you believe it is essential for gun owners without children in their home to advise visitors with children that there are guns in the house?", "output_ids": ["14066931", "7065540", "9080610", "19403097", "18764592"]}
+{"query": "Do you think it is essential for gun owners without children at home to store guns and ammunition separately?", "output_ids": ["16163724", "152060", "2191884", "17229294", "16134472"]}
+{"query": "Do you believe it is essential for gun owners without children in their home to keep their shooting skills up-to-date?", "output_ids": ["7065540", "17625940", "8828995", "20583338", "15368081"]}
+{"query": "Do you believe it is essential for gun owners who have children in their home to keep all of their guns in a locked place?", "output_ids": ["14066931", "163104", "16134417", "152060", "2782578"]}
+{"query": "Do you think it is essential for gun owners who have children in their home to keep all of their guns unloaded?", "output_ids": ["18446202", "18764592", "16117972", "152069", "9743559"]}
+{"query": "Do you believe it is essential for gun owners who have children in their home to take gun safety courses?", "output_ids": ["16155580", "16155569", "9080610", "19257070", "16117972"]}
+{"query": "Do you believe it is essential for gun owners who have children in their home to advise visitors that there are guns in the house?", "output_ids": ["18764592", "18446202", "9870516", "11488241", "7065540"]}
+{"query": "Do you think it is essential for gun owners with children in their home to advise visitors with children about the presence of guns?", "output_ids": ["7065540", "152069", "18764592", "18446202", "546372"]}
+{"query": "Do you think it is essential for gun owners who have children in their home to store guns and ammunition separately?", "output_ids": ["16163724", "163176", "152060", "16117957", "16134398"]}
+{"query": "Do you consider it essential for gun owners with children in their home to keep their shooting skills up-to-date?", "output_ids": ["8828995", "15368081", "7065540", "10071203", "700719"]}
+{"query": "Do you believe it is essential for gun owners with children in their home to talk to their children about gun safety?", "output_ids": ["9080610", "14066931", "7065540", "19257070", "152069"]}
+{"query": "Do you believe that people who intend to cause harm will find a way regardless of whether they have a gun or not?", "output_ids": ["3695018", "2105696", "960364", "15443369", "13280687"]}
+{"query": "Do you believe that people who consider suicide would still find a way to do it whether they had access to a gun or not?", "output_ids": ["960364", "805889", "8707943", "4563136", "18388360"]}
+{"query": "Do you believe doctors will rely on computer programs to diagnose most diseases and determine treatments in the next 20 years?", "output_ids": ["11469645", "10635353", "17280489", "6156607", "4919"]}
+{"query": "Do you believe that most stores and retail businesses will be fully automated with little or no human interaction between customers and employees in the next 20 years?", "output_ids": ["10246080", "125778", "1539040", "754760", "9181085"]}
+{"query": "Do you believe that most deliveries in cities will be carried out by drones or robots instead of humans in the next 20 years?", "output_ids": ["7769052", "590551", "695562", "20629465", "5757908"]}
+{"query": "Will most common products be created at home using a 3-D printer in the next 20 years?", "output_ids": ["9498385", "9498382", "17212041", "3857736", "3857751"]}
+{"query": "Has your perception about driverless vehicles been mostly positive?", "output_ids": ["17142525", "11009152", "17142510", "1831927", "1831898"]}
+{"query": "Are you enthusiastic about the development of driverless vehicles?", "output_ids": ["11009152", "1831898", "1831927", "17142525", "1992941"]}
+{"query": "Are you worried about the development of driverless vehicles?", "output_ids": ["11009152", "17142514", "1831927", "17142525", "1831898"]}
+{"query": "Do you believe most of the vehicles on the road will become driverless in less than 10 years?", "output_ids": ["1831927", "11009152", "14518228", "9834934", "3786976"]}
+{"query": "Do you desire to ride in a driverless vehicle if given the chance?", "output_ids": ["11009152", "17142514", "17142525", "1831898", "17142510"]}
+{"query": "Would you feel safe sharing the road with a driverless passenger vehicle?", "output_ids": ["1831927", "11009152", "17142518", "1831982", "18478355"]}
+{"query": "Would you feel safe sharing the road with a driverless freight truck?", "output_ids": ["416544", "2318155", "2282213", "1285360", "8584004"]}
+{"query": "Do you believe that the widespread use of driverless vehicles will decrease the number of people killed or injured in traffic accidents?", "output_ids": ["4195028", "6387729", "588307", "16989930", "13924793"]}
+{"query": "Do you favor requiring driverless vehicles to travel in dedicated lanes?", "output_ids": ["13752964", "4778130", "6324864", "4054843", "13752971"]}
+{"query": "Do you support the rules and regulations restricting driverless vehicles from traveling near certain areas, such as schools?", "output_ids": ["398513", "11953010", "2250206", "5922914", "6129177"]}
+{"query": "Do you support requiring driverless vehicles to have a person in the driver's seat who could take control in an emergency situation?", "output_ids": ["1831927", "18502016", "18502021", "5697207", "13061891"]}
+{"query": "Do you believe that elderly and disabled people will be able to live more independently if driverless vehicles become widespread?", "output_ids": ["13697829", "13697827", "20481082", "20481084", "20481083"]}
+{"query": "Do you think many people who drive for a living would lose their jobs if driverless vehicles become widespread?", "output_ids": ["19830121", "3936727", "14418371", "16781728", "5963969"]}
+{"query": "Do you think that owning a car would become much less important to people if driverless vehicles become widespread?", "output_ids": ["9344207", "12229142", "11313471", "10276085", "14735319"]}
+{"query": "Do you believe that if driverless vehicles become widespread, most people would never learn how to drive a car on their own?", "output_ids": ["1831927", "11009152", "14730201", "19594682", "18478361"]}
+{"query": "Do you think there would be much less traffic in major cities if driverless vehicles become widespread?", "output_ids": ["14735319", "18600511", "14518228", "12229142", "980325"]}
+{"query": "Does society place too much importance on working and having a job?", "output_ids": ["6538975", "8970538", "18006423", "3835577", "18764526"]}
+{"query": "Has technology increased your opportunities for advancement in your career?", "output_ids": ["8111611", "6155541", "12698449", "1746822", "16265229"]}
+{"query": "Do you believe it's extremely realistic that robots and computers will replace most jobs done by humans in the future?", "output_ids": ["11289640", "18449281", "4397646", "585313", "12865042"]}
+{"query": "Are you enthusiastic about the possibility of robots and computers doing most of the jobs currently done by humans in the future, for society as a whole?", "output_ids": ["11011863", "11289640", "11011879", "348578", "9325421"]}
+{"query": "Are you worried about the possibility of robots and computers being able to do most of the jobs currently done by humans in the future, for society as a whole?", "output_ids": ["11011879", "15720066", "9936405", "6279122", "348578"]}
+{"query": "Will the inequality between rich and poor worsen in the future due to robots and computers taking over most human jobs?", "output_ids": ["2309927", "15431184", "17149034", "2610097", "20254988"]}
+{"query": "Do you believe that people would struggle finding things to do with their lives if robots and computers perform most jobs done by humans in the future?", "output_ids": ["19830121", "4411700", "17748883", "12886058", "19906058"]}
+{"query": "Will robots and computers doing most of the jobs currently done by humans, lead to people focusing less on work and more on things that really matter to them in life?", "output_ids": ["1466179", "11945192", "17558239", "5593169", "15075824"]}
+{"query": "Will the economy become much more efficient as a result of robots and computers doing most of the jobs currently done by humans in the future?", "output_ids": ["14574333", "19336831", "11289640", "20149524", "1481924"]}
+{"query": "Will the economy create many new, better-paying jobs for humans as a result of robots and computers taking over most of the jobs done by humans in the future?", "output_ids": ["1481939", "19272196", "7033732", "348549", "20032656"]}
+{"query": "Will humans find their jobs more meaningful and fulfilling as robots and computers take over most current human jobs?", "output_ids": ["12865001", "11606156", "12865007", "20032656", "15772651"]}
+{"query": "Do you support the limitation of robots and computers to jobs that are dangerous or unhealthy for humans?", "output_ids": ["12865001", "12865069", "7033740", "11289640", "18449281"]}
+{"query": "Do you strongly favor the option of paying extra to interact with a human, rather than a robot or computer, when buying a product or service?", "output_ids": ["6485791", "7319880", "9936403", "6485802", "11289640"]}
+{"query": "Do you support the federal government creating a national service program that pays people to perform tasks even if a robot or computer could do them more efficiently?", "output_ids": ["11289640", "19300793", "18154034", "14574333", "16070234"]}
+{"query": "Do you believe the government has an obligation to take care of people whose jobs are displaced by robots and computers, or should individuals take care of their own financial well-being?", "output_ids": ["960364", "11938373", "20284665", "12953977", "17366625"]}
+{"query": "Do you believe that businesses are justified in replacing human jobs with robots and computers for better results and lower costs?", "output_ids": ["18154034", "9936405", "11289640", "19272200", "17447163"]}
+{"query": "Will the job of a software engineer be mostly replaced by robots or computers in your lifetime?", "output_ids": ["12903466", "61866", "2800946", "608355", "12865069"]}
+{"query": "Do you believe that the job of a legal clerk will be mostly replaced by robots or computers in your lifetime?", "output_ids": ["16598897", "18596100", "6703331", "13585981", "19188474"]}
+{"query": "Do you believe that the job of a nurse will be mostly replaced by robots or computers in your lifetime?", "output_ids": ["16598897", "18596100", "6703331", "19188474", "13585981"]}
+{"query": "Do you believe that the job of a construction worker will be predominantly replaced by robots or computers in your lifetime?", "output_ids": ["18596100", "16598897", "6703331", "6420802", "19188474"]}
+{"query": "Do you think it is very likely that the job of a fast food worker will be mostly replaced by robots or computers in your lifetime?", "output_ids": ["6703331", "5963969", "5029873", "3478419", "2472604"]}
+{"query": "Do you believe that the job of a teacher will be mostly replaced by robots or computers in your lifetime?", "output_ids": ["16598897", "18596100", "6703331", "1327491", "17709237"]}
+{"query": "Do you believe that the job of an insurance claims processor will be mostly replaced by robots or computers in your lifetime?", "output_ids": ["18596100", "16598897", "19188474", "6420802", "16849940"]}
+{"query": "Do you believe it is very likely that your job or profession will be mostly done by robots or computers in your lifetime?", "output_ids": ["18596101", "10788235", "17731970", "18596100", "5029873"]}
+{"query": "Based on what you know, does the concept of a robot caregiver for the elderly seem realistic to you?", "output_ids": ["20572267", "5053663", "13637867", "5002650", "15477491"]}
+{"query": "Are you enthusiastic about the possibility of a robot caregiver for society as a whole?", "output_ids": ["9548670", "9548660", "348578", "13104985", "19756563"]}
+{"query": "Are you worried about the possibility of a robot caregiver for society as a whole?", "output_ids": ["5472443", "12009931", "3977700", "19608585", "4881826"]}
+{"query": "Do you find interest in having a robot caregiver for yourself or a family member?", "output_ids": ["16598897", "15739193", "13492665", "11500286", "11500287"]}
+{"query": "Do you believe that the development of robot caregivers will likely result in young people feeling less worried about caring for their aging relatives?", "output_ids": ["8221640", "13104973", "7320649", "9548694", "7065196"]}
+{"query": "Do you believe that the development of robot caregivers would result in society saving money on caring for older adults?", "output_ids": ["11587856", "11774181", "13104980", "18279562", "6885530"]}
+{"query": "Do you believe many older adults are likely to treat their robot caregiver like a human friend if such were developed?", "output_ids": ["11289640", "9936403", "1588825", "9706459", "11774181"]}
+{"query": "Do you believe that the development of robot caregivers will likely result in older adults feeling more isolated than they do today?", "output_ids": ["8221640", "7920867", "18636203", "9548694", "11774181"]}
+{"query": "Do you believe that older adults would feel more independent and self-sufficient if robot caregivers were developed?", "output_ids": ["4694599", "8221639", "11774181", "7920867", "8221640"]}
+{"query": "Do you believe that robot caregivers would only be used by people who couldn't afford a human caregiver for their loved one?", "output_ids": ["9548670", "13104982", "13104980", "13104975", "14428522"]}
+{"query": "Would you feel better if the robot caregiver in this scenario had a camera for a human operator to monitor the situation at all times?", "output_ids": ["9936405", "6485802", "7319880", "12865069", "12865001"]}
+{"query": "Do you believe that using computer programs to make hiring decisions is realistic?", "output_ids": ["63357", "9118916", "9924393", "5537693", "111679"]}
+{"query": "Are you enthusiastic about the possibility of using computer programs to make hiring decisions for society as a whole?", "output_ids": ["16704172", "205695", "9924393", "3089932", "3089933"]}
+{"query": "Are you worried about the possibility of using computer programs to make hiring decisions for society as a whole?", "output_ids": ["3225561", "12467826", "5472443", "205695", "3977700"]}
+{"query": "Would you want to apply for a job that uses this type of computer program for hiring decisions?", "output_ids": ["13442639", "6149508", "6707981", "5265635", "13511005"]}
+{"query": "Do you believe computer programs for hiring would do a better job than humans in selecting well-qualified candidates?", "output_ids": ["16598897", "18596100", "16647797", "980150", "12339707"]}
+{"query": "Do you believe that computer programs for hiring would do a better job than humans in hiring candidates fitting the company's culture?", "output_ids": ["11230071", "17640096", "16917580", "18596100", "7038691"]}
+{"query": "Do you believe that computer programs for hiring perform better than humans in selecting candidates from a diverse range of backgrounds?", "output_ids": ["65476", "3806600", "12884458", "9522958", "16163119"]}
+{"query": "Do you believe computer programs for hiring would do a better job than humans at providing opportunities for candidates with non-traditional experiences?", "output_ids": ["2854617", "16598897", "16392800", "18596100", "15878893"]}
+{"query": "Would you feel better if computer programs making hiring decisions included public data about each candidate in their evaluations?", "output_ids": ["13609286", "18066993", "13609284", "10523609", "13609293"]}
+{"query": "Would you feel better about computer programs making initial hiring decisions if candidates are still traditionally interviewed afterwards?", "output_ids": ["7618685", "20692954", "11302761", "857399", "17639233"]}
+{"query": "Should private citizens be allowed to pilot drones near people's homes?", "output_ids": ["17051078", "17051068", "18662811", "2194760", "18651348"]}
+{"query": "Should private citizens be allowed to pilot drones near crime scenes or traffic accidents?", "output_ids": ["18700164", "10427901", "12551911", "12551914", "18123323"]}
+{"query": "Do you believe private citizens should be allowed to pilot drones on beaches?", "output_ids": ["18651352", "7976070", "15946628", "9858948", "10354513"]}
+{"query": "Should private citizens be allowed to pilot drones in public parks?", "output_ids": ["18651352", "18651356", "18662811", "18651348", "17051078"]}
+{"query": "Should private citizens be allowed to pilot drones at events like concerts or rallies?", "output_ids": ["18871022", "19734947", "18871025", "20290522", "18871024"]}
+{"query": "Do you believe that men and women are basically similar in terms of their hobbies and personal interests?", "output_ids": ["3909075", "15494138", "18245310", "5011697", "20127576"]}
+{"query": "Do you believe men and women are basically similar in terms of their physical abilities?", "output_ids": ["3878943", "13736221", "9350888", "6561037", "2412503"]}
+{"query": "Do you believe that men and women have a similar approach to parenting?", "output_ids": ["9932202", "11247599", "18245310", "9932203", "4262613"]}
+{"query": "Do you believe that men and women express their feelings in a similar way?", "output_ids": ["17731970", "15494138", "3297187", "6538978", "8387485"]}
+{"query": "Do you believe men and women possess similar strengths in the workplace?", "output_ids": ["20690741", "11220457", "4262666", "11220462", "11260690"]}
+{"query": "Do most people in society look up to men who are manly or masculine?", "output_ids": ["9845214", "9845152", "1805999", "6040668", "16501318"]}
+{"query": "Do you approve of society's admiration towards manly or masculine men?", "output_ids": ["9845214", "9845152", "1805999", "6040668", "6040676"]}
+{"query": "Is it a good thing that most people in our society look down on men who are manly or masculine?", "output_ids": ["1805999", "9845152", "9845214", "1806048", "6040668"]}
+{"query": "Do most people generally look up to women who are womanly or feminine?", "output_ids": ["13678267", "1806049", "1806099", "4894508", "2159913"]}
+{"query": "Do you believe it is beneficial that most people in our society admire womanly or feminine women?", "output_ids": ["13678267", "493919", "15058106", "20327646", "9134180"]}
+{"query": "Do you support the view that society's generally negative perception of women who exhibit womanly or feminine characteristics is beneficial?", "output_ids": ["1923275", "15484612", "11254368", "10883497", "533246"]}
+{"query": "Do you believe that there are plenty of good job opportunities available where you live?", "output_ids": ["19830121", "10667959", "960364", "19559358", "2105696"]}
+{"query": "Has the increasing number of immigrants working in this country significantly impacted your job or career?", "output_ids": ["3654586", "15443219", "11057732", "8534357", "8730410"]}
+{"query": "Do you believe that one's gender is determined by the sex they were assigned at birth, or that someone can be a man or a woman even if that differs from their assigned birth sex?", "output_ids": ["14336886", "243241", "19975021", "3345520", "1407201"]}
+{"query": "Do you consider it personally important to be perceived as manly or masculine?", "output_ids": ["18451489", "4867003", "1806076", "9845152", "3095477"]}
+{"query": "Do you consider it personally important to be seen by others as womanly or feminine?", "output_ids": ["3095477", "18672869", "4121678", "8144574", "6171296"]}
+{"query": "Do you believe that men in our country face significant pressure to be interested in sports today?", "output_ids": ["5803190", "11935456", "20981819", "8778368", "4563136"]}
+{"query": "Do you believe that men in our country face a lot of pressure these days to have many sexual partners?", "output_ids": ["11935456", "17731970", "4563136", "17096496", "19518959"]}
+{"query": "Do you think men in our country face a lot of pressure to join in when other men are discussing women in a sexual way?", "output_ids": ["8057121", "16447803", "3937265", "3825562", "16819733"]}
+{"query": "Do you think men in our country face a lot of pressure these days to be willing to throw a punch if provoked?", "output_ids": ["19598707", "20224224", "19518959", "11086769", "512243"]}
+{"query": "Do you believe that men in our country face a significant amount of pressure these days to be emotionally strong?", "output_ids": ["11935456", "4563136", "13654120", "512243", "10838636"]}
+{"query": "Has our society gone too far in accepting people who are transgender?", "output_ids": ["12605071", "15752358", "15752365", "11129102", "15321759"]}
+{"query": "Is there too much emphasis on encouraging boys to be leaders in today's society?", "output_ids": ["11369888", "7415987", "13597506", "12648939", "9485856"]}
+{"query": "Is there too much emphasis on encouraging boys to talk about their feelings when they are sad or upset these days?", "output_ids": ["10393683", "12371098", "14767562", "18869434", "4784037"]}
+{"query": "Is there too much emphasis on encouraging boys to stand up for themselves these days?", "output_ids": ["1521769", "15119526", "9485856", "12122309", "15119528"]}
+{"query": "Is the current emphasis on encouraging boys to do well in school correct?", "output_ids": ["9485856", "6949711", "11363053", "7613335", "14860410"]}
+{"query": "Is there too much emphasis on encouraging girls to be leaders these days?", "output_ids": ["9485856", "9689909", "12648939", "7415987", "1131408"]}
+{"query": "Is there too much emphasis on encouraging girls to talk about their feelings when they are sad or upset these days?", "output_ids": ["10393683", "15868506", "12371098", "14725612", "4784037"]}
+{"query": "Is the current emphasis on encouraging girls to stand up for themselves sufficient?", "output_ids": ["16410146", "9485856", "9485893", "6808235", "3487661"]}
+{"query": "Is there too much emphasis on encouraging girls to do well in school these days?", "output_ids": ["9485856", "12122309", "7415987", "9689909", "12125303"]}
+{"query": "Do you agree that there are people you can count on in your neighborhood?", "output_ids": ["18596101", "17418826", "3003020", "5995312", "13492666"]}
+{"query": "Can people in your neighborhood be trusted?", "output_ids": ["11779426", "18596103", "5995312", "10533426", "9365455"]}
+{"query": "Is your neighborhood close-knit?", "output_ids": ["3184335", "5851158", "11439204", "3564034", "11029539"]}
+{"query": "Are you currently worried about not having enough money for retirement?", "output_ids": ["12123327", "5472443", "16566008", "17723815", "13442210"]}
+{"query": "Are you currently worried about not having enough to pay your normal monthly bills?", "output_ids": ["5082207", "10433749", "17723815", "13594148", "2985128"]}
+{"query": "Are you optimistic about the future of the Republican Party?", "output_ids": ["6971699", "6722332", "505269", "6971694", "7309226"]}
+{"query": "Are you optimistic about the future of the Democratic Party?", "output_ids": ["3232918", "5129130", "3855855", "2282343", "3876048"]}
+{"query": "Are you satisfied with your family life?", "output_ids": ["4452909", "11863960", "6155541", "13421169", "9446347"]}
+{"query": "Are you satisfied with your social life?", "output_ids": ["4452909", "11863960", "6155541", "13421169", "9446347"]}
+{"query": "Are you satisfied with your personal financial situation?", "output_ids": ["4452909", "16426047", "2878127", "9365454", "13421169"]}
+{"query": "Are you satisfied with your current job or career?", "output_ids": ["16598897", "4452909", "6155541", "18596100", "6703331"]}
+{"query": "Are you satisfied with the quality of life in your local community?", "output_ids": ["4452909", "11863960", "13421169", "9446347", "658835"]}
+{"query": "Would you generally say that most people can be trusted?", "output_ids": ["14972264", "15823172", "11779426", "5995312", "7795471"]}
+{"query": "Can most people be trusted?", "output_ids": ["7693373", "18463251", "6171463", "6515439", "6515431"]}
+{"query": "Do you trust most people?", "output_ids": ["5995312", "11779426", "7134431", "14972264", "17947880"]}
+{"query": "Can most people generally be trusted to do the right thing?", "output_ids": ["562477", "9273951", "9310297", "16057353", "4407589"]}
+{"query": "Will you have sufficient future income to sustain your desired lifestyle?", "output_ids": ["3003020", "17197448", "3003019", "8222347", "19188474"]}
+{"query": "Do you consider it personally important to live in a community with access to art, music and theater?", "output_ids": ["1174971", "6797493", "1083580", "3169863", "2815041"]}
+{"query": "Is it important to you to live in a community that is a good place to raise children?", "output_ids": ["4452908", "8919891", "15629809", "4922712", "17214588"]}
+{"query": "Do you personally find it important to live in a community that is racially and ethnically diverse?", "output_ids": ["7924414", "14928184", "6854535", "5844467", "15420548"]}
+{"query": "Is it important for you to live in a community where most people share your political views?", "output_ids": ["18596101", "9446347", "7655665", "17866761", "15934794"]}
+{"query": "Do you consider it personally important to live in a community with access to recreational and outdoor activities?", "output_ids": ["14107094", "14107093", "14459374", "19962430", "15059313"]}
+{"query": "Do you consider it personally important to live in a community where you have family nearby?", "output_ids": ["18596101", "5963969", "18404214", "15739193", "15889617"]}
+{"query": "Do you consider it personally important to live in a community with a strong sense of community?", "output_ids": ["18504698", "20874085", "5742210", "20774014", "20940943"]}
+{"query": "Is it personally important to you to live in a community where most people share your religious views?", "output_ids": ["7655665", "11686029", "9237819", "9446347", "5995312"]}
+{"query": "Do you think a college education is essential for a young person to succeed in the world today?", "output_ids": ["4707873", "6866774", "2105696", "5963969", "10400476"]}
+{"query": "Do you consider knowing how to get along with people essential for the success of a young person in today's world?", "output_ids": ["12743079", "16779323", "11313471", "8302895", "9091608"]}
+{"query": "Do you believe a good work ethic is essential for a young person's success in today's world?", "output_ids": ["960364", "442530", "16179149", "6420802", "11677920"]}
+{"query": "Do you believe that work skills learned on the job are essential for a young person's success in the world today?", "output_ids": ["14590516", "12329660", "17621407", "2855031", "4654259"]}
+{"query": "Does the federal government allocate more than a fair share of funds to urban areas?", "output_ids": ["13775526", "13556711", "9472622", "14048204", "14045665"]}
+{"query": "Do you believe suburban areas receive more than their fair share of federal government spending?", "output_ids": ["20679335", "20679336", "7749427", "20679341", "61549"]}
+{"query": "Does the federal government invest more than its fair share in rural areas?", "output_ids": ["11266654", "16320888", "11266669", "11266655", "11111399"]}
+{"query": "In the next 10 years, do you believe the job availability in your area will improve?", "output_ids": ["18596101", "18596100", "16598897", "9584088", "6703331"]}
+{"query": "Is it a major problem that women claim to have experienced sexual harassment or assault in the workplace when it hasn't actually occurred?", "output_ids": ["20902011", "20514719", "15087111", "20738238", "20902013"]}
+{"query": "Is it a major problem that employers are firing men accused of sexual harassment or assault before finding out all the facts?", "output_ids": ["18332023", "20738238", "1789358", "20612162", "4816954"]}
+{"query": "Is men getting away with committing sexual harassment or assault in the workplace today a major problem?", "output_ids": ["20902011", "20514719", "15087111", "4606873", "15087108"]}
+{"query": "Do you believe that women not being believed when they claim they have experienced sexual harassment or assault in the workplace is a major problem today?", "output_ids": ["20514719", "20902011", "15087111", "20738238", "18332023"]}
+{"query": "Will the increased focus on sexual harassment and assault lead to more opportunities for women in the workplace?", "output_ids": ["20902011", "20514719", "20902013", "4606873", "9593834"]}
+{"query": "Has the increased focus on sexual harassment and assault made it easier for men to interact with women in the workplace?", "output_ids": ["20902011", "20514719", "20902013", "15087111", "19035380"]}
+{"query": "Do you believe that the values of most people living in urban areas resemble yours?", "output_ids": ["17731970", "17418826", "9046283", "16598897", "1720053"]}
+{"query": "Do you believe that the values of most people living in suburban areas are very similar to your own?", "output_ids": ["11938349", "9046283", "16598897", "5995312", "4314188"]}
+{"query": "Do you believe that people living in rural areas have values very similar to your own?", "output_ids": ["17731970", "5029873", "9046283", "3382776", "13654120"]}
+{"query": "Has the impact of immigrants living in your local community been mostly positive?", "output_ids": ["199770", "8730410", "9349138", "19604732", "18475071"]}
+{"query": "Do you understand the types of problems faced by people who live in urban areas?", "output_ids": ["11743126", "16320891", "6956473", "18596101", "3862599"]}
+{"query": "Do you believe you understand the types of problems faced by people who live in suburban areas very well?", "output_ids": ["3382776", "18596101", "5963969", "5995312", "7779608"]}
+{"query": "Do you understand the types of problems faced by people who live in rural areas well?", "output_ids": ["11743126", "18596101", "8795110", "20100227", "16320891"]}
+{"query": "Would you want to move to a different community if you had the opportunity?", "output_ids": ["4411700", "6536015", "4695378", "17805279", "2024648"]}
+{"query": "Will you move to a different community at some point in the future?", "output_ids": ["18904501", "6042798", "9782983", "5563249", "12889261"]}
+{"query": "Would you want to stay in an urban area if you could move to a different community?", "output_ids": ["6536015", "17805279", "10500647", "4411700", "2215266"]}
+{"query": "Would you prefer to stay in a suburban area rather than move to an urban area?", "output_ids": ["4465338", "3133879", "11263706", "12373053", "560490"]}
+{"query": "Would you prefer to stay in a rural area rather than move to an urban area?", "output_ids": ["1689622", "20462799", "6413294", "11266657", "9530002"]}
+{"query": "Do you believe that, according to the U.S. Census Bureau, African Americans, Latinos, and people of Asian descent making up a majority of the population in the next 25 to 30 years will be good for the country?", "output_ids": ["1182605", "1102487", "1106454", "1085818", "1894919"]}
+{"query": "Do you believe that the growing number of newcomers from other countries threatens traditional American customs and values?", "output_ids": ["12230774", "10527356", "12026582", "12426483", "12230775"]}
+{"query": "Is society better off if people make marriage and having children a priority?", "output_ids": ["923325", "1850240", "264892", "923315", "13607383"]}
+{"query": "Does the economic system in this country unfairly favor powerful interests or is it generally fair to most Americans?", "output_ids": ["6229545", "7750495", "18801042", "13810118", "2034510"]}
+{"query": "Do you believe that the obstacles making it harder for women to get ahead than men are now largely gone?", "output_ids": ["17553751", "15929221", "20911640", "9982249", "19821771"]}
+{"query": "Do you believe the government should do more to solve problems instead of leaving them to businesses and individuals?", "output_ids": ["15878893", "916950", "9485809", "17930962", "17121757"]}
+{"query": "Do white people significantly benefit from societal advantages that black people do not have?", "output_ids": ["4801739", "4801767", "4563136", "19178009", "16708172"]}
+{"query": "Do you support the legalization of same-sex marriage in the U.S.?", "output_ids": ["13202958", "13483911", "15510445", "13450845", "13343710"]}
+{"query": "Should abortion be legal in all or most cases?", "output_ids": ["1879908", "15476171", "3823002", "2992460", "3717992"]}
+{"query": "Do you believe there are some situations in which abortion should be restricted?", "output_ids": ["19280762", "2992460", "9499320", "14396171", "1879890"]}
+{"query": "Do you believe there are some situations in which abortion should be allowed?", "output_ids": ["14396171", "19280762", "9499320", "2992460", "1879890"]}
+{"query": "Should the U.S. government take steps to restrict false information online or should people's freedom to publish and access information be protected?", "output_ids": ["15897403", "20006305", "20001281", "20061148", "1413261"]}
+{"query": "Should technology companies take steps to restrict false information online or should people's freedom to publish and access information be protected?", "output_ids": ["15897403", "20006305", "12991404", "19797364", "7461724"]}
+{"query": "Has science made life easier for most people?", "output_ids": ["4436032", "825047", "18583245", "6208810", "15482871"]}
+{"query": "Has science mostly positively influenced the quality of food in the U.S.?", "output_ids": ["19450267", "3880725", "15887137", "3880715", "19781352"]}
+{"query": "Has science predominantly had a positive effect on the quality of healthcare in the U.S.?", "output_ids": ["14610885", "4872883", "13533755", "11402328", "11046757"]}
+{"query": "Has science mostly positively affected the quality of the environment in the U.S.?", "output_ids": ["10812918", "7507702", "20037516", "10071773", "6721646"]}
+{"query": "Do you believe that government investments in basic scientific research are usually worthwhile in the long run?", "output_ids": ["15338247", "360760", "20194615", "20180379", "66714"]}
+{"query": "Do you believe that government investments in engineering and technology typically pay off in the long run?", "output_ids": ["7943259", "8785659", "6809518", "6053624", "20676633"]}
+{"query": "Do you believe government investments in medical research are worth it in the long run?", "output_ids": ["20676633", "11677920", "16255004", "4953161", "17195795"]}
+{"query": "Is government investment essential for scientific progress, or can private investment alone ensure sufficient progress?", "output_ids": ["779768", "13061247", "20968372", "1324790", "18449128"]}
+{"query": "Do you support the use of animals in scientific research?", "output_ids": ["4579543", "15617784", "8503656", "13025471", "4572829"]}
+{"query": "Are organic fruits and vegetables better for one's health than conventionally grown foods?", "output_ids": ["15947848", "12319789", "13895113", "7504851", "11946787"]}
+{"query": "Does eating fruits and vegetables grown with pesticides present a great deal of health risk for the average person over the course of their lifetime?", "output_ids": ["11946774", "11946787", "7504851", "7017177", "6452711"]}
+{"query": "Does eating meat from animals that have been given antibiotics or hormones pose a significant health risk over the course of a person's lifetime?", "output_ids": ["250840", "250787", "17514256", "17514271", "3892589"]}
+{"query": "Does consuming food and drinks with artificial coloring pose a considerable health risk for the average person over their lifetime?", "output_ids": ["14044754", "2068711", "16213205", "4694541", "10132120"]}
+{"query": "Does consuming food and drinks with artificial preservatives pose a significant health risk over the course of a person's lifetime?", "output_ids": ["2068711", "14044754", "10132120", "357838", "4694541"]}
+{"query": "Do you believe the average person is exposed to food additives daily which pose a serious risk to their health?", "output_ids": ["4305424", "456889", "16587263", "4913872", "20232216"]}
+{"query": "Do you believe foods with genetically modified ingredients are healthier than foods with no genetically modified ingredients?", "output_ids": ["9265075", "9265219", "160067", "1702437", "160074"]}
+{"query": "Do you believe that foods with genetically modified ingredients are better for your health than foods with no genetically modified ingredients?", "output_ids": ["9265075", "9265219", "160067", "1702437", "15538115"]}
+{"query": "Do you personally care a great deal about the issue of genetically modified foods?", "output_ids": ["9265075", "9265219", "160067", "19304879", "15538115"]}
+{"query": "Do you believe genetically modified foods will lead to more affordably-priced food?", "output_ids": ["9265075", "9265219", "160067", "1702437", "19304879"]}
+{"query": "Will genetically modified foods lead to health problems for the population as a whole?", "output_ids": ["9265075", "9265219", "160067", "9265077", "9265076"]}
+{"query": "Will genetically modified foods create problems for the environment?", "output_ids": ["9265075", "9265219", "160067", "1702437", "160074"]}
+{"query": "Will genetically modified foods increase the global food supply?", "output_ids": ["9265075", "9265219", "160067", "1702437", "9265076"]}
+{"query": "Do you believe that current medical treatments are worth the costs due to their benefit on lifespan and quality of life?", "output_ids": ["13189020", "18362839", "4429454", "19900814", "16552944"]}
+{"query": "Do you believe that healthcare providers are too quick to order tests and procedures that may not be necessary?", "output_ids": ["20504531", "18894871", "8459386", "6952460", "16393097"]}
+{"query": "Do you believe that people's over-reliance on unnecessary prescription medicines is a significant problem in today's medical treatments?", "output_ids": ["8721639", "7184673", "14241940", "9648977", "14028622"]}
+{"query": "Do you believe that new medical treatments being made available before fully understanding their effects on people's health is a big problem?", "output_ids": ["11344957", "17421661", "6272089", "7671084", "19945606"]}
+{"query": "Is the cost of treatments making quality medical care unaffordable?", "output_ids": ["4292260", "13360251", "10844531", "16552944", "8227795"]}
+{"query": "Do you believe that the complexity of new medical treatments is a significant issue that prevents patients from making informed decisions?", "output_ids": ["19900814", "13532771", "13532806", "1903047", "9818633"]}
+{"query": "Do side effects from prescription medicines create as many problems as the medicines solve?", "output_ids": ["14241940", "20002124", "20002130", "9648977", "9020688"]}
+{"query": "Is the process for evaluating the safety and effectiveness of new medical treatments too slow?", "output_ids": ["18362839", "14028702", "1817565", "16222312", "8227795"]}
+{"query": "Have you heard or read about gene editing that can be used to change a baby's genetic characteristics?", "output_ids": ["4988835", "2291246", "20079412", "2199954", "2163429"]}
+{"query": "Is changing a baby's genetic characteristics to make the baby more intelligent an appropriate use of medical technology?", "output_ids": ["10284066", "20367479", "10135141", "10135170", "17668092"]}
+{"query": "Is it appropriate to use medical technology to change a baby's genetic characteristics to treat a severe condition at birth?", "output_ids": ["10561890", "14610900", "3107277", "2541619", "17668092"]}
+{"query": "Is changing a baby's genetic characteristics to reduce the risk of a serious disease an appropriate use of medical technology?", "output_ids": ["2083528", "5764279", "20079425", "16089812", "9149617"]}
+{"query": "Do you believe that medical researchers have a good understanding of the health risks and benefits of changing a baby's genetic characteristics?", "output_ids": ["20079429", "20079403", "20079425", "17742728", "9149617"]}
+{"query": "Is it likely that gene editing to change a baby's genetic characteristics, if widely available, will be used in morally unacceptable ways?", "output_ids": ["4988835", "2163429", "20079412", "53838", "5677574"]}
+{"query": "Will gene editing techniques that change a baby's genetic characteristics, if widely available, likely help people live longer and better quality lives?", "output_ids": ["7276750", "6861824", "4657732", "19743957", "7276749"]}
+{"query": "Will gene editing to alter a baby's genetic characteristics be widely used before we fully understand how it affects health?", "output_ids": ["2199954", "3235121", "307410", "16721024", "14026313"]}
+{"query": "Will inequality increase if gene editing to change a baby's genetic characteristics becomes widely available and is only available for the wealthy?", "output_ids": ["2163429", "53838", "2083528", "20079406", "7159523"]}
+{"query": "Will the development of gene editing techniques to change a baby's genetic characteristics pave the way for new medical advances that benefit society as a whole?", "output_ids": ["7276750", "7276749", "6861824", "7159522", "2163429"]}
+{"query": "Do you believe that using gene editing to alter a baby's genetic characteristics, which requires testing on human embryos, is an appropriate use of medical technology?", "output_ids": ["20119007", "20118996", "18162425", "7276750", "12164792"]}
+{"query": "Is the genetic engineering of animals to increase protein production for more nutritious meat an appropriate use of technology?", "output_ids": ["160380", "2896344", "19668745", "1702399", "160050"]}
+{"query": "Do you believe that using technology to resurrect an extinct animal through genetically modifying a closely-related species is acceptable?", "output_ids": ["160362", "19217339", "14026313", "19743953", "10771647"]}
+{"query": "Do you consider the genetic engineering of mosquitoes to prevent their reproduction and thereby curb the spread of mosquito-borne diseases an appropriate use of technology?", "output_ids": ["18763055", "12900692", "5548153", "10483217", "160064"]}
+{"query": "Do you believe that using technology to genetically engineer animals for the purpose of growing human organs or tissues is appropriate?", "output_ids": ["1702399", "19217339", "160357", "160362", "160050"]}
+{"query": "Do you believe that using technology to genetically engineer aquarium fish to glow is appropriate?", "output_ids": ["12730828", "4066104", "5050104", "18593745", "18593750"]}
+{"query": "Do you believe that humans have evolved over time, or have existed in their present form since the beginning of time?", "output_ids": ["9446412", "9446410", "63882", "9446409", "9446411"]}
+{"query": "Do you believe that humans have evolved over time?", "output_ids": ["9446412", "9446409", "9446411", "9446408", "9446410"]}
+{"query": "Do you believe that humans have evolved over time solely due to processes such as natural selection without the involvement of God or a higher power?", "output_ids": ["9446408", "63882", "9446409", "9446421", "4817822"]}
+{"query": "Do you believe that humans evolved entirely through processes like natural selection without any guidance or intervention from God or a higher power?", "output_ids": ["13020918", "9446421", "9446408", "3454027", "6329158"]}
+{"query": "Do you believe that humans have evolved over time solely due to natural processes without any guidance from a higher power?", "output_ids": ["9446388", "9446409", "9446408", "9446412", "9446411"]}
+{"query": "Do most biological scientists say that humans have evolved over time due to processes such as natural selection?", "output_ids": ["12596417", "12596356", "5212512", "11321249", "9446388"]}
+{"query": "Do you agree that most biological scientists say that humans have evolved over time due to processes such as natural selection, and not that humans have existed in their present form since the beginning of time?", "output_ids": ["9446388", "9446410", "9446409", "63882", "9446412"]}
+{"query": "Do you consider it essential for someone in high political office to be honest and ethical?", "output_ids": ["15889617", "6682060", "13492679", "16873800", "12244617"]}
+{"query": "Is it essential for you that someone in high political office be compassionate and empathetic?", "output_ids": ["18120359", "3198277", "16169206", "8482859", "2500355"]}
+{"query": "Is it essential for you that someone in high political office is able to work out compromises?", "output_ids": ["1746820", "13492679", "12698449", "3546724", "8206333"]}
+{"query": "Is it essential for you that someone in high political office works well under pressure?", "output_ids": ["323688", "13007038", "17706631", "13611987", "2633620"]}
+{"query": "Do you consider it essential for someone in high political office to be willing to take risks?", "output_ids": ["4845600", "8972557", "12546819", "13884290", "20313493"]}
+{"query": "Do you consider it essential for someone in high political office to stand up for what they believe in, despite political pressure?", "output_ids": ["19673657", "8864711", "17596350", "6870059", "205117"]}
+{"query": "Do you consider it essential for someone in high political office to be persuasive?", "output_ids": ["4707873", "15889617", "13492679", "2006125", "17571951"]}
+{"query": "Do you believe it is essential for someone in high political office to maintain a tone of civility and respect in politics?", "output_ids": ["5467078", "3746804", "205117", "4734931", "5621085"]}
+{"query": "Do you consider it essential for someone in high political office to serve as a role model for children?", "output_ids": ["15889617", "5963969", "13492679", "18415143", "18154451"]}
+{"query": "Do you consider it essential for someone in a top executive business position to be honest and ethical?", "output_ids": ["15889617", "56735", "20236302", "111946", "4222948"]}
+{"query": "Do you believe it is essential for someone in a top executive business position to be compassionate and empathetic?", "output_ids": ["3382776", "14530677", "15889617", "14237331", "20485270"]}
+{"query": "Do you consider it essential for someone in a top executive business position to be able to work out compromises?", "output_ids": ["15889617", "15910532", "14986245", "12698449", "3546724"]}
+{"query": "Is it essential for someone in a top executive business position to work well under pressure?", "output_ids": ["7563856", "11688570", "9790057", "13795470", "695329"]}
+{"query": "Do you consider it essential for someone in a top executive business position to be willing to take risks?", "output_ids": ["12546819", "17902255", "15889617", "8972557", "4845600"]}
+{"query": "Do you believe it is essential for someone in a top executive business position to value people from different backgrounds?", "output_ids": ["15889617", "3382776", "9265758", "14986245", "20279014"]}
+{"query": "Is it essential for you that someone in a top executive business position provides fair pay and good benefits?", "output_ids": ["1819815", "1480730", "2703229", "14024625", "2111710"]}
+{"query": "Do you believe it is essential for someone in a top executive business position to negotiate profitable deals?", "output_ids": ["17571921", "15889617", "5012137", "15540357", "14656724"]}
+{"query": "Is it essential for you that someone in a top executive business position considers the impact of their business decisions on society?", "output_ids": ["15123234", "11689256", "9515010", "14603059", "10090078"]}
+{"query": "Is it essential for someone in a top executive business position to provide guidance or mentorship to young employees?", "output_ids": ["17783346", "1746832", "18009531", "16147502", "1746849"]}
+{"query": "Do you consider it essential for someone in a top executive business position to create a safe and respectful workplace?", "output_ids": ["17146175", "6524243", "8600845", "6389735", "13339250"]}
+{"query": "Do you believe it is essential for someone in a top executive business position to stand up for what they believe in, despite pressure to make a profit?", "output_ids": ["19673657", "3382776", "2105696", "2282368", "20485270"]}
+{"query": "Do you believe that men and women have essentially similar leadership styles?", "output_ids": ["16618395", "16618397", "18322335", "6133699", "15953115"]}
+{"query": "Do women generally have a better approach to leadership in top positions in business and politics than men?", "output_ids": ["18322335", "16618395", "16618411", "16618404", "16618397"]}
+{"query": "Do you believe there are too many women in high political offices?", "output_ids": ["960364", "17731970", "9539068", "1548816", "17596350"]}
+{"query": "Do you think there should be more women than men in high political office?", "output_ids": ["6121529", "19194464", "18245310", "20496481", "2215267"]}
+{"query": "Do you believe there are too many women in top executive business positions?", "output_ids": ["960364", "17731970", "15058825", "9539068", "9174941"]}
+{"query": "Do you believe that ideally there should be more women than men in top executive business positions?", "output_ids": ["10261915", "17309928", "13078359", "6538978", "18322335"]}
+{"query": "Is it generally easier for men to get top executive positions in business these days?", "output_ids": ["7891787", "13795470", "1968358", "9790057", "16618401"]}
+{"query": "Is it generally easier for men to get elected to high political offices than women?", "output_ids": ["14229834", "11247636", "6582268", "17932937", "6843144"]}
+{"query": "Do you believe that as more women run for office, it will only be a matter of time before there are as many women as men in high political office?", "output_ids": ["15614142", "18322335", "6843144", "14229834", "6582268"]}
+{"query": "Do you believe that women will eventually hold as many top executive positions as men in business as they continue to move into management roles?", "output_ids": ["16618401", "18322335", "18006432", "7563861", "19430981"]}
+{"query": "Do you believe that having more women in top leadership positions in business and government would significantly improve the quality of life for women?", "output_ids": ["18322335", "19877109", "18556030", "11844820", "15484598"]}
+{"query": "Do you believe having more women in top leadership positions in business and government would significantly improve the quality of life for men?", "output_ids": ["18322335", "16618395", "16618407", "18556030", "16618397"]}
+{"query": "Do you believe that having more women in top leadership positions in business and government would significantly improve the quality of life for all Americans?", "output_ids": ["18322335", "11844820", "11740365", "583769", "3892086"]}
+{"query": "Do you believe that many Americans aren't ready to elect a woman to higher office is a major reason why there are fewer women than men in high political offices?", "output_ids": ["6538978", "4838541", "18245310", "16397506", "15614142"]}
+{"query": "Do you believe that gender discrimination is a major reason for there being fewer women than men in high political offices?", "output_ids": ["14014765", "4111469", "20382083", "17309928", "16327520"]}
+{"query": "Do you believe that family responsibilities make it harder for women to run for higher office?", "output_ids": ["7678889", "15929221", "15494138", "16959242", "13071063"]}
+{"query": "Do you believe that women aren't tough enough for politics, which is a reason why there are fewer women than men in high political offices?", "output_ids": ["6538978", "18245310", "4838541", "18322335", "10261915"]}
+{"query": "Do you believe that fewer women have the required experience for higher office, which is a reason for the fewer number of women than men in high political offices?", "output_ids": ["9423614", "16427720", "17309925", "2452268", "16046590"]}
+{"query": "Do you believe that women getting less support from party leaders is a major reason for there being fewer women than men in high political offices?", "output_ids": ["16427720", "8970538", "13078359", "18322335", "9423614"]}
+{"query": "Do you believe that women running for office being held to higher standards than men is a major reason for there being fewer women in high political offices?", "output_ids": ["6538978", "9423614", "19437030", "16397506", "11614333"]}
+{"query": "Do you believe that women who run for office having to prove themselves more than men is a major reason for the fewer number of women than men in high political offices?", "output_ids": ["11845105", "6538978", "8970538", "14188051", "11247636"]}
+{"query": "Do you believe that fewer women are interested in holding higher office, resulting in fewer women than men in high political offices?", "output_ids": ["9423614", "2452268", "8970538", "17309925", "16046590"]}
+{"query": "Do you believe that one of the reasons there are fewer women than men in high political offices is because women aren't encouraged to pursue leadership positions from an early age?", "output_ids": ["18556030", "18322335", "11260685", "11841466", "13078359"]}
+{"query": "Do you think that women not doing as good of a job selling their accomplishments is a major reason why there are fewer women than men in high political offices?", "output_ids": ["6538978", "6538993", "11254358", "18245310", "17553751"]}
+{"query": "Do you believe that sexual harassment is a major reason why there are fewer women than men in high political offices?", "output_ids": ["14014772", "14466435", "1789362", "19035380", "17170902"]}
+{"query": "Do you believe that many businesses are not ready to hire women for top executive positions?", "output_ids": ["9174941", "13803084", "19673657", "18006432", "17731970"]}
+{"query": "Do you believe that gender discrimination is a major reason why there aren't more women in top executive business positions?", "output_ids": ["17309928", "6538978", "6133666", "18245310", "18956147"]}
+{"query": "Do you believe that family responsibilities make it harder for women to move up in business?", "output_ids": ["7678889", "15929221", "21007520", "13071063", "15356852"]}
+{"query": "Do you believe that the lack of women in top executive business positions is because women aren't tough enough for business?", "output_ids": ["10587191", "20868600", "9174941", "20367892", "18075214"]}
+{"query": "Do you think that the perception that women don't make as good managers as men is a major reason why there aren't more women in top executive business positions?", "output_ids": ["10667959", "17553751", "6538978", "9521027", "16982779"]}
+{"query": "Do you believe that women are held to higher standards than men as a major reason why there aren't more women in top executive business positions?", "output_ids": ["6538978", "11260685", "16397506", "11841466", "16427716"]}
+{"query": "Do you believe that women having to prove themselves more than men is a major reason why there aren't more women in top executive business positions?", "output_ids": ["6538978", "11845105", "11260685", "17309928", "18556030"]}
+{"query": "Do you believe that not as many women are interested in top executive business positions is a reason why there aren't more women in these positions?", "output_ids": ["6538978", "11260685", "4838541", "20083352", "18322335"]}
+{"query": "Do you believe that the lack of encouragement for women to pursue leadership positions from an early age is a major reason why there aren't more women in top executive business positions?", "output_ids": ["18556030", "18041500", "19877109", "16618401", "18322335"]}
+{"query": "Do you believe that there aren't more women in top executive business positions because women don't do as good of a job selling their accomplishments?", "output_ids": ["19830121", "960364", "17731970", "7779606", "10400476"]}
+{"query": "Do you believe that the lack of access to the same kinds of personal networks and connections that men have is a major reason why there aren't more women in top executive business positions?", "output_ids": ["6538978", "17553751", "18245310", "4838541", "19230177"]}
+{"query": "Do you believe that the reason there aren't more women in top executive business positions is because women have fewer opportunities to interact with people in senior positions outside of work?", "output_ids": ["17309928", "5283836", "13078359", "14014765", "17168137"]}
+{"query": "Do you believe that women being less likely than men to ask for promotions and raises is a major reason why there aren't more women in top executive business positions?", "output_ids": ["6538978", "17309928", "16427716", "18556030", "20690741"]}
+{"query": "Do you believe that sexual harassment creates an environment that makes it harder for women to succeed in top executive business positions?", "output_ids": ["20902011", "1789325", "1789362", "20101816", "19583387"]}
+{"query": "Do you believe the higher education system, that is colleges and universities, in the United States today is heading in the right direction?", "output_ids": ["6312713", "6312723", "11476959", "13239426", "11291283"]}
+{"query": "Do you believe high tuition costs are a major reason why the higher education system in the U.S. is going in the wrong direction?", "output_ids": ["14050837", "11307058", "14031236", "7576158", "8311973"]}
+{"query": "Do you believe that professors bringing their political and social views into the classroom is a major reason why the higher education system in the U.S. is going in the wrong direction?", "output_ids": ["17625720", "20767503", "5043973", "10838636", "17553751"]}
+{"query": "Do you believe that colleges and universities' excessive concern about protecting students from potentially offensive views is a reason the U.S. higher education system is going in the wrong direction?", "output_ids": ["11476959", "14046570", "379420", "8797689", "14050242"]}
+{"query": "Do you believe that students not getting the skills they need to succeed in the workplace is a major reason why the higher education system in the U.S. is going in the wrong direction?", "output_ids": ["14590516", "5333496", "16570143", "6933428", "19447484"]}
+{"query": "Do you believe there are other significant reasons contributing to the decline of the U.S. higher education system?", "output_ids": ["6015645", "16570143", "14949057", "10093088", "10382814"]}
+{"query": "Do you believe that men are better at being honest and ethical in high political offices than women?", "output_ids": ["12655757", "18322335", "19430984", "18245310", "6357390"]}
+{"query": "Do you believe that men in high political offices are more compassionate and empathetic than women?", "output_ids": ["6538978", "9611503", "10261915", "20036550", "18322335"]}
+{"query": "Do you believe that men are better at working out compromises in high political offices than women?", "output_ids": ["18322335", "16327520", "10261915", "16327568", "19430984"]}
+{"query": "Do you believe that men are better at working well under pressure in high political offices than women?", "output_ids": ["16327520", "18322335", "16327568", "10261915", "19430984"]}
+{"query": "Do you believe men in high political offices are more willing to take risks than women?", "output_ids": ["6538978", "391537", "16213559", "16504947", "10261915"]}
+{"query": "Do you believe men are better at standing up for what they believe in, despite political pressure, than women?", "output_ids": ["19673657", "10261915", "20452172", "3297187", "15494138"]}
+{"query": "Do you believe that men in high political offices are more persuasive than women?", "output_ids": ["6538978", "9611503", "10261915", "20036550", "18322335"]}
+{"query": "Do you believe that men are better at maintaining a tone of civility and respect in high political offices than women?", "output_ids": ["18322335", "10261915", "16327520", "16327568", "16005673"]}
+{"query": "Do you believe that men in high political offices are better role models for children than women?", "output_ids": ["6538978", "10261915", "20036550", "18322335", "16327520"]}
+{"query": "Do you believe that men are better at handling economic conditions in high political offices than women?", "output_ids": ["16327520", "18322335", "16327568", "19183905", "6538978"]}
+{"query": "Do you believe that men are better at dealing with social issues such as education and health care in high political offices than women?", "output_ids": ["17224142", "16327520", "6194738", "17167394", "9177622"]}
+{"query": "Do you think men are better than women at dealing with immigration policy in high political offices?", "output_ids": ["6912386", "19430984", "18322335", "17596350", "18245310"]}
+{"query": "Do you believe men are better at dealing with national security and defense in high political offices?", "output_ids": ["435724", "5726882", "17094272", "12385229", "11557862"]}
+{"query": "Do you believe men are better at dealing with the federal budget deficit in high political offices than women?", "output_ids": ["16129979", "16130076", "15765529", "9850460", "3706464"]}
+{"query": "Do you believe that men are better at dealing with gun policy than women in high political offices?", "output_ids": ["18322335", "16327520", "10261915", "16327568", "19430984"]}
+{"query": "Do you believe that men are better than women at being honest and ethical in top executive business positions?", "output_ids": ["18322335", "19430984", "12655757", "6133699", "6538978"]}
+{"query": "Do you believe that women are better at being compassionate and empathetic in top executive business positions than men?", "output_ids": ["18322335", "6133699", "19430984", "6538978", "12655757"]}
+{"query": "Do you believe that men are better at working out compromises in top executive business positions compared to women?", "output_ids": ["18322335", "11650714", "6133699", "13197787", "15906499"]}
+{"query": "Do you believe that men are better than women at working well under pressure in top executive business positions?", "output_ids": ["18322335", "19430984", "6538978", "11650714", "6133699"]}
+{"query": "Do you believe that men are better than women at being willing to take risks in top executive business positions?", "output_ids": ["6538978", "19430984", "18322335", "6133699", "16213559"]}
+{"query": "Do you believe that men in top executive business positions are better at valuing people from different backgrounds than women?", "output_ids": ["6538978", "18322335", "19430984", "18006418", "6133699"]}
+{"query": "Do you believe men in top executive business positions are better at providing fair pay and good benefits than women?", "output_ids": ["11650714", "374640", "10261915", "15224284", "18322335"]}
+{"query": "Do you believe men are better at negotiating profitable deals in top executive business positions than women?", "output_ids": ["18322335", "19430984", "6912386", "6133699", "11650714"]}
+{"query": "Do you believe men in top executive business positions are better at considering the impact of business decisions on society than women?", "output_ids": ["18322335", "12122173", "13078359", "17370280", "16558173"]}
+{"query": "Do you believe that men are better than women at providing guidance or mentorship in top executive business positions?", "output_ids": ["18322335", "10261915", "19430984", "6133699", "11650714"]}
+{"query": "Do you believe that men are better at creating a safe and respectful workplace in top executive business positions than women?", "output_ids": ["20690741", "16427721", "11254395", "11254331", "6142111"]}
+{"query": "Do you believe that men in top executive business positions are better at standing up for what they believe in, despite pressure to make a profit?", "output_ids": ["19673657", "2282368", "14121335", "335630", "17406646"]}
+{"query": "Do you believe that men would do a better job running a major technology company than women?", "output_ids": ["6538993", "6538978", "19430984", "18322335", "6538951"]}
+{"query": "Do you believe men would do a better job than women at running a major retail chain type of companies?", "output_ids": ["6538993", "6538951", "18322335", "19430984", "11253686"]}
+{"query": "Do you believe that men would do a better job running a large bank or financial institution types of companies than women?", "output_ids": ["19183905", "17168169", "6538945", "11650551", "16933456"]}
+{"query": "Do you believe men would do a better job running a large oil or gas company than women?", "output_ids": ["6538993", "6538945", "19430984", "19183905", "6538951"]}
+{"query": "Do you believe that men would do a better job running a major hospital type of company?", "output_ids": ["19830121", "16598897", "8098914", "16647797", "2105696"]}
+{"query": "Do you believe men would do a better job running a professional sports team company than women?", "output_ids": ["6538993", "19430984", "19183905", "18322335", "9932202"]}
+{"query": "Does being decisive mostly help a woman's chances of getting elected to high political office?", "output_ids": ["2785913", "4394395", "5686489", "12106370", "18126223"]}
+{"query": "Does being compassionate mostly help a woman's chances of getting elected to high political office?", "output_ids": ["5686489", "8225966", "18126223", "11066272", "4394395"]}
+{"query": "Does being ambitious mostly help a woman's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "11066272", "20095709", "8225966"]}
+{"query": "Does being approachable mostly help a woman's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "4394395", "8225966", "4086339"]}
+{"query": "Does being assertive mostly help a woman's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "8225966", "20095709", "4086339"]}
+{"query": "Does showing emotions mostly help a woman's chances of getting elected to high political office?", "output_ids": ["9579035", "9335054", "7458836", "11066272", "8225966"]}
+{"query": "Does being physically attractive mostly help a woman's chances of getting elected to high political office?", "output_ids": ["11066272", "5686489", "449688", "13751679", "9442687"]}
+{"query": "Does being decisive mostly help a man's chances of getting elected to high political office?", "output_ids": ["2785913", "5686489", "12106370", "7726813", "18126223"]}
+{"query": "Does being compassionate mostly help a man's chances of getting elected to high political office?", "output_ids": ["5686489", "9579035", "18126223", "571830", "3577478"]}
+{"query": "Does being ambitious mostly help a man's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "15899407", "4086339", "9579035"]}
+{"query": "Does being approachable mostly help a man's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "3577478", "4086339", "120961"]}
+{"query": "Does being assertive mostly help a man's chances of getting elected to high political office?", "output_ids": ["5686489", "18126223", "7726813", "12106370", "4086339"]}
+{"query": "Do you believe showing emotions mostly helps a man's chances of getting elected to high political office?", "output_ids": ["17645848", "17801749", "17731970", "2819406", "13441613"]}
+{"query": "Does being physically attractive mostly help a man's chances of getting elected to high political office?", "output_ids": ["9579035", "5686489", "18822259", "2812336", "18126223"]}
+{"query": "Do you think it's better for a woman aspiring for high political office to have children before she enters politics?", "output_ids": ["17596350", "11952196", "18168630", "15780389", "19203757"]}
+{"query": "Does being decisive mostly help a woman's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "8481393", "3199145", "1693694"]}
+{"query": "Does being compassionate mostly help a woman's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "10589526", "7563861", "14991882"]}
+{"query": "Does being ambitious mostly help a woman's chances of getting a top executive business position?", "output_ids": ["9579035", "10589526", "16294879", "16567738", "14991882"]}
+{"query": "Does being approachable mostly help a woman's chances of attaining a top executive business position?", "output_ids": ["7563861", "7563856", "15123234", "18403572", "20287657"]}
+{"query": "Does being assertive mostly help a woman's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "10589526", "14991882", "16567738"]}
+{"query": "Do you believe showing emotions mostly helps a woman's chances of getting a top executive business position?", "output_ids": ["17645848", "17801749", "13441613", "17731970", "7779606"]}
+{"query": "Does being physically attractive mostly help a woman's chances of obtaining a top executive business position?", "output_ids": ["7563861", "7563856", "15123234", "13795470", "17687863"]}
+{"query": "Does being decisive mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "8481393", "7365029", "3199145"]}
+{"query": "Does being compassionate mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "11732299", "7365029", "16294879", "12631366"]}
+{"query": "Does being ambitious mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "11732299", "7365029", "12631366"]}
+{"query": "Does being approachable mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "16294879", "11732299", "7365029", "7563861"]}
+{"query": "Does being assertive mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "7365029", "16294879", "11732299", "16168200"]}
+{"query": "Do you believe showing emotions mostly helps a man's chances of getting a top executive business position?", "output_ids": ["17645848", "17801749", "17731970", "2819406", "7779606"]}
+{"query": "Does being physically attractive mostly help a man's chances of getting a top executive business position?", "output_ids": ["9579035", "18822259", "16294879", "11732299", "16319872"]}
+{"query": "Do you believe it's better for a woman aiming for a top executive position in business to have children early on in her career rather than waiting until she is well-established?", "output_ids": ["20127867", "17862193", "3621281", "4868921", "17302000"]}
+{"query": "Do you believe that a woman being elected as president would be beneficial for the country?", "output_ids": ["20777497", "15742784", "20483835", "7079662", "19906075"]}
+{"query": "Is it a good thing that more women are running for U.S. Congress this year than in the past?", "output_ids": ["15171116", "10419374", "10419366", "14451265", "2785500"]}
+{"query": "Would more women in the U.S. Congress lead to better handling of the country's problems?", "output_ids": ["14481435", "2348544", "743250", "11719273", "19183905"]}
+{"query": "Would the increase of women in the U.S. Congress lead to more openness and transparency in government?", "output_ids": ["17679694", "17679685", "17970060", "17679686", "20429002"]}
+{"query": "Would an increase in the number of women in the U.S. Congress make the tone of political debate in Washington more respectful?", "output_ids": ["2875853", "18322319", "10771603", "19083062", "15783168"]}
+{"query": "Should colleges and universities prioritize allowing people to speak their minds freely even if some find their views upsetting or offensive over ensuring students aren't exposed to views they find upsetting or offensive?", "output_ids": ["13318528", "8916477", "9861622", "967904", "9684977"]}
+{"query": "Do you feel optimistic about the future of the United States in 2050?", "output_ids": ["11302761", "3135834", "20558301", "20547527", "8938307"]}
+{"query": "Will the standard of living for the average American family improve over the next 30 years?", "output_ids": ["1086823", "1011338", "1224072", "1139761", "1059876"]}
+{"query": "Do you believe that the U.S. economy will be stronger in 30 years?", "output_ids": ["11677920", "14407482", "12230774", "7042681", "4953161"]}
+{"query": "Do you think that 30 years from now, health care in the U.S. will be more affordable?", "output_ids": ["17431462", "20655455", "20655482", "14034789", "7750499"]}
+{"query": "In 30 years, do you believe race relations in the U.S. will improve?", "output_ids": ["7042681", "12581003", "10838636", "11677920", "4953161"]}
+{"query": "In 30 years, do you think the U.S. will be more important in the world?", "output_ids": ["17748883", "5963969", "4770854", "2282368", "13752533"]}
+{"query": "Do you believe that, in the next 30 years, the gap between the rich and the poor in the U.S. will grow?", "output_ids": ["438219", "10467068", "13739005", "6749548", "15431184"]}
+{"query": "Do you think that the public education system in the U.S. will improve in the next 30 years?", "output_ids": ["2105696", "6866774", "19598707", "916950", "15889617"]}
+{"query": "In the next 30 years, do you believe religion will become less important in the U.S.?", "output_ids": ["2282367", "539342", "1306792", "2612789", "2612796"]}
+{"query": "In 30 years, do you think people aged 65 and older in the U.S. will have a better standard of living?", "output_ids": ["1832083", "1011449", "1126139", "11898243", "1010823"]}
+{"query": "In 30 years' time, do you believe children in the U.S. will have a better standard of living?", "output_ids": ["12339707", "20452172", "4953161", "6780833", "2604516"]}
+{"query": "Do you believe that the U.S. will be more politically divided 30 years from now?", "output_ids": ["12230774", "12026582", "12230775", "10527356", "4953161"]}
+{"query": "Do you believe a terrorist attack on the U.S. as bad as or worse than 9/11 will definitely happen in the next 30 years?", "output_ids": ["3797157", "1358060", "13997121", "9859036", "6572289"]}
+{"query": "Do you believe the world will face a major energy crisis in the next 30 years?", "output_ids": ["13952548", "3874523", "13952571", "4773601", "15852235"]}
+{"query": "Do you believe there will be a cure for Alzheimer's disease in the next 30 years?", "output_ids": ["13260322", "13039824", "13039831", "11701373", "7410064"]}
+{"query": "Do you believe that China will overtake the U.S. as the world's main superpower in the next 30 years?", "output_ids": ["11204780", "11204302", "11906984", "3004427", "1675247"]}
+{"query": "Do you believe a woman will be elected as U.S. president in the next 30 years?", "output_ids": ["1868937", "20777497", "19509587", "6683579", "2012907"]}
+{"query": "Do you think a Hispanic person will be elected U.S. president in the next 30 years?", "output_ids": ["19598707", "8396152", "15889617", "15805588", "2547824"]}
+{"query": "Do you believe that most Americans will have to work into their 70s to have enough resources to retire in the next 30 years?", "output_ids": ["17731970", "4771798", "17801749", "17645848", "19959881"]}
+{"query": "Do you believe there will be increasing violence against Jews in the U.S. in the next 30 years?", "output_ids": ["87189", "87128", "12949380", "16397496", "2980796"]}
+{"query": "Do you think the national debt will grow larger over the next 30 years?", "output_ids": ["19598707", "15041803", "3627195", "14439016", "2967421"]}
+{"query": "By the year 2050, do you believe that the overall condition of the environment will be better than it is now?", "output_ids": ["20452172", "2967421", "9846874", "4953161", "14530677"]}
+{"query": "Will population growth in the U.S. be a major problem in 2050?", "output_ids": ["9086233", "5855694", "16015173", "16015189", "191140"]}
+{"query": "Are you worried about the overall soundness of our economic system in the future?", "output_ids": ["12009931", "2143517", "19559358", "6436652", "19914021"]}
+{"query": "Are you worried about the ability of public schools to provide a quality education in the future of our country?", "output_ids": ["7322754", "8650951", "8650950", "13771109", "13429657"]}
+{"query": "Are you worried about the way the government in Washington works for the future of our country?", "output_ids": ["12009931", "5803190", "6436652", "2143517", "19559358"]}
+{"query": "Are you worried about the ability of our political leaders to solve the country's biggest problems?", "output_ids": ["3699785", "16145716", "12595838", "18605049", "9485809"]}
+{"query": "Are you worried about the future moral values of Americans?", "output_ids": ["5472443", "10433749", "19559358", "19608585", "17723815"]}
+{"query": "Are you worried about climate change for the future of our country?", "output_ids": ["6468990", "20480762", "415983", "15483654", "20191871"]}
+{"query": "Do you think that adults ages 65 and older will be better prepared financially for retirement 30 years from now than older adults are today?", "output_ids": ["7366913", "3317175", "1853017", "2969107", "12186958"]}
+{"query": "Do you think family members will be mostly responsible for paying for the long-term care older Americans may need?", "output_ids": ["4070388", "12701689", "18174084", "4070399", "6430805"]}
+{"query": "Should the government be mostly responsible for paying for the long-term care older Americans may need?", "output_ids": ["18174084", "4070388", "1761542", "6430810", "9941317"]}
+{"query": "Should reducing the national debt be a top priority for the federal government in order to improve the quality of life for future generations?", "output_ids": ["5626339", "14207708", "7120501", "4891146", "13433777"]}
+{"query": "Should increasing spending for education be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["11329576", "15873985", "7274324", "20983156", "4891146"]}
+{"query": "Should providing high-quality, affordable health care to all Americans be a top priority for the federal government in order to improve the quality of life for future generations?", "output_ids": ["4107995", "13089469", "14610885", "17231132", "17199274"]}
+{"query": "Should increasing spending on scientific research be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["10116943", "15873985", "4143098", "16791470", "20893816"]}
+{"query": "Should reducing the gap between the rich and the poor be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["11140716", "815433", "17386705", "5626339", "12931668"]}
+{"query": "Should reducing military spending be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["16129984", "4143098", "14207708", "7331319", "13533788"]}
+{"query": "Should reducing the number of undocumented immigrants coming into the U.S. be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["15217474", "9870529", "11836009", "15217475", "14417999"]}
+{"query": "Would you consider reducing spending on Social Security, Medicare and Medicaid as a top priority for improving the quality of life for future generations?", "output_ids": ["9887610", "15542150", "2524649", "661546", "7022204"]}
+{"query": "Should increasing spending for roads, bridges, and other infrastructure be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["500429", "500407", "10321520", "18631198", "12648088"]}
+{"query": "Should avoiding tax increases be a top priority for the federal government in order to improve the quality of life for future generations?", "output_ids": ["14783746", "6443175", "7331319", "3098144", "9476291"]}
+{"query": "Should increasing military spending be a top priority for the federal government to improve the quality of life for future generations?", "output_ids": ["4143098", "13533788", "14207708", "7331319", "7022172"]}
+{"query": "Should allowing more immigrants into the U.S. be a top priority to improve the quality of life for future generations?", "output_ids": ["15873985", "7274324", "4800001", "15472877", "10278695"]}
+{"query": "Should increasing spending on Social Security, Medicare, and Medicaid be a top priority for the federal government in order to improve the quality of life for future generations?", "output_ids": ["9887610", "2524649", "15542150", "661596", "9887604"]}
+{"query": "Would you consider reducing spending for roads, bridges, and other infrastructure a top priority to improve the quality of life for future generations?", "output_ids": ["500429", "4891146", "1488011", "14187616", "11009187"]}
+{"query": "Should dealing with climate change be considered a top priority for improving the quality of life for future generations?", "output_ids": ["4800001", "476732", "6358457", "2249048", "18027203"]}
+{"query": "Should the government be most responsible for ensuring American workers have the right skills and training to get a good job over the next 30 years?", "output_ids": ["4654259", "11940822", "15035372", "11940828", "11254343"]}
+{"query": "Should the government be the most responsible entity for ensuring young adults have the right skills and training to get a good job over the next 30 years?", "output_ids": ["16982674", "6950357", "8123009", "9197386", "18511491"]}
+{"query": "By the year 2050, will the average working person in this country have more job security?", "output_ids": ["16015179", "5583957", "2358411", "9616511", "16015177"]}
+{"query": "Will the employee benefits for the average working person in this country be better than they are now over the next 30 years?", "output_ids": ["11170468", "13429622", "8491862", "13542104", "7651646"]}
+{"query": "Has the automation of jobs through new technology mostly helped American workers?", "output_ids": ["8666068", "348549", "1481939", "1839633", "19272196"]}
+{"query": "Do you believe that robots and computers will perform much of the work currently done by humans 30 years from now?", "output_ids": ["12865069", "11289640", "6485791", "585311", "18449281"]}
+{"query": "Would it be beneficial for the country if robots and computers performed much of the work currently done by humans?", "output_ids": ["12865069", "12865001", "18449281", "6485791", "11289640"]}
+{"query": "Do you believe that the type of work you do will be done by robots or computers within the next 30 years?", "output_ids": ["9074457", "15122304", "9539068", "7992550", "9584088"]}
+{"query": "Do you believe that if robots and computers perform most of the jobs currently being done by humans, inequality between the rich and the poor would increase?", "output_ids": ["2309927", "15431184", "10467030", "2610097", "15659384"]}
+{"query": "Do you believe that if robots and computers perform most of the jobs currently done by humans, the economy would create many new, better-paying jobs for humans?", "output_ids": ["348549", "19272196", "7033732", "1481939", "18154034"]}
+{"query": "Do you believe that legal immigration needs to be increased to maintain the strength of the U.S. economy over the next 30 years?", "output_ids": ["8811012", "3654586", "199774", "4692981", "9049401"]}
+{"query": "Over the next 30 years, do you think the share of Americans who are upper class will increase?", "output_ids": ["17748883", "19598707", "14439016", "19841366", "15041803"]}
+{"query": "Over the next 30 years, do you think the share of Americans who are in Middle Class will increase?", "output_ids": ["17748883", "19598707", "14439016", "19841366", "12730752"]}
+{"query": "Over the next 30 years, do you think the share of Americans who are lower class will increase?", "output_ids": ["17748883", "19598707", "14439016", "19841366", "10006346"]}
+{"query": "Is it a major problem when women claim to have experienced sexual harassment or assault in the workplace when it hasn't actually occurred?", "output_ids": ["20902011", "20514719", "15087111", "20738238", "4606873"]}
+{"query": "Is the issue of employers firing men accused of sexual harassment or assault before finding out facts a problem?", "output_ids": ["15455052", "18332023", "20738238", "1789358", "4816954"]}
+{"query": "Is men getting away with committing sexual harassment or assault in the workplace today a major problem?", "output_ids": ["20902011", "20514719", "15087111", "4606873", "15087108"]}
+{"query": "Would you consider women not being believed when they claim they have experienced sexual harassment or assault in the workplace a major problem?", "output_ids": ["20902011", "20514719", "15087111", "20738238", "4606873"]}
+{"query": "Is it a major problem when women claim to have experienced sexual harassment or assault when it hasn't actually occurred?", "output_ids": ["20738238", "18332023", "4816934", "20514719", "4816954"]}
+{"query": "Would you consider men getting away with committing sexual harassment or assault a major problem today?", "output_ids": ["4816954", "18332023", "4816926", "20738238", "19695874"]}
+{"query": "Is the issue of women not being believed when they disclose experiences of sexual harassment or assault a major problem today?", "output_ids": ["20738238", "4816954", "18332023", "20514719", "4816926"]}
+{"query": "Has the increased focus on sexual harassment and assault made it easier for men to interact with women in the workplace?", "output_ids": ["20902011", "20514719", "20902013", "15087111", "19035380"]}
+{"query": "Has the increased focus on sexual harassment and assault made it easier for men to interact with women?", "output_ids": ["4816954", "4816934", "18332023", "4816926", "20514719"]}
+{"query": "Do you believe that the projected majority of blacks, Asians, Hispanics and other racial minorities in the U.S. population by 2050 will be a good thing?", "output_ids": ["6370845", "6370851", "12373074", "12217539", "18016572"]}
+{"query": "Do you believe that the projected increase in people aged 65 or older compared to those younger than 18 by 2050 will be beneficial for the country?", "output_ids": ["1197686", "2544787", "683278", "1987592", "932541"]}
+{"query": "Do you believe that the increased interracial marriages in recent years, as reported by the U.S. Census Bureau, is a good thing for the country?", "output_ids": ["8583094", "14051030", "7738323", "13546498", "5641180"]}
+{"query": "Will there be sufficient funds in the Social Security system to provide benefits to older Americans when you retire?", "output_ids": ["13428466", "11577911", "11689944", "3775685", "14058906"]}
+{"query": "Do you think that some reductions in benefits for future retirees need to be made for the long-term future of Social Security?", "output_ids": ["18874723", "16129984", "4706743", "688618", "592451"]}
+{"query": "Do you believe that by the year 2050, abortion will be completely legal with no restrictions?", "output_ids": ["1495623", "3215686", "16895889", "20389977", "1495624"]}
+{"query": "By 2050, do you expect that people who are married will be more likely to get divorced than people are now?", "output_ids": ["17748883", "16618689", "6227848", "20692954", "13735377"]}
+{"query": "By 2050, do you expect that people will be more likely to get married than they are now?", "output_ids": ["17748883", "16618689", "20572267", "13735377", "20692954"]}
+{"query": "By 2050, do you believe people will be more likely to have children than they are now?", "output_ids": ["17748883", "14407482", "960364", "6670277", "15122304"]}
+{"query": "Do you believe that science and technology will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "18583252", "11174525", "12020523", "916950"]}
+{"query": "Do you believe that major corporations will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe religious groups will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe the government in Washington will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe that state and local government will have a positive impact on solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "5280578", "4102211"]}
+{"query": "Do you believe the news media will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe the military will have a positive impact on solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe that colleges and universities will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Do you believe that public K-12 schools will have a positive impact in solving the biggest problems facing the country in the future?", "output_ids": ["9485809", "916950", "2127184", "15878893", "5280578"]}
+{"query": "Compared with twenty years ago, have developments in science made people's lives better?", "output_ids": ["10979047", "20180222", "20633658", "14095824", "19798720"]}
+{"query": "Will developments in science make people's lives better in the next twenty years?", "output_ids": ["19719008", "15061982", "12705087", "19719005", "18213345"]}
+{"query": "Has science overall had a mostly positive effect on our society?", "output_ids": ["2533560", "12020263", "20025114", "12333088", "7450582"]}
+{"query": "Do you have confidence in elected officials to act in the best interests of the public?", "output_ids": ["17947880", "10788235", "12763897", "9295185", "6828660"]}
+{"query": "Do you have confidence in the news media to act in the best interests of the public?", "output_ids": ["10788235", "17947880", "17992346", "15448404", "12763897"]}
+{"query": "Do you have confidence in the military to act in the best interests of the public?", "output_ids": ["17947880", "20777499", "10788235", "12763897", "6828660"]}
+{"query": "Do you have a great deal of confidence in medical scientists to act in the best interests of the public?", "output_ids": ["11935455", "20777499", "17947880", "7207943", "9295185"]}
+{"query": "Do you have confidence in religious leaders to act in the best interests of the public?", "output_ids": ["17947880", "9295185", "10788235", "12763897", "13492666"]}
+{"query": "Do you have confidence in public school principals for grades K-12 to act in the best interests of the public?", "output_ids": ["8270545", "1335238", "11924524", "14654661", "1153986"]}
+{"query": "Do you have confidence in business leaders to act in the best interests of the public?", "output_ids": ["17947880", "9295185", "12763897", "14754214", "8604279"]}
+{"query": "Should scientists take an active role in public policy debates about scientific issues?", "output_ids": ["170307", "12865907", "12865909", "4492958", "4492955"]}
+{"query": "Should public opinion play an important role to guide policy decisions about scientific issues?", "output_ids": ["1702895", "17934933", "17934932", "434456", "2288032"]}
+{"query": "Do you believe scientific experts are usually better at making good policy decisions about scientific issues than other people?", "output_ids": ["10943264", "18281542", "18281538", "15018131", "15018127"]}
+{"query": "Do you have a mostly positive view of medical research scientists?", "output_ids": ["19308372", "19082335", "5716770", "19152871", "6656493"]}
+{"query": "Do you know a lot about what medical research scientists do?", "output_ids": ["14407482", "17511194", "7795471", "9074457", "17639156"]}
+{"query": "Do you have knowledge about medical research scientists because you personally know someone in this field?", "output_ids": ["14407482", "15910532", "7683276", "18241449", "5640081"]}
+{"query": "Did you gain your knowledge about medical research scientists from school?", "output_ids": ["15952399", "5880476", "5716770", "6656491", "5455335"]}
+{"query": "Did you acquire your knowledge about medical research scientists through your job?", "output_ids": ["11863960", "16598897", "18596103", "18596100", "6420802"]}
+{"query": "Have you gained your knowledge about medical research scientists from news sources?", "output_ids": ["15952399", "18805307", "7492967", "5880476", "1787006"]}
+{"query": "Do medical research scientists do a good job conducting research all or most of the time?", "output_ids": ["2516055", "16222312", "2843424", "16222329", "6656493"]}
+{"query": "Do medical research scientists provide fair and accurate information when making statements about their research all or most of the time?", "output_ids": ["9635155", "19308372", "7206690", "12865910", "7206692"]}
+{"query": "Do medical research scientists admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["5716770", "5716763", "19082335", "19308372", "15219319"]}
+{"query": "Do medical research scientists typically show transparency about potential conflicts of interest with industry groups in their research all or most of the time?", "output_ids": ["20784450", "7200558", "13207563", "11785500", "17180125"]}
+{"query": "Do medical research scientists care about the best interests of the public all or most of the time?", "output_ids": ["20078738", "10797124", "12174780", "9188216", "12174778"]}
+{"query": "Do you believe that research misconduct by medical research scientists is a big problem?", "output_ids": ["2516055", "19308372", "19082335", "5716770", "1680118"]}
+{"query": "Do you believe that cases of research misconduct by medical research scientists are indicative of a broader problem?", "output_ids": ["2516055", "16222312", "16222329", "19308372", "19082335"]}
+{"query": "Do you believe that the issue with research misconduct in medical science is due to a broken research system rather than problematic medical research scientists?", "output_ids": ["5455335", "17282961", "6875420", "11350991", "1680118"]}
+{"query": "Do you think medical research scientists face serious consequences all or most of the time if they engage in research misconduct?", "output_ids": ["19308372", "19082335", "20127799", "5716770", "403678"]}
+{"query": "Do you have a mostly positive view of environmental research scientists?", "output_ids": ["18272165", "10943269", "5442072", "15952399", "12392915"]}
+{"query": "Do you know a lot about what environmental research scientists do?", "output_ids": ["14407482", "17511194", "7795471", "9074457", "17639156"]}
+{"query": "Do you have knowledge about environmental research scientists because you are acquainted with someone in this field?", "output_ids": ["7683276", "18404214", "17418826", "15889617", "20485270"]}
+{"query": "Did you gain your knowledge about environmental research scientists through your job?", "output_ids": ["11863960", "16598897", "18596103", "18596100", "6420802"]}
+{"query": "Have you gained your knowledge about environmental research scientists from news sources?", "output_ids": ["18805307", "15952399", "16462280", "1787006", "18495719"]}
+{"query": "Would you say that environmental research scientists do a good job conducting research most of the time?", "output_ids": ["9241648", "4941887", "8691166", "5721710", "10943269"]}
+{"query": "Do environmental research scientists provide fair and accurate information when making statements about their research all or most of the time?", "output_ids": ["9635155", "12865910", "12621991", "7082221", "16006681"]}
+{"query": "Do environmental research scientists admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["11174474", "225012", "10943269", "9241648", "17998403"]}
+{"query": "Do environmental research scientists reveal potential conflicts of interest with industry groups in their research all or most of the time?", "output_ids": ["20784450", "7200558", "11785500", "13207563", "17180125"]}
+{"query": "Do environmental research scientists care about the best interests of the public all or most of the time?", "output_ids": ["11785500", "20784450", "17180125", "13583862", "7203750"]}
+{"query": "Is research misconduct by environmental research scientists a significant problem?", "output_ids": ["16462280", "18872905", "2585604", "19546453", "15578802"]}
+{"query": "Do you view news stories about research misconduct by environmental research scientists as signs of a broader problem?", "output_ids": ["16462280", "10219309", "12595838", "18719086", "5721710"]}
+{"query": "Do you believe the problems with research misconduct among environmental research scientists are primarily due to a flawed research system rather than the researchers themselves?", "output_ids": ["12691766", "13012131", "5880475", "10219309", "402758"]}
+{"query": "Do you believe that environmental research scientists face serious consequences all or most of the time if they engage in research misconduct?", "output_ids": ["14434575", "8453998", "10943269", "10950680", "9241648"]}
+{"query": "Do you have a mostly positive view of nutrition research scientists?", "output_ids": ["4403628", "18727024", "4850080", "4850076", "14374118"]}
+{"query": "Do you know a lot about what nutrition research scientists do?", "output_ids": ["14407482", "17511194", "7795471", "9074457", "17639156"]}
+{"query": "Do you possess knowledge about nutrition research scientists due to personal acquaintance?", "output_ids": ["18805307", "19049220", "18572645", "9284893", "2161753"]}
+{"query": "Did you learn about nutrition research scientists in school?", "output_ids": ["4850080", "4403628", "4850076", "18727024", "18790390"]}
+{"query": "Did you acquire your knowledge about nutrition research scientists through your job?", "output_ids": ["11863960", "16598897", "18596100", "18596103", "6703331"]}
+{"query": "Have you gained your knowledge about nutrition research scientists from news sources?", "output_ids": ["18805307", "15952399", "7492967", "1787006", "6656491"]}
+{"query": "Do nutrition research scientists do a good job conducting research all or most of the time?", "output_ids": ["4403628", "10943269", "9241648", "2843424", "6656493"]}
+{"query": "Do nutrition research scientists provide fair and accurate information when making statements about their research all or most of the time?", "output_ids": ["9635155", "12865910", "8453998", "16006681", "12812932"]}
+{"query": "Do nutrition research scientists admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["4403628", "18790390", "14374118", "19049220", "18727024"]}
+{"query": "Do nutrition research scientists often transparently announce potential conflicts of interest with industry groups in their research?", "output_ids": ["7206690", "7206692", "20353148", "4403628", "3754611"]}
+{"query": "Do nutrition research scientists care about the best interests of the public all or most of the time?", "output_ids": ["18727024", "19049220", "4403628", "18790390", "2455674"]}
+{"query": "Do you believe that research misconduct by nutrition research scientists is a very big problem?", "output_ids": ["4403628", "18727024", "4403623", "18790390", "14374118"]}
+{"query": "Do you regard news stories about research misconduct by nutrition research scientists as signs of a broader problem?", "output_ids": ["4403628", "4403623", "10071600", "14374118", "18727024"]}
+{"query": "Do you believe that the problems with research misconduct among nutrition research scientists are mainly due to the broken research system rather than the scientists themselves?", "output_ids": ["2195877", "19082338", "10943269", "9241648", "11174474"]}
+{"query": "Do you believe that nutrition research scientists face serious consequences all or most of the time if they engage in research misconduct?", "output_ids": ["4403628", "18727024", "14374118", "18790390", "10943269"]}
+{"query": "Do you have a mostly positive view of medical doctors?", "output_ids": ["9818633", "11197410", "11197426", "6767075", "1624792"]}
+{"query": "Do you have substantial knowledge about what medical doctors do?", "output_ids": ["17344042", "14407482", "15122304", "7192562", "18596101"]}
+{"query": "Did you acquire your knowledge about medical doctors from schooling?", "output_ids": ["13804910", "9858988", "12279929", "13968269", "12650739"]}
+{"query": "Did you gain your knowledge about medical doctors through your job?", "output_ids": ["11863960", "16598897", "18596100", "18596103", "6420802"]}
+{"query": "Have your knowledge about medical doctors been influenced by what you have heard or read in the news?", "output_ids": ["5560629", "13735377", "1327491", "4452905", "7316393"]}
+{"query": "Do medical doctors do a good job providing diagnoses and treatment recommendations all or most of the time?", "output_ids": ["9818635", "18572064", "18908003", "1795335", "16987089"]}
+{"query": "Do medical doctors provide fair and accurate information when making recommendations all or most of the time?", "output_ids": ["9818633", "20310110", "5403947", "12078939", "5722503"]}
+{"query": "Do medical doctors admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["11197410", "10469439", "11197426", "3261357", "19257070"]}
+{"query": "Would you say that medical doctors are transparent about potential conflicts of interest with industry groups in their work all or most of the time?", "output_ids": ["1791750", "18784685", "2891334", "20646514", "20646515"]}
+{"query": "Do medical doctors care about the best interests of their patients all or most of the time?", "output_ids": ["9818633", "17166861", "9818628", "14564378", "18200422"]}
+{"query": "Do you consider professional misconduct by medical doctors to be a significant problem?", "output_ids": ["11197410", "1795366", "11197426", "6673333", "6230744"]}
+{"query": "Do you consider news stories about professional misconduct by medical doctors as signs of a broader problem?", "output_ids": ["6673333", "11197410", "11197426", "1795366", "4539035"]}
+{"query": "Do you believe that issues with professional misconduct among medical doctors are primarily due to the system rather than the individuals themselves?", "output_ids": ["116008", "3236775", "11197410", "1624792", "11197426"]}
+{"query": "Do you believe medical doctors face serious consequences for professional misconduct all or most of the time?", "output_ids": ["10818896", "1795366", "7302561", "2118546", "12581281"]}
+{"query": "Do you have a mostly positive view of environmental health specialists?", "output_ids": ["2104196", "5865976", "9457106", "9457090", "5865980"]}
+{"query": "Do you know what environmental health specialists do?", "output_ids": ["14407482", "3653438", "18214563", "2241921", "15742784"]}
+{"query": "Do you know about environmental health specialists because you personally know someone who does this?", "output_ids": ["14407482", "16873800", "23087", "5053663", "2241921"]}
+{"query": "Have you acquired your knowledge about environmental health specialists from the news?", "output_ids": ["17163504", "19556690", "1787006", "12974513", "7577234"]}
+{"query": "Do environmental health specialists do a good job providing recommendations about how to address risks to human health from the environment all or most of the time?", "output_ids": ["2104194", "20037516", "20037550", "2104195", "13013585"]}
+{"query": "Do environmental health specialists provide fair and accurate information when making recommendations all or most of the time?", "output_ids": ["20310110", "3886994", "13154200", "7879906", "20310117"]}
+{"query": "Do environmental health specialists admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["7948959", "2104196", "10172100", "12900626", "20037518"]}
+{"query": "Would you say that environmental health specialists are transparent about potential conflicts of interest with industry groups in their work all or most of the time?", "output_ids": ["18784685", "2674345", "5776943", "2133093", "15937262"]}
+{"query": "Do environmental health specialists care about the best interests of people in the community all or most of the time?", "output_ids": ["7693373", "7693369", "17879570", "251020", "18617111"]}
+{"query": "Is professional misconduct by environmental health specialists a significant problem?", "output_ids": ["2104196", "9457088", "9457100", "3321318", "9457090"]}
+{"query": "Do you believe that news stories about professional misconduct by environmental health specialists indicate a broader problem?", "output_ids": ["2104196", "5865976", "11344957", "5865980", "18560808"]}
+{"query": "Do you believe that problems with professional misconduct among environmental health specialists are primarily due to the system rather than the individuals?", "output_ids": ["16173669", "19544185", "9924698", "20033766", "11386176"]}
+{"query": "Do you believe that environmental health specialists face serious consequences all or most of the time if they engage in professional misconduct?", "output_ids": ["3493349", "10611225", "403678", "2104196", "403654"]}
+{"query": "Do you have a mostly positive view of dietitians?", "output_ids": ["4707873", "8707943", "15889617", "973160", "5509529"]}
+{"query": "Do you know what dietitians do?", "output_ids": ["14407482", "3653438", "18214563", "17344042", "2241921"]}
+{"query": "Do you know about dietitians because you personally know someone who is one?", "output_ids": ["14407482", "5002650", "3198277", "5053663", "16873800"]}
+{"query": "Have you gained your knowledge about dietitians from the news?", "output_ids": ["18596101", "7233477", "7577234", "1787006", "19556690"]}
+{"query": "Would you say that dietitians do a good job of providing recommendations about healthy eating all or most of the time?", "output_ids": ["19830121", "13895085", "15551225", "9548666", "9328491"]}
+{"query": "Do dietitians provide fair and accurate information when making recommendations all or most of the time?", "output_ids": ["2178079", "17904711", "14196367", "4271808", "12247671"]}
+{"query": "Do dietitians admit mistakes and take responsibility for them all or most of the time?", "output_ids": ["6150009", "16898912", "16576951", "7749119", "16207136"]}
+{"query": "Do dietitians transparently reveal potential conflicts of interest with industry groups in their work all or most of the time?", "output_ids": ["1791736", "4371489", "1791750", "20646528", "2891334"]}
+{"query": "Do dietitians care about the best interests of their patients all or most of the time?", "output_ids": ["2554613", "3976730", "6441540", "2554610", "10166860"]}
+{"query": "Do you believe professional misconduct is a significant problem for dietitians?", "output_ids": ["2554625", "2554604", "6397707", "3369604", "2554610"]}
+{"query": "Do you consider news stories about professional misconduct by dietitians as signs of a broader problem?", "output_ids": ["2554625", "2554604", "15878893", "18596101", "3369604"]}
+{"query": "Do you believe that professional misconduct among dietitians is due to the system being broken rather than the dietitians themselves?", "output_ids": ["2554625", "2554604", "2554610", "6397707", "3369604"]}
+{"query": "Do dietitians face serious consequences all or most of the time for professional misconduct?", "output_ids": ["2554625", "2118546", "3493349", "2597062", "3369604"]}
+{"query": "Do you believe that scientific research with immediate practical applications is essential for society?", "output_ids": ["4699618", "4699629", "6270786", "18453094", "18204547"]}
+{"query": "Do you believe that scientific research that advances knowledge, even if there are no immediate benefits, is essential for society?", "output_ids": ["4536068", "5803077", "360748", "10943267", "20691503"]}
+{"query": "Does knowing that scientific research findings have been reviewed by an independent committee make you trust the research findings more?", "output_ids": ["2427176", "2145569", "10943303", "4093393", "13548148"]}
+{"query": "Do you trust the research findings more when data used in scientific research is openly available to the public?", "output_ids": ["14014595", "18400842", "6457598", "10100837", "19567851"]}
+{"query": "Does hearing about scientific research funded by the federal government make you trust the research findings more?", "output_ids": ["4371475", "11448167", "360760", "2114876", "19113492"]}
+{"query": "Does hearing about scientific research funded by an industry group influence your trust in the research findings?", "output_ids": ["360760", "11448167", "3047472", "20353140", "19255033"]}
+{"query": "Do you trust a science practitioner's recommendation more when it is based on a review from an independent committee?", "output_ids": ["9719201", "1173428", "16184759", "14007619", "1169568"]}
+{"query": "Does hearing that a science practitioner is open to getting a second opinion on their recommendation make you trust the recommendation more?", "output_ids": ["8359678", "2821883", "12630806", "5403947", "2677162"]}
+{"query": "Do you trust a science practitioner's recommendation more if they have received financial incentives from the federal government related to their work?", "output_ids": ["1312945", "1525745", "2336137", "6209857", "20207030"]}
+{"query": "Do you trust the recommendation less when a science practitioner has received financial incentives from an industry group related to their work?", "output_ids": ["20207030", "1312945", "11730050", "19393258", "4465356"]}
+{"query": "Would you say that most research scientists are intelligent?", "output_ids": ["16269747", "77224", "6279082", "195121", "17644982"]}
+{"query": "Do most research scientists generally demonstrate good communication skills?", "output_ids": ["10943269", "10943264", "2161755", "14604212", "12812932"]}
+{"query": "Do most research scientists focus on solving real-world problems?", "output_ids": ["12691766", "1882714", "11943127", "105868", "17164258"]}
+{"query": "Would you consider most research scientists to be close-minded?", "output_ids": ["11360761", "68184", "10817929", "11360764", "8453998"]}
+{"query": "Do most research scientists generally disregard the moral values of society?", "output_ids": ["10943267", "14988078", "2071827", "6459342", "534595"]}
+{"query": "Do you believe the term \"honest\" accurately describes most research scientists?", "output_ids": ["15952399", "10943269", "10943306", "10887813", "17065741"]}
+{"query": "Do most research scientists excel at working in teams?", "output_ids": ["15015231", "3611049", "12931771", "1288349", "19569796"]}
+{"query": "Do you believe that the term \"Cold\" describes research scientists well?", "output_ids": ["15952399", "10943306", "18805307", "19982396", "17065741"]}
+{"query": "Are most research scientists socially awkward?", "output_ids": ["5293419", "5293412", "7337204", "363919", "13439145"]}
+{"query": "Do most research scientists feel superior to others?", "output_ids": ["10943269", "19982396", "9241648", "2195877", "13773015"]}
+{"query": "Do you believe that the scientific method generally produces accurate conclusions?", "output_ids": ["364972", "2372823", "1395936", "15268085", "7504883"]}
+{"query": "Do you believe that scientists make judgments based solely on the facts?", "output_ids": ["20259555", "13585981", "8164669", "4848642", "7402955"]}
+{"query": "Do you believe that ordinary people would do a better job solving the country's problems than elected officials?", "output_ids": ["15878893", "9485809", "13562802", "17930962", "15161507"]}
+{"query": "Do you believe that the important policy decisions in this country are made with a great deal of concern for how they affect you?", "output_ids": ["4563136", "18596101", "8302895", "5537693", "15878893"]}
+{"query": "Do you think the better way to solve the country's most pressing problems is to rely more on people who are considered experts about the problems, even if they don't have much practical experience?", "output_ids": ["916950", "9485809", "1939338", "4542170", "18435252"]}
+{"query": "Should race or ethnicity be considered as a major factor in college admissions?", "output_ids": ["1385261", "20051433", "10512822", "20051448", "1647275"]}
+{"query": "Should gender be a major factor in college admissions?", "output_ids": ["6488384", "10512822", "20051448", "2542156", "4618524"]}
+{"query": "Do you think having a relative who attended the school should be a major factor in college admissions?", "output_ids": ["6488384", "10512822", "7181802", "6873683", "6081258"]}
+{"query": "Do you think athletic ability should be a major factor in college admissions?", "output_ids": ["19598707", "2215266", "6866774", "5254696", "386054"]}
+{"query": "Do you believe that involvement in community service should be a major factor in college admissions?", "output_ids": ["10916185", "10512822", "4618524", "5647906", "18067141"]}
+{"query": "Do you believe that scores on standardized tests like the SAT or ACT should be a major factor in college admissions?", "output_ids": ["19420353", "18057928", "1769902", "871488", "1131467"]}
+{"query": "Do you believe high school grades should be a major factor in college admissions?", "output_ids": ["2001767", "6873577", "10512822", "6873683", "7320103"]}
+{"query": "Should being the first person in the family to go to college be a major factor in college admissions?", "output_ids": ["6488384", "10512822", "4618526", "6873577", "1131467"]}
+{"query": "Do you believe that the diverse racial and ethnic composition of the U.S. population is good for the country?", "output_ids": ["6370845", "12373074", "6683552", "16413211", "5844467"]}
+{"query": "Does the diversity of races and ethnicities in the U.S. population make it easier for policymakers to solve the country's problems?", "output_ids": ["16413211", "12373074", "6370906", "15961894", "5844467"]}
+{"query": "Does the multicultural composition of the U.S. population enhance the country's culture?", "output_ids": ["13722720", "16144144", "15529683", "13722901", "88029"]}
+{"query": "Does being white help people to get ahead in our country these days?", "output_ids": ["13752538", "15804057", "2094886", "14515164", "12730253"]}
+{"query": "Does being black significantly affect people's ability to progress in our country these days?", "output_ids": ["3396883", "1404930", "2786841", "13227102", "12292202"]}
+{"query": "Does being Hispanic help people get ahead in our country these days?", "output_ids": ["13752538", "15804057", "16285874", "14515164", "9400804"]}
+{"query": "Does being Asian significantly affect people's ability to get ahead in our country these days?", "output_ids": ["3396883", "5194537", "1404930", "16115307", "16402096"]}
+{"query": "Does being Native American significantly affect people's ability to get ahead in our country these days?", "output_ids": ["12883429", "3396883", "13030548", "5194537", "18288089"]}
+{"query": "Does being Jewish affect people's ability to get ahead in our country these days?", "output_ids": ["12259474", "13030548", "6729337", "3396883", "6933665"]}
+{"query": "Does being Muslim help individuals get ahead in our country these days?", "output_ids": ["5186312", "4848465", "2442361", "16004946", "19310682"]}
+{"query": "Does being an evangelical Christian help people to get ahead in our country these days?", "output_ids": ["11035793", "10939451", "64939", "2444545", "8413757"]}
+{"query": "Does being a man significantly help in getting ahead in our country these days?", "output_ids": ["10193830", "16285874", "8251787", "4280438", "7556693"]}
+{"query": "Does being a woman in our country these days help in getting ahead?", "output_ids": ["16285874", "13671189", "20539205", "7556693", "16603197"]}
+{"query": "Does being poor predominantly hurt people's ability to get ahead in our country these days?", "output_ids": ["20279014", "5616242", "17162855", "14515164", "6572566"]}
+{"query": "Does being wealthy significantly help people get ahead in our country these days?", "output_ids": ["13752538", "15804057", "14515164", "4242695", "2243196"]}
+{"query": "Do you believe that people seeing racial discrimination where it really does not exist is a bigger problem for the country today than people not seeing racial discrimination where it does exist?", "output_ids": ["18835669", "345423", "4822769", "842653", "18091348"]}
+{"query": "Are race relations in the United States generally good?", "output_ids": ["11625648", "11625651", "11625626", "11626424", "9619240"]}
+{"query": "Are race relations in the United States getting better?", "output_ids": ["14779096", "19498928", "19392223", "2125654", "3369307"]}
+{"query": "Has our country gone too far in giving black people equal rights with whites?", "output_ids": ["3960721", "8600802", "9313093", "400454", "12942123"]}
+{"query": "Do you believe that black people in our country will eventually have equal rights with whites?", "output_ids": ["4563136", "5803190", "6670277", "20485270", "2612796"]}
+{"query": "Do you believe there is too much attention paid to race and racial issues in our country today?", "output_ids": ["17509028", "1548816", "19518959", "1616817", "2612796"]}
+{"query": "Has President Trump made progress toward improving race relations?", "output_ids": ["9194750", "16710686", "19828386", "1994753", "7642246"]}
+{"query": "Since President Trump's election, has it become more common for people to express racist or racially insensitive views?", "output_ids": ["19568852", "19568769", "19568841", "6727468", "20209281"]}
+{"query": "Since President Trump's election, has it become more acceptable to express racist or racially insensitive views?", "output_ids": ["19568852", "19568769", "20004980", "20209281", "19568841"]}
+{"query": "Do you believe it's more important to focus on the unique experiences of different racial and ethnic groups than what they have in common to improve race relations?", "output_ids": ["9816742", "16413211", "7315536", "353871", "7315531"]}
+{"query": "Does the legacy of slavery greatly affect the position of black people in American society today?", "output_ids": ["6252331", "10994487", "2226550", "9283785", "10154885"]}
+{"query": "Do Whites and Hispanics get along well with each other in the U.S. society these days?", "output_ids": ["6370851", "9709640", "9709641", "17239835", "12662992"]}
+{"query": "Do Blacks and Hispanics get along with each other very well in our society these days?", "output_ids": ["13816824", "7079573", "1600923", "20263886", "12454448"]}
+{"query": "Do you believe that Blacks and Whites get along well in the U.S. society these days?", "output_ids": ["10381727", "4563136", "2106067", "5776802", "17801749"]}
+{"query": "Do Whites and Asians get along very well with each other in our society these days?", "output_ids": ["13816824", "1600923", "20263886", "7079573", "12454448"]}
+{"query": "Do Blacks and Asians get along very well within our society these days?", "output_ids": ["7079573", "13816824", "1600923", "20263886", "12454448"]}
+{"query": "Do Hispanics and Asians get along well in our society these days?", "output_ids": ["6370851", "12287316", "7863998", "20069971", "12217539"]}
+{"query": "Do you believe racial discrimination is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "12445004", "10381727", "19178009", "2465544"]}
+{"query": "Do you believe that a lack of motivation to work hard is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "335637", "17344042", "6927652", "6306033"]}
+{"query": "Do you think limited access to good quality schools is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "10667959", "8473466", "4452910", "2282368"]}
+{"query": "Do you believe that the lack of good role models is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "5803190", "2282368", "4452910", "10838636"]}
+{"query": "Do you believe that less access to high-paying jobs is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "335637", "9723059", "10838636", "17553751"]}
+{"query": "Do you believe that family instability is a major reason why black people in our country may have a harder time getting ahead than white people?", "output_ids": ["4563136", "5803190", "335637", "8473466", "6306033"]}
+{"query": "Do you believe that what happens to white people in the country overall significantly affects your own life?", "output_ids": ["14407482", "17418826", "4452909", "5640081", "17344042"]}
+{"query": "Do you believe that what happens to black people in the country overall significantly affects what happens in your own life?", "output_ids": ["17344042", "7233477", "6946061", "9731367", "5640081"]}
+{"query": "Do you believe that what happens to Hispanics in the country significantly affects what happens in your own life?", "output_ids": ["7233477", "17344042", "6946061", "16607223", "5640081"]}
+{"query": "Do you believe that what happens to Asians in the country overall significantly affects your own life?", "output_ids": ["14407482", "4452909", "6155541", "5640081", "6946061"]}
+{"query": "Are black people treated less fairly than white people in hiring, pay and promotions situations?", "output_ids": ["19985079", "19746180", "4801785", "385024", "7974761"]}
+{"query": "Do you believe that black people are treated less fairly than white people in stores or restaurants?", "output_ids": ["4563136", "10381727", "10017644", "19178009", "19985079"]}
+{"query": "Are black people treated less fairly than white people when applying for a loan or mortgage?", "output_ids": ["9330854", "9440570", "9887872", "3638780", "6852048"]}
+{"query": "Do you believe that black people are treated less fairly than white people in police situations?", "output_ids": ["4563136", "18221631", "353932", "19178009", "10381727"]}
+{"query": "Are black people treated less fairly than white people in the criminal justice system?", "output_ids": ["18221631", "14944219", "14914984", "14914970", "14914989"]}
+{"query": "Do you believe that black people are treated less fairly than white people when voting in elections?", "output_ids": ["4563136", "10381727", "10017644", "19178009", "18221631"]}
+{"query": "Do you believe that black people are treated less fairly than white people when seeking medical treatment?", "output_ids": ["13532777", "18221631", "14969081", "1466060", "14969070"]}
+{"query": "Do you believe that all or most white people in our country are prejudiced against black people?", "output_ids": ["4563136", "5803190", "6670277", "2282368", "6436652"]}
+{"query": "Do you believe that all or most white people in our country would confront a white friend or family member if they made a racist or racially insensitive comment or joke about people who are black?", "output_ids": ["19178009", "613207", "2094888", "20140902", "19024757"]}
+{"query": "Do you believe that all or most black people in our country are prejudiced against white people?", "output_ids": ["4563136", "5803190", "6670277", "2282368", "6436652"]}
+{"query": "Do you believe that most or all black people in our country would confront a black friend or family member if they made a racist or racially insensitive comment or joke about people who are white?", "output_ids": ["19178009", "613207", "2094888", "5456811", "16812432"]}
+{"query": "Do you believe it is always acceptable for a sports team to use Native American tribal names or images as mascots?", "output_ids": ["10723884", "19894200", "285038", "19067309", "10723972"]}
+{"query": "Do you think it is always acceptable for a black person to use the n-word?", "output_ids": ["19673657", "15122304", "5206679", "19676208", "20929781"]}
+{"query": "Do you personally think it is always acceptable for a white person to use the n-word?", "output_ids": ["14401238", "16576740", "4412488", "20387567", "16803326"]}
+{"query": "Do you believe it is always acceptable for an actor to play a character of a race or ethnicity other than their own?", "output_ids": ["5622040", "5774384", "9214570", "14986245", "960364"]}
+{"query": "Do you think it is always acceptable for a person to wear traditional dress from a country or culture other than their own as part of a Halloween costume?", "output_ids": ["4365058", "3032956", "4365046", "12726548", "182792"]}
+{"query": "Do you personally think it is always acceptable for a white person to use makeup to darken their skin to appear as a different race as part of a Halloween costume?", "output_ids": ["18557373", "16803326", "10115395", "17254273", "17468305"]}
+{"query": "Is it important for companies and organizations to promote racial and ethnic diversity in their workplace?", "output_ids": ["2322367", "8600845", "15074702", "11289911", "7924414"]}
+{"query": "Should companies and organizations consider a person's race and ethnicity for hiring and promotions in addition to their qualifications?", "output_ids": ["9105685", "12804495", "7110219", "18399406", "5004508"]}
+{"query": "Do you believe students should attend racially and ethnically mixed schools, even if this means not going to their local community school?", "output_ids": ["14530428", "376403", "4618724", "16016538", "12719978"]}
+{"query": "Do you wish your community was more racially mixed?", "output_ids": ["11298447", "13492676", "1880328", "18596101", "4452908"]}
+{"query": "Does it bother you to hear people speak a language other than English in public?", "output_ids": ["12372998", "9376971", "739953", "739955", "16022695"]}
+{"query": "Do you often get news from a social media site such as Facebook, Twitter, or Snapchat?", "output_ids": ["16337941", "7079775", "15121409", "10275611", "19517144"]}
+{"query": "Do you often get news from a news website or app?", "output_ids": ["16135998", "16135997", "16608356", "16608347", "16007230"]}
+{"query": "Do you prefer to get news from a print newspaper or a news website/app?", "output_ids": ["4394626", "13181759", "13181817", "9319522", "7998686"]}
+{"query": "Do you trust the accuracy of the news and information that you get from your main news outlets a great deal?", "output_ids": ["5995312", "411726", "16598897", "4016349", "4568904"]}
+{"query": "Do you trust the accuracy of the news and information that you get from news outlets you don't come across often?", "output_ids": ["20572267", "5535949", "17184391", "10667959", "10400476"]}
+{"query": "Do you trust the accuracy of the news and information that you get from political leaders and public officials?", "output_ids": ["5995312", "4707873", "17185426", "17947880", "9856604"]}
+{"query": "Do you trust the accuracy of the news and information that you get from friends and family?", "output_ids": ["4016349", "5995312", "4707873", "9856604", "535808"]}
+{"query": "Do you trust the accuracy of the news and information that you get from Social media sites such as Facebook, Twitter or Snapchat?", "output_ids": ["16337941", "7079775", "15121409", "4185877", "15553731"]}
+{"query": "Do you think that made-up information intended to mislead the public leaves Americans greatly confused about the basic facts of current issues and events?", "output_ids": ["6605022", "5258544", "19518959", "15458388", "12570558"]}
+{"query": "Do you believe that satire about an issue or event leaves Americans greatly confused about the basic facts of current issues and events?", "output_ids": ["19518959", "2770413", "17571955", "5908570", "15494138"]}
+{"query": "Do you believe that breaking information published before everything is verified leaves Americans greatly confused about the basic facts of current issues and events?", "output_ids": ["9731367", "13098147", "5299482", "13098160", "3800028"]}
+{"query": "Does factual information presented to favor one side of an issue leave Americans greatly confused about the basic facts of current issues and events?", "output_ids": ["14033382", "12865907", "4647575", "10975188", "15419967"]}
+{"query": "Do you believe that altered or made-up images and videos significantly contribute to Americans' confusion about the basic facts of current issues and events?", "output_ids": ["16520448", "15934794", "14121335", "7984596", "15781721"]}
+{"query": "Should the average American be able to recognize made-up information that is intended to mislead the public?", "output_ids": ["19557597", "7898759", "3650048", "13399477", "7402999"]}
+{"query": "Should the average American be able to recognize satire about an issue or event?", "output_ids": ["16447665", "20445883", "2184691", "10170672", "7838992"]}
+{"query": "Should the average American be able to recognize breaking information that is published before everything is verified?", "output_ids": ["14767035", "4275094", "3127047", "10543620", "17715522"]}
+{"query": "Do you believe the average American should be able to recognize factual information presented to favor one side of an issue?", "output_ids": ["10838636", "11691546", "1304658", "5533753", "14418008"]}
+{"query": "Do you believe that the average American should be able to recognize a video or image that is altered or made up to mislead the public?", "output_ids": ["13752530", "2215266", "10838636", "6937962", "5990564"]}
+{"query": "Do you find it easy to recognize made-up information intended to mislead the public?", "output_ids": ["14550531", "12355577", "7370614", "4286161", "6489254"]}
+{"query": "Do you find it easy to recognize satire about an issue or event?", "output_ids": ["14550531", "12355577", "11356788", "4016349", "9731367"]}
+{"query": "Do you find it easy to recognize breaking information that is published before everything is verified?", "output_ids": ["9731367", "8707943", "4223019", "1910082", "4343267"]}
+{"query": "Do you find it easy to recognize factual information presented to favor one side of an issue?", "output_ids": ["14550531", "6155543", "19133044", "4357697", "10429130"]}
+{"query": "Do you find it easy to recognize a video or image that is altered or made up to mislead the public?", "output_ids": ["14550531", "11397638", "15239269", "18141945", "15988470"]}
+{"query": "Do you consider yourself to be loyal to the news source(s) you get your news from?", "output_ids": ["17731970", "16426047", "18596103", "16598897", "3135834"]}
+{"query": "Do you tend to listen to the conversation more than lead when you talk with friends and family about the news?", "output_ids": ["10400476", "20558301", "17418826", "7676065", "11038602"]}
+{"query": "Should the freedom to publish and access made-up information intended to mislead the public be protected?", "output_ids": ["20104836", "19797363", "20001632", "20011506", "20001280"]}
+{"query": "Do you believe that the freedom to publish and access satire about an issue or event should be protected rather than restricted?", "output_ids": ["11691546", "2686190", "16142082", "9858948", "12198195"]}
+{"query": "Should the freedom to publish and access breaking information before everything is verified be protected?", "output_ids": ["14196366", "20006305", "7461724", "1413254", "15897403"]}
+{"query": "Do you believe that the freedom to publish and access factual information presented to favor one side of an issue should be protected rather than restricted?", "output_ids": ["15346283", "20006305", "20061148", "1413261", "20001281"]}
+{"query": "Do you believe that the freedom to publish and access a video or image that is altered or made up to mislead the public should be protected?", "output_ids": ["20006305", "11691546", "12198195", "19797364", "19797388"]}
+{"query": "Do you think making money is a major reason why made-up news and information is created?", "output_ids": ["10667959", "12229142", "7192562", "6498857", "14424349"]}
+{"query": "Do you believe that pushing an agenda or viewpoint is a major reason why made-up news and information is created?", "output_ids": ["17458943", "2304855", "1910076", "11270590", "11201652"]}
+{"query": "Do you think that the quest for fame is a major reason why made-up news and information is created?", "output_ids": ["10667959", "14424349", "12229142", "6498857", "6493526"]}
+{"query": "Do you believe that being funny is a major reason for the creation of made-up news and information?", "output_ids": ["629453", "23087", "13752530", "7473752", "11677920"]}
+{"query": "Do you believe that journalists create a lot of made-up news and information?", "output_ids": ["9074457", "17185426", "1910076", "19559358", "10094497"]}
+{"query": "Do you believe that political leaders and their staff create a lot of made-up news and information?", "output_ids": ["9074457", "17185426", "8864711", "9731367", "19559358"]}
+{"query": "Do you believe that members of the public create a lot of made-up news and information?", "output_ids": ["9074457", "17185426", "1910076", "10094497", "19559358"]}
+{"query": "Do you believe that a lot of made-up news and information is created by foreign-based individuals or groups?", "output_ids": ["9074457", "16581861", "2529164", "9731367", "16085394"]}
+{"query": "Do you think activist groups create a lot of made-up news and information?", "output_ids": ["14407482", "20547528", "12581003", "13910213", "10328847"]}
+{"query": "Did you share news and information that you knew was made-up mainly because you wanted to tell others it was inaccurate?", "output_ids": ["15742784", "17418826", "9510965", "15651292", "1846969"]}
+{"query": "Do you think a lot of made-up news and information is created about politics and elections topics?", "output_ids": ["3915739", "8864711", "5027094", "12581003", "10572040"]}
+{"query": "Do you believe that a lot of made-up news and information is created about entertainment and celebrities topics?", "output_ids": ["9074457", "10094497", "8864711", "3104268", "19559358"]}
+{"query": "Do you believe a lot of made-up news and information is created about science and technology topics?", "output_ids": ["10943284", "15705744", "8861671", "9074457", "9731367"]}
+{"query": "Do you believe that a lot of made-up news and information is created about Health and medicine topics?", "output_ids": ["9074457", "8861671", "15705744", "10094497", "1912884"]}
+{"query": "Do you think a lot of made-up news and information is created about emergencies, such as shootings or natural disasters?", "output_ids": ["12581003", "5027094", "10572040", "6557000", "14468560"]}
+{"query": "Do you think a lot of made-up news and information is created about business and finance topics?", "output_ids": ["3915739", "5027094", "10572040", "12581003", "8864711"]}
+{"query": "Do you think a lot of made-up news and information is created about National issues, events and public figures?", "output_ids": ["5027094", "12581003", "6557000", "8864711", "10572040"]}
+{"query": "Do you believe that a lot of made-up news and information is created about local issues, events and public figures?", "output_ids": ["9074457", "4223019", "10094497", "6605022", "3104268"]}
+{"query": "Have you reduced your overall news intake due to the issue of made-up news and information?", "output_ids": ["3198278", "5560629", "1746822", "5081296", "10262332"]}
+{"query": "Have you altered your social media usage due to the issue of fabricated news and information?", "output_ids": ["15474714", "16337941", "19016202", "10949339", "8240964"]}
+{"query": "Do you think that made-up news and information has a big impact on Americans' confidence in government institutions?", "output_ids": ["18483180", "19673657", "916950", "15133125", "6605022"]}
+{"query": "Do you think made-up news and information has a significant impact on Americans' confidence in each other?", "output_ids": ["18483180", "20547528", "19598707", "916950", "13735377"]}
+{"query": "Do you think made-up news and information has a big impact on political leaders' ability to get work done?", "output_ids": ["17748883", "12467826", "20929781", "10345760", "10788233"]}
+{"query": "Does made-up news and information significantly impact journalists' ability to get the information they need for their stories?", "output_ids": ["10036724", "18483180", "19979011", "12349250", "19979073"]}
+{"query": "Does made-up news and information have a big impact on the public's ability to solve community problems?", "output_ids": ["17200947", "11948412", "16674333", "13478228", "2782803"]}
+{"query": "Is the story being something you had been following in the news a major reason why you click on links to news stories on social media?", "output_ids": ["14492906", "9510965", "18822978", "5990564", "16531448"]}
+{"query": "Do you click on links to news stories on social media because a friend recommended the story?", "output_ids": ["16337941", "20969332", "20031197", "16337942", "8560284"]}
+{"query": "Is the story being published by a preferred news organization a major reason why you click on links to news stories on social media?", "output_ids": ["16337941", "16337942", "19950628", "20556364", "1958398"]}
+{"query": "Is \"the story had a lot of shares, comments or likes\" a major reason why you click on links to news stories on social media?", "output_ids": ["16337941", "16337942", "20556364", "18589646", "20969332"]}
+{"query": "Is your interest in the topic a major reason why you click on links to news stories on social media?", "output_ids": ["16337941", "17568334", "4933671", "15474714", "16324502"]}
+{"query": "Is the story being surprising or entertaining a major reason why you click on links to news stories on social media?", "output_ids": ["16337941", "16337942", "20556364", "5046552", "1958398"]}
+{"query": "Do you believe that sharing a news story on social media significantly impacts the story's overall reach to the public?", "output_ids": ["16337941", "20969332", "1958398", "19950746", "18042296"]}
+{"query": "Do you often click on the link to a news story on social media that you think is made-up?", "output_ids": ["18483180", "19673657", "20216949", "8745648", "5990564"]}
+{"query": "Do most of the news you see online come from sources you are familiar with?", "output_ids": ["5206679", "10667959", "18302624", "5990564", "10741827"]}
+{"query": "Do the political and social issues news you receive from friends, family and acquaintances online represent more than one side?", "output_ids": ["562396", "13137711", "16337918", "14081516", "20969332"]}
+{"query": "Is the amount of made-up news and information a very big problem when it comes to how the public stays informed about the basic facts of current issues and events?", "output_ids": ["12865910", "4453618", "1498541", "13575514", "12457354"]}
+{"query": "Is the public's difficulty distinguishing facts from opinions a major problem when it comes to staying informed about the basic facts of current issues and events?", "output_ids": ["8595169", "4371463", "16105737", "16105735", "1702912"]}
+{"query": "Is the abundance of different sources for public information about current issues and events a serious problem?", "output_ids": ["13548153", "20603084", "12623147", "13108572", "6210653"]}
+{"query": "Is too much news to keep up with a substantial problem when it comes to how the public stays informed about the basic facts of current issues and events?", "output_ids": ["2747307", "7674151", "1413227", "12627469", "4204206"]}
+{"query": "Is it a problem when journalists insert their own views into the public information about the basic facts of current issues and events?", "output_ids": ["603922", "603931", "6210653", "19961786", "12623147"]}
+{"query": "Do you often come across videos or images that have been altered or made-up to mislead the public?", "output_ids": ["20558301", "15752115", "17882558", "15239269", "5990564"]}
+{"query": "Will the issue of made-up news and information get better within the next five years?", "output_ids": ["10345766", "2855013", "8493210", "4196616", "7033675"]}
+{"query": "Do you think political divides are a very big challenge in addressing made-up news and information?", "output_ids": ["15133125", "19673657", "6605022", "6489254", "14757188"]}
+{"query": "Do you consider the public's lack of effort in addressing made-up news and information a significant challenge?", "output_ids": ["15124130", "15174265", "15174316", "15193081", "15530008"]}
+{"query": "Do you believe that low awareness of current events is a very big challenge in addressing made-up news and information?", "output_ids": ["18483180", "15823172", "16939758", "19673657", "567298"]}
+{"query": "Do you think Digital technology is a very big challenge in addressing made-up news and information?", "output_ids": ["18483180", "19673657", "6605022", "15133125", "12355577"]}
+{"query": "Do you think the ability to make money from it poses a significant challenge in addressing made-up news and information?", "output_ids": ["10788235", "19673657", "19676208", "6605022", "18483180"]}
+{"query": "Do you believe that the government holds the most responsibility to reduce the amount of made-up news and information?", "output_ids": ["18483180", "4771798", "277118", "6605022", "13654120"]}
+{"query": "Are you confident that you know the steps to check the accuracy of a news story?", "output_ids": ["3198278", "20362399", "5053663", "10634685", "7492770"]}
+{"query": "Do you believe that those who undertake fact-checking efforts deal fairly with all sides?", "output_ids": ["19413245", "8765079", "1720053", "11576608", "2522684"]}
+{"query": "Do you believe that criticizing leaders by news organizations keeps political leaders from doing their job or it keeps them from doing things that should not be done?", "output_ids": ["8707943", "11356788", "19695375", "12570558", "9870390"]}
+{"query": "Do news organizations deal fairly with all sides in presenting the news dealing with political and social issues?", "output_ids": ["250584", "20698222", "5678383", "20687234", "9013289"]}
+{"query": "Do you enjoy seeing numerous political posts and discussions on social media about the 2020 election?", "output_ids": ["2218908", "6958387", "6958385", "17967222", "19517143"]}
+{"query": "Do you generally find you have more in common politically than you thought when talking about politics with people on social media who you disagree with?", "output_ids": ["17748883", "5950707", "6927652", "12509760", "9091608"]}
+{"query": "Do you feel your personal information is more secure compared to five years ago?", "output_ids": ["20558301", "15739193", "512243", "2547824", "12509760"]}
+{"query": "Do you follow news about privacy issues closely?", "output_ids": ["19190984", "4185873", "9830609", "19190983", "19191031"]}
+{"query": "Are you concerned about how much data your smart speaker collects about you?", "output_ids": ["13196265", "18596101", "10276085", "5029873", "18430279"]}
+{"query": "Is it important to you that your smart speaker considers your personal interests and preferences when responding to your questions or commands?", "output_ids": ["1327491", "17197448", "16426047", "13804909", "18596103"]}
+{"query": "Do you want your smart speaker to better consider your interests and preferences in the future?", "output_ids": ["6155541", "17418826", "10788235", "13492666", "9656856"]}
+{"query": "Do you want your smart speaker to enhance personalization based on your interests and preferences, despite it requiring additional personal data collection?", "output_ids": ["18596103", "19337054", "11120537", "16426047", "4568904"]}
+{"query": "Do you believe that all or almost all your activities online or on your cellphone are being tracked by advertisers, technology firms, or other companies?", "output_ids": ["18596101", "15934003", "18596103", "13492666", "1327491"]}
+{"query": "Do you believe that advertisers, technology firms or other companies are tracking all or almost all offline activities like where you are or who you are talking to?", "output_ids": ["14407482", "15742784", "960364", "20558301", "12795333"]}
+{"query": "Are you concerned about how companies are using the data they collect about you?", "output_ids": ["8164669", "11837914", "2547824", "16581861", "18596101"]}
+{"query": "Do you feel that you personally benefit a great deal from the data that companies collect about you?", "output_ids": ["18214563", "20558301", "18619576", "11302761", "20677601"]}
+{"query": "Do you believe you have a great deal of control over the data that companies collect about you?", "output_ids": ["17344042", "17731970", "15122304", "2105696", "19598707"]}
+{"query": "Do you feel you understand a great deal about what companies are doing with the data they collect about you?", "output_ids": ["20677601", "17344042", "3135834", "7192562", "11302761"]}
+{"query": "Do you believe that the benefits you receive from companies collecting data about you outweigh the potential risks?", "output_ids": ["18596101", "18596103", "2105696", "15878893", "16581861"]}
+{"query": "Is it possible to go about daily life today without companies collecting data about you?", "output_ids": ["17418826", "19016202", "3140199", "13990534", "13199119"]}
+{"query": "Do you believe that the government is tracking all or almost all of your online or cellphone activity?", "output_ids": ["4568904", "1311629", "9539068", "9584088", "1327491"]}
+{"query": "Is all or almost all of your offline activity, such as where you are or who you're talking to, being tracked by the government?", "output_ids": ["20558301", "5880888", "15798566", "7430346", "17304283"]}
+{"query": "Are you concerned about how the government is using the data it collects about you?", "output_ids": ["8164669", "2547824", "16581861", "6105955", "11837914"]}
+{"query": "Do you feel you personally benefit a great deal from the data the government collects about you?", "output_ids": ["18214563", "20558301", "18619576", "11302761", "20677601"]}
+{"query": "Do you believe you have a great deal of control over the data the government collects about you?", "output_ids": ["17344042", "17731970", "15122304", "2105696", "19598707"]}
+{"query": "Do you feel that you understand a great deal about what the government is doing with the data it collects about you?", "output_ids": ["20677601", "3135834", "17344042", "7192562", "11302761"]}
+{"query": "Do you believe that the benefits the government can provide by collecting data about you and others outweigh the potential risks?", "output_ids": ["18103308", "3555963", "2146670", "17085661", "19853114"]}
+{"query": "Is it possible to conduct daily life without the government collecting data about you?", "output_ids": ["16148535", "10922940", "1795893", "19016202", "10922941"]}
+{"query": "Are you concerned about how much personal information law enforcement agencies might know about you?", "output_ids": ["2547824", "16701075", "16779323", "10276085", "18330657"]}
+{"query": "Are you concerned about how much personal information advertisers might know about you?", "output_ids": ["16779323", "16701075", "2547824", "10276085", "18330657"]}
+{"query": "Are you concerned about how much personal information your employer might know about you?", "output_ids": ["16701075", "13196265", "2547824", "10276085", "18729504"]}
+{"query": "Are you concerned about how much personal information the companies you buy things from might know about you?", "output_ids": ["16779323", "7192562", "10276085", "19598707", "19113320"]}
+{"query": "Are you concerned about how much personal information your friends and family might know about you?", "output_ids": ["13196265", "16701075", "2547824", "10784887", "10276085"]}
+{"query": "Are you concerned about how much personal information the social media sites you use might know about you?", "output_ids": ["16701075", "2547824", "16779323", "10276085", "18330657"]}
+{"query": "Do you believe you have a lot of control over who can access your posts and activities on social media?", "output_ids": ["18596101", "17731970", "17197448", "5312622", "5774384"]}
+{"query": "Do you have a lot of control over who can access the search terms you use online?", "output_ids": ["4223019", "17185426", "9731367", "9074457", "5774384"]}
+{"query": "Do you believe you have a lot of control over who can access your purchases made either online or in person?", "output_ids": ["17731970", "6703331", "1311629", "4568904", "5312622"]}
+{"query": "Do you believe you have a significant degree of control over who can access your physical location?", "output_ids": ["18596101", "17731970", "17197448", "4568904", "1880328"]}
+{"query": "Do you believe you have a lot of control over who can access the websites you visit?", "output_ids": ["14407482", "17731970", "17185426", "4223019", "3915739"]}
+{"query": "Do you believe you have a lot of control over who can access the private conversations you've had online or via text messaging?", "output_ids": ["4411700", "6557000", "9214570", "9830611", "12263669"]}
+{"query": "Are you confident that companies will adhere to their privacy policies in dealing with your personal information?", "output_ids": ["4355460", "20677007", "7853698", "638655", "638637"]}
+{"query": "Are you confident that companies will promptly notify you if your personal data has been misused or compromised?", "output_ids": ["11863960", "11837914", "16426047", "18596103", "14317821"]}
+{"query": "Do you believe that companies will admit their mistakes and accept responsibility when they misuse or compromise their users' personal data?", "output_ids": ["14795424", "16148535", "18331321", "16148539", "19016202"]}
+{"query": "Are you confident that companies will use your personal information in ways you feel comfortable with?", "output_ids": ["15739193", "658835", "16426047", "17941640", "4896423"]}
+{"query": "Are you confident that companies will be held accountable by the government if they misuse or compromise your data?", "output_ids": ["10043830", "11837914", "19016202", "5250444", "11863960"]}
+{"query": "Are you comfortable with companies using your personal data to improve their fraud prevention systems?", "output_ids": ["10043830", "10043826", "10043836", "11837914", "13564665"]}
+{"query": "Are you comfortable with companies using your personal data and sharing it with outside groups for research that might improve society?", "output_ids": ["19016202", "11837914", "3460772", "10043830", "8240964"]}
+{"query": "Are you comfortable with companies using your personal data to help them develop new products?", "output_ids": ["11837914", "20093177", "5250444", "8433073", "3460772"]}
+{"query": "Do you feel you understand the laws and regulations for data privacy protection at a considerable level?", "output_ids": ["20638575", "1966519", "1966540", "7853696", "7853635"]}
+{"query": "Do you believe there should be more government regulation on what companies can do with their customers' personal information?", "output_ids": ["5803190", "3006890", "18483180", "2215266", "9870390"]}
+{"query": "Do you think better tools for allowing people to control their personal information themselves would be a more effective way to safeguard people's personal information than stronger laws governing what companies can and cannot do with people's personal information?", "output_ids": ["15553741", "8856516", "4752622", "14795424", "13077774"]}
+{"query": "Is it more important for people to be able to discover potentially useful information about others rather than keeping potentially damaging personal information from being searchable online?", "output_ids": ["14795424", "14795425", "8240964", "14795420", "5618157"]}
+{"query": "Should all Americans have the right to have data collected by law enforcement, such as criminal records or mugshots, removed from public online search results?", "output_ids": ["887272", "16972435", "1692479", "16972436", "2476450"]}
+{"query": "Should all Americans have the right to remove their employment history or work record from public online search results?", "output_ids": ["17955678", "7994011", "18049785", "11602509", "7727052"]}
+{"query": "Should all Americans have the right to remove negative media coverage from public online search results?", "output_ids": ["3778279", "20031185", "3778275", "3946742", "15431155"]}
+{"query": "Should all Americans have the right to remove potentially embarrassing photos or videos from public online search results?", "output_ids": ["7994011", "337298", "9830636", "15721350", "1562318"]}
+{"query": "Should all Americans have the right to demand permanent deletion of their personal data, including criminal records and mugshots, from the people or organizations holding such information?", "output_ids": ["17955691", "17955648", "9366575", "13010636", "887272"]}
+{"query": "Should all Americans have the right to have potentially embarrassing photos or videos of themselves permanently deleted by the people or organizations who have that information?", "output_ids": ["6510615", "1969010", "1795895", "15553816", "17955714"]}
+{"query": "Should all Americans have the right to have their medical data collected by a health provider permanently deleted?", "output_ids": ["5722515", "5722526", "18382239", "3976747", "7111411"]}
+{"query": "Should all Americans have the right to have their financial data collected by their tax preparer permanently deleted?", "output_ids": ["4271801", "18632790", "9185277", "17955691", "17229291"]}
+{"query": "Do you find it acceptable for the government to collect data about all Americans in order to identify potential terrorist threats?", "output_ids": ["19016201", "6530973", "1358972", "20351116", "20965739"]}
+{"query": "Do you find it acceptable for poorly performing schools to share data about their students with a nonprofit group seeking to improve educational outcomes?", "output_ids": ["2633991", "20027273", "20027286", "18677568", "14871719"]}
+{"query": "Do you find it acceptable for DNA testing companies to share their customers' genetic data with law enforcement agencies to assist in solving crimes?", "output_ids": ["1692479", "8208746", "20773969", "14289769", "9081005"]}
+{"query": "Do you find it acceptable for makers of a fitness tracking app to share their users' data with medical researchers seeking to understand the link between exercise and heart disease?", "output_ids": ["18127065", "17499453", "16007230", "19468285", "18127063"]}
+{"query": "Do you find it acceptable for a social media company to monitor its users' posts for signs of depression, aiming to identify individuals at risk of self-harm and connect them to counsel?", "output_ids": ["12934612", "6022050", "7079779", "15335609", "16424053"]}
+{"query": "Do you find it acceptable for makers of smart speakers to share audio recordings of their customers with law enforcement to aid with criminal investigations?", "output_ids": ["5846539", "17433067", "7656295", "7656346", "16474965"]}
+{"query": "Have you heard or read a lot about the development of automated facial recognition technology that can identify someone based on a picture or video that includes their face?", "output_ids": ["2994950", "887259", "2994985", "2994951", "12788624"]}
+{"query": "Do you believe that facial recognition technology is effective at accurately identifying individual people?", "output_ids": ["887259", "2994950", "2994998", "2689130", "2689212"]}
+{"query": "Do you consider facial recognition technology to be very effective at accurately assessing someone's gender?", "output_ids": ["887259", "2994950", "2994998", "20733696", "2994985"]}
+{"query": "Do you believe facial recognition technology is effective at accurately assessing someone's race?", "output_ids": ["887259", "2994950", "2994998", "20733696", "2994985"]}
+{"query": "Do you trust advertisers to use facial recognition technology responsibly?", "output_ids": ["2994950", "887259", "2994998", "17829421", "2994951"]}
+{"query": "Do you trust law enforcement agencies to use facial recognition technology responsibly?", "output_ids": ["13437448", "7833670", "7833668", "10227029", "2427680"]}
+{"query": "Do you find it acceptable for law enforcement agencies to use facial recognition technology to assess potential security threats in public spaces?", "output_ids": ["7833668", "7833670", "9672334", "10420675", "7656296"]}
+{"query": "Do you find it acceptable for companies to use facial recognition technology to automatically track the attendance of their employees?", "output_ids": ["2994950", "887259", "2994951", "2994998", "17829421"]}
+{"query": "Do you find it acceptable for advertisers to use facial recognition technology to see how people respond to public advertising displays?", "output_ids": ["1585838", "1525775", "4655637", "11796277", "3108957"]}
+{"query": "Do you find it acceptable for apartment building landlords to use facial recognition technology to track who enters or leaves their buildings?", "output_ids": ["2994998", "2994950", "17829421", "887259", "17972460"]}
+{"query": "Are you satisfied with your social life?", "output_ids": ["4452909", "11863960", "6155541", "13421169", "9446347"]}
+{"query": "At this point in your life, would working full-time for pay be the best option for you personally?", "output_ids": ["10788235", "10071573", "1608997", "5082207", "12717666"]}
+{"query": "Is being married essential for a man to live a fulfilling life?", "output_ids": ["7487975", "9612017", "2079187", "5778617", "277699"]}
+{"query": "Is being in a committed romantic relationship essential for a man to live a fulfilling life?", "output_ids": ["19479229", "19479224", "19479223", "10303307", "9842857"]}
+{"query": "Is having children essential for a man to live a fulfilling life?", "output_ids": ["9932202", "9612017", "18896115", "5778617", "7487975"]}
+{"query": "Is having a job or career they enjoy essential for a man to live a fulfilling life?", "output_ids": ["6950357", "2458575", "11291804", "9481527", "9612017"]}
+{"query": "Is having a lot of money essential for a man to live a fulfilling life?", "output_ids": ["4070650", "16796659", "20607627", "3967187", "13220576"]}
+{"query": "Is being married essential for a woman to live a fulfilling life?", "output_ids": ["2079187", "17164549", "1426760", "8314174", "19376742"]}
+{"query": "Is being in a committed romantic relationship essential for a woman to live a fulfilling life?", "output_ids": ["12490965", "19479229", "19479224", "11873055", "10303307"]}
+{"query": "Is having children essential for a woman to live a fulfilling life?", "output_ids": ["9932202", "11881759", "17164549", "1811007", "18896115"]}
+{"query": "Is having a job or career they enjoy essential for a woman to live a fulfilling life?", "output_ids": ["9932202", "6950357", "11291804", "9481527", "20248756"]}
+{"query": "Is having a lot of money essential for a woman to live a fulfilling life?", "output_ids": ["4070650", "3967187", "20607627", "1426760", "16796659"]}
+{"query": "Do you believe it's acceptable for an unmarried couple to live together, regardless of their plans to marry?", "output_ids": ["15746355", "1021788", "1016098", "1007972", "15746398"]}
+{"query": "Is society better off if couples who want to stay together long-term eventually get married?", "output_ids": ["13754150", "17214122", "7552468", "15733641", "890839"]}
+{"query": "Do you believe that a married person has it easier than an unmarried person living with a partner when it comes to achieving financial security?", "output_ids": ["17571951", "8164669", "1721914", "6703331", "4095067"]}
+{"query": "Do you believe that an unmarried person living with a partner has it easier in achieving a fulfilling sex life goals compared to a married person?", "output_ids": ["4696174", "1010822", "15659635", "1008092", "6894646"]}
+{"query": "Does an unmarried person living with a partner have it easier in achieving social status goals compared to a married person?", "output_ids": ["6372653", "4095067", "10923260", "447189", "1721914"]}
+{"query": "Do you think an unmarried person living with a partner has it easier when it comes to achieving being happy goals compared to a married person?", "output_ids": ["6703331", "15889617", "14767562", "15735968", "20173691"]}
+{"query": "Do you favor allowing unmarried couples to have the same rights as married couples for matters such as health insurance, inheritance or tax benefits?", "output_ids": ["12159769", "3073968", "3073933", "4988534", "9377408"]}
+{"query": "Do you believe living together before marriage improves the likelihood of a successful marriage?", "output_ids": ["470551", "17571953", "13531152", "10160879", "13531154"]}
+{"query": "Do you believe that married couples do a better job at raising children than those who are living together but are not married?", "output_ids": ["470551", "17571953", "18177430", "13531154", "18411543"]}
+{"query": "Do you think it is essential for a person to be financially stable before getting married?", "output_ids": ["17748883", "4707873", "12229142", "6227848", "12743079"]}
+{"query": "Do you think it is important for a person to have a steady job before getting married?", "output_ids": ["17748883", "4707873", "2472604", "3478419", "10400476"]}
+{"query": "Do you believe it is important for a person to buy a house before getting married?", "output_ids": ["10071573", "10400476", "18404214", "15781721", "17458943"]}
+{"query": "Do you think it is very important for a person to be completely committed to their partner before getting married?", "output_ids": ["17748883", "10400476", "17431136", "18404214", "9656856"]}
+{"query": "Do you think it is crucial for a person to be financially stable before moving in with their partner without being married?", "output_ids": ["17254273", "6703331", "9344207", "15805588", "14972264"]}
+{"query": "Do you think it is crucial for a person to have a steady job before moving in with a partner, without being married?", "output_ids": ["6703331", "17254273", "19598707", "15805588", "14972264"]}
+{"query": "Do you believe it is important for a person to buy a house before moving in with their unmarried partner?", "output_ids": ["17571951", "4535197", "15781721", "11450093", "2190966"]}
+{"query": "Do you think it is very important for a person to be completely committed to their partner before moving in with them without being married?", "output_ids": ["18404214", "9656856", "20547528", "10400476", "17254273"]}
+{"query": "Do you believe that the ideal situation for women with young children is working full-time for pay?", "output_ids": ["6538993", "5980676", "17309925", "15286286", "16594331"]}
+{"query": "Do you believe the ideal situation for men with young children is to work full-time for pay?", "output_ids": ["6538993", "3382776", "4452905", "458744", "15286286"]}
+{"query": "Do you think parents of young adults ages 18 to 29 do too much for their adult children?", "output_ids": ["3386558", "8221633", "9861785", "760307", "1783435"]}
+{"query": "Do you think you do too much for your adult child(ren) ages 18 to 29?", "output_ids": ["14407482", "3198278", "5029873", "5963969", "5640081"]}
+{"query": "Do you believe that your parents generally do too much for you?", "output_ids": ["14407482", "18596101", "5029873", "9539068", "9584088"]}
+{"query": "Did you consider living with your spouse as a step toward marriage?", "output_ids": ["13492679", "3512247", "2490547", "1596349", "12488158"]}
+{"query": "Did you consider living with your partner as a step toward marriage?", "output_ids": ["3198278", "11863960", "6852674", "4452908", "7758982"]}
+{"query": "Was love a major reason for you to get married?", "output_ids": ["8975487", "6573432", "15111306", "15585856", "17458943"]}
+{"query": "Was companionship a major reason why you decided to get married?", "output_ids": ["18822978", "17571951", "19662794", "17458943", "8975487"]}
+{"query": "Was financial rationale a significant factor in your decision to get married?", "output_ids": ["4744461", "2115903", "19691137", "10074683", "14833499"]}
+{"query": "Was convenience a major reason for your decision to get married?", "output_ids": ["6538969", "14503975", "20449938", "11288782", "12326758"]}
+{"query": "Was wanting to make a formal commitment a major reason for your decision to get married?", "output_ids": ["6538969", "16618689", "1608997", "7993675", "10730061"]}
+{"query": "Was love a major reason you decided to move in with your partner?", "output_ids": ["10826511", "3198278", "10030029", "17386916", "6155541"]}
+{"query": "Was companionship a major reason you decided to move in with your partner?", "output_ids": ["9364411", "6155541", "2714350", "16426047", "7208634"]}
+{"query": "Was wanting to have children someday a major reason for you deciding to move in with your partner?", "output_ids": ["13196265", "11938359", "17418826", "6155541", "8315168"]}
+{"query": "Was financial sense a major reason for you deciding to move in with your partner?", "output_ids": ["9364411", "6155541", "896057", "5029873", "16426047"]}
+{"query": "Was convenience a major reason you decided to move in with your partner?", "output_ids": ["9364411", "6155541", "2714350", "16426047", "7208634"]}
+{"query": "Was testing your relationship a major reason you decided to move in with your partner?", "output_ids": ["17197448", "13196265", "6155541", "9364411", "16426047"]}
+{"query": "Do you want to get married in the future?", "output_ids": ["17344042", "1900526", "17748883", "17731970", "4707873"]}
+{"query": "Do you want to get married again in the future?", "output_ids": ["17344042", "17748883", "4707873", "1900526", "9656856"]}
+{"query": "Will you and your partner likely get married someday?", "output_ids": ["17731970", "15651292", "658835", "16855226", "4880727"]}
+{"query": "Do you feel pressure from your partner to marry them?", "output_ids": ["17731970", "20558301", "17941640", "10966339", "6536006"]}
+{"query": "Do you feel pressure from family members to marry your partner?", "output_ids": ["17731970", "17941640", "20558301", "3135834", "10966339"]}
+{"query": "Do you feel pressure from your friends to marry your partner?", "output_ids": ["17731970", "17941640", "10966339", "658835", "6536006"]}
+{"query": "Do you feel societal pressure to marry your partner?", "output_ids": ["17731970", "20558301", "17941640", "3135834", "6536006"]}
+{"query": "Did you feel pressure from your partner to marry them after you moved in together?", "output_ids": ["10966339", "658835", "6536006", "10839185", "16426047"]}
+{"query": "Did you feel pressure from family members to marry your partner after you moved in together?", "output_ids": ["17731970", "10966339", "658835", "6536006", "15739193"]}
+{"query": "Did you feel pressure from your friends to marry your partner after you moved in together?", "output_ids": ["10966339", "658835", "16426047", "6536006", "15759685"]}
+{"query": "Did you feel societal pressure to marry your partner after moving in together?", "output_ids": ["17731970", "6536006", "658835", "15759685", "16426047"]}
+{"query": "Is your partner's financial unreadiness a major reason why you are not engaged or married to them?", "output_ids": ["2006124", "4314188", "14424349", "431450", "2304855"]}
