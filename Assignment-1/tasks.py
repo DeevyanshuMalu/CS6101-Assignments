@@ -13,6 +13,7 @@ import gurobipy as gp
 from gurobipy import GRB
 import json
 import functools
+import heapq
 
 searcher = LuceneSearcher("wiki_index")
 index_reader = LuceneIndexReader("wiki_index")
@@ -207,16 +208,47 @@ def task4(row, K, lambd):
                 best_score = score_new
                 best_doc_id = doc_id
         for doc_id in candidates_ids:
-            c_is[doc_id] = get_c(
-                doc_id, S + [best_doc_id], c_is, similarity_matrix
-            )
+            c_is[doc_id] = get_c(doc_id, S + [best_doc_id], c_is, similarity_matrix)
         S.append(best_doc_id)
     return S
 
 
-def task5(row):
+def task5(row, K):
     query = row["question"]
-    raise NotImplementedError("Task 5 is not implemented yet.")
+    candidates_ids = get_candidate_ids(searcher, query)
+    all_bm25_vecs = {
+        doc_id: get_bm25_vector(index_reader, doc_id) for doc_id in candidates_ids
+    }
+    relevance_scores_dict = {
+        doc_id: get_relevance_score(index_reader, doc_id, query)
+        for doc_id in candidates_ids
+    }
+    relevance_scores_numpy = np.array(
+        [relevance_scores_dict[doc_id] for doc_id in candidates_ids]
+    )
+    similarity_matrix = {
+        (doc_id_i, doc_id_j): get_similarity_score(all_bm25_vecs, doc_id_i, doc_id_j)
+        for doc_id_i in candidates_ids
+        for doc_id_j in candidates_ids
+        if doc_id_i <= doc_id_j
+    }
+    similarity_matrix_numpy = np.array(
+        [
+            [
+                similarity_matrix[(min(doc_id_i, doc_id_j), max(doc_id_i, doc_id_j))]
+                for doc_id_j in candidates_ids
+            ]
+            for doc_id_i in candidates_ids
+        ]
+    )
+    scores_array = similarity_matrix_numpy.dot(relevance_scores_numpy)
+    zipped = list(zip(candidates_ids, scores_array.tolist()))
+
+    def get_top_k_elements(data, k):
+        return heapq.nlargest(k, data, key=lambda x: (x[1], x[0]))
+
+    S = get_top_k_elements(zipped, K)
+    return [doc_id for doc_id, score in S]
 
 
 if __name__ == "__main__":
@@ -268,7 +300,7 @@ if __name__ == "__main__":
         2: functools.partial(task2, K=args.K),
         3: functools.partial(task3, K=args.K),
         4: functools.partial(task4, K=args.K, lambd=args.lambd),
-        5: task5
+        5: functools.partial(task5, K=args.K),
     }
     task = task_funcs[args.task]
 
