@@ -1,4 +1,3 @@
-from xml.parsers.expat import model
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -77,6 +76,11 @@ def task2():
                 val_queries = val_batch['query'].to(device)
                 val_good_docs = val_batch['good_doc'].to(device)
                 val_bad_docs = val_batch['bad_doc'].to(device)
+
+                val_queries = val_queries / torch.norm(val_queries, dim=1, keepdim=True)
+                val_good_docs = val_good_docs / torch.norm(val_good_docs, dim=1, keepdim=True)
+                val_bad_docs = val_bad_docs / torch.norm(val_bad_docs, dim=1, keepdim=True)
+
                 if loss_fn == 'triplet':
                     loss = triplet_loss(val_queries, val_good_docs, val_bad_docs, A, lambda_, margin)
                 elif loss_fn == 'infoNCE':
