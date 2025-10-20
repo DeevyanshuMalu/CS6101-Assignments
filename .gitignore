@@ -210,6 +210,8 @@ __marimo__/
 wandb/
 wiki_index/
 hotpotqa_index/
+wikiclir_index/
+simple_english/
 *.jsonl
 *.json
 *.zip
