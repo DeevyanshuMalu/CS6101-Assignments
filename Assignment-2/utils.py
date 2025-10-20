@@ -37,3 +37,23 @@ def infoNCE_loss(queries, good_docs, A, lambda_, tau=1.0):
     all_sims = all_sims / tau
     log_probs = torch.log_softmax(all_sims, dim=1)  # (batch_size, batch_size)
     return -torch.mean(torch.diagonal(log_probs))  # Average
+
+def DGC_at_k(good_doc_ids, ranked_doc_ids):
+    """Compute DGC@k for a query."""
+    total = 0.0
+    for k, id in enumerate(ranked_doc_ids):
+        if id in good_doc_ids:
+            total += 1.0 / torch.log2(torch.tensor(k + 2.0))  # k is 0-indexed
+    return total
+
+def MRR_at_k(good_doc_ids, ranked_doc_ids):
+    """Compute MRR for a query."""
+    for k, id in enumerate(ranked_doc_ids):
+        if id in good_doc_ids:
+            return 1.0 / (k + 1.0)  # k is 0-indexed
+    return 0.0
+
+def recall_at_k(good_doc_ids, ranked_doc_ids):
+    """Compute Recall@k for a query."""
+    intersect_len = len(set(good_doc_ids).intersection(set(ranked_doc_ids)))
+    return intersect_len / len(good_doc_ids)
