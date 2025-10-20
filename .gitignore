@@ -207,6 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 *.parquet
+wandb/
 wiki_index/
 hotpotqa_index/
 wikiclir_index/
@@ -214,3 +215,4 @@ simple_english/
 *.jsonl
 *.json
 *.zip
+*.pth
