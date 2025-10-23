@@ -9,15 +9,15 @@
 
 curl --location-trusted -u 22b1029:f07b3c72a55d9598cc17fa115061476c "https://internet-sso.iitb.ac.in/login.php"
 
-# python train.py --lambda 1 --loss_fn triplet
-python train.py --lambda 0.1 --loss_fn triplet
-# python train.py --lambda 0.01 --loss_fn triplet
-# python train.py --lambda 0.001 --loss_fn triplet
-# python train.py --lambda 1 --loss_fn infoNCE --tau 1
-# python train.py --lambda 0.1 --loss_fn infoNCE --tau 1
-# python train.py --lambda 0.01 --loss_fn infoNCE --tau 1
-# python train.py --lambda 0.001 --loss_fn infoNCE --tau 1
-# python train.py --lambda 1 --loss_fn infoNCE --tau 0.5
-# python train.py --lambda 0.1 --loss_fn infoNCE --tau 0.5
-# python train.py --lambda 0.01 --loss_fn infoNCE --tau 0.5
-# python train.py --lambda 0.001 --loss_fn infoNCE --tau 0.5
+# python train.py --lambda 0.01 --tau 0.2 --loss_fn infoNCE --learning_rate 0.001
+# python train.py --lambda 0.1 --tau 0.2 --loss_fn infoNCE --learning_rate 0.001
+# python train.py --lambda 0.01 --tau 0.05 --loss_fn infoNCE --learning_rate 0.001 --task_num 3
+python train.py --lambda 0.01 --tau 0.05 --loss_fn infoNCE --learning_rate 0.001 --task_num 4
+# python train.py --lambda 0.1 --tau 0.05 --loss_fn infoNCE --learning_rate 0.001
+
+# python train.py --lambda 0.01 --margin 0.2 --loss_fn triplet --learning_rate 0.001 --task_num 3
+python train.py --lambda 0.01 --margin 0.2 --loss_fn triplet --learning_rate 0.001 --task_num 4
+# python train.py --lambda 0.1 --margin 0.2 --loss_fn triplet --learning_rate 0.001
+# python train.py --lambda 0.01 --margin 0.5 --loss_fn triplet --learning_rate 0.001
+# python train.py --lambda 0.1 --margin 0.5 --loss_fn triplet --learning_rate 0.001
+

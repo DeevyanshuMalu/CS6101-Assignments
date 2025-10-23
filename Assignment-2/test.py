@@ -7,6 +7,7 @@ import os
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 import wandb
+import pickle
 from utils import *
 from data import *
 
@@ -21,9 +22,12 @@ print("Loaded id_to_term")
 with open("data/hotpotqa_vocab_term_to_id.json", "r") as f:
     term_to_id = json.load(f)
 print("Loaded term_to_id")
-with open("data/wikiclir_bm25_vectors_dict.json", "r") as f:
-    bm25_vectors_dict = json.load(f)
-print("Loaded bm25_vectors_dict")
+with open("data/test_doc_vectors_dict.json", "r") as f:
+    doc_vectors_dict = json.load(f)
+print("Loaded doc_vectors_dict")
+with open("data/test_query_vectors_dict.json", "r") as f:
+    query_vectors_dict = json.load(f)
+print("Loaded query_vectors_dict")
 with open("data/test_queries.jsonl", "r") as f:
     test_queries = [json.loads(line) for line in f]
 print("Loaded test_queries")
@@ -89,6 +93,12 @@ def parse_args():
         help="Batch size when building document tensors on-the-fly",
     )
     parser.add_argument(
+        "--query_batch_size",
+        type=int,
+        default=100,
+        help="Batch size for processing queries",
+    )
+    parser.add_argument(
         "--use_bert", action="store_true", help="Whether to use BERT embeddings"
     )
     return parser.parse_args()
@@ -106,6 +116,7 @@ tau = args.tau
 loss_fn = args.loss_fn
 test_epoch = args.test_epoch
 doc_batch_size = args.doc_batch_size
+query_batch_size = args.query_batch_size
 use_bert = args.use_bert
 
 if task_num != 1:
@@ -119,7 +130,8 @@ query_ids_to_qrel_ids = {
 }
 doc_ids_to_qrel_ids = {text_to_id(doc["text"]): doc["doc_id"] for doc in test_documents}
 
-# Don't precompute large doc_tensor or full query_tensor.
+# Prepare query data
+query_data = list(query_ids_to_qrel_ids.items())
 doc_id_list = list(doc_ids_to_qrel_ids.keys())
 num_docs = len(doc_id_list)
 
@@ -127,78 +139,111 @@ if task_num == 1:
     A = torch.zeros((embed_dim, len(term_to_id)), device=device)
 else:
     A = torch.load(
-        f"translation_matrices/task{task_num}_{loss_fn}_lambda{lambda_}_margin{margin}_tau{tau}/A_epoch{test_epoch}.pth"
+        f"translation_matrices/task{task_num}_{loss_fn}_lambda{lambda_}_margin{margin}_tau{tau}_embed{embed_dim}/A_epoch{test_epoch}.pth"
     )
+    if args.task_num == 3:
+        # Load sparse indices tensor
+        with open("data/wordnet_pairs.pkl", "rb") as f:
+            sparse_indices = pickle.load(f)
+        sparse_indices_tensor = torch.tensor(
+            list(sparse_indices), device=device, dtype=torch.long
+        )
+        print("Loaded sparse_indices_tensor for Task 3")
+    elif args.task_num == 4:
+        # Load sparse indices tensor
+        with open("data/glove_pairs.pkl", "rb") as f:
+            sparse_indices = pickle.load(f)
+        sparse_indices_tensor = torch.tensor(
+            list(sparse_indices), device=device, dtype=torch.long
+        )
+        print("Loaded sparse_indices_tensor for Task 4")
+
 A = A.to(device)
 
 dcgs = []
 mrrs = []
 recalls = []
-num_queries_to_evaluate = 100
-for query_idx, (query_id, qrel_id) in tqdm(
-    enumerate(query_ids_to_qrel_ids.items()), total=num_queries_to_evaluate
-):
-    if query_idx == num_queries_to_evaluate:
-        break
-    # print("qrel_id:", qrel_id)
-    # build one-query tensor
-    if not use_bert:
-        query_tensor = torch.zeros((1, len(term_to_id)), device=device)
-        query_vec = bm25_vectors_dict.get(query_id, {})
-        for term in query_vec:
-            if term in term_to_id:
-                query_tensor[0, term_to_id[term]] = query_vec[term]
-        query_tensor /= torch.norm(query_tensor, p=2) + 1e-8  # normalize
-    else:
-        pass
+num_queries_to_evaluate = len(query_data)
 
-    # compute similarity to all docs in batches, building doc batches on-the-fly
-    similarities = torch.zeros(num_docs, device=device)
-    for start in range(0, num_docs, doc_batch_size):
-        end = min(start + doc_batch_size, num_docs)
-        batch_doc_ids = doc_id_list[start:end]
+# Process queries in batches
+for query_start in tqdm(
+    range(0, min(num_queries_to_evaluate, len(query_data)), query_batch_size)
+):
+    query_end = min(
+        query_start + query_batch_size, min(num_queries_to_evaluate, len(query_data))
+    )
+    query_batch_data = query_data[query_start:query_end]
+
+    # Build query batch tensor
+    if not use_bert:
+        query_batch_tensor = torch.zeros(
+            (len(query_batch_data), len(term_to_id)), device=device
+        )
+        for i, (query_id, qrel_id) in enumerate(query_batch_data):
+            query_vec = query_vectors_dict.get(query_id, {})
+            for term in query_vec:
+                if term in term_to_id:
+                    query_batch_tensor[i, term_to_id[term]] = query_vec[term]
+    else:
+        pass  # BERT implementation would go here
+
+    # Compute similarities for all queries in batch against all documents
+    # keep the big result matrix on CPU to avoid GPU OOM
+    query_batch_similarities = torch.zeros((len(query_batch_data), num_docs), device="cpu")
+
+    for doc_start in tqdm(range(0, num_docs, doc_batch_size)):
+        doc_end = min(doc_start + doc_batch_size, num_docs)
+        batch_doc_ids = doc_id_list[doc_start:doc_end]
 
         if not use_bert:
-            doc_batch = torch.zeros((len(batch_doc_ids), len(term_to_id)), device=device)
+            doc_batch = torch.zeros(
+                (len(batch_doc_ids), len(term_to_id)), device=device
+            )
             for k, doc_id in enumerate(batch_doc_ids):
-                doc_vec = bm25_vectors_dict.get(doc_id, {})
+                doc_vec = doc_vectors_dict.get(doc_id, {})
                 for term in doc_vec:
                     if term in term_to_id:
                         doc_batch[k, term_to_id[term]] = doc_vec[term]
-
-            doc_batch /= torch.norm(doc_batch, p=2, dim=1, keepdim=True) + 1e-8  # normalize
         else:
-            pass
+            pass  # BERT implementation would go here
 
         # all_sim expects (num_queries, vocab) and (num_docs_in_batch, vocab)
-        batch_sims = all_sim(
-            query_tensor, doc_batch, A, lambda_
-        )  # shape (1, batch_size)
-        similarities[start:end] = batch_sims.squeeze(0)
+        if task_num in [3, 4]:
+            batch_sims = all_sim_sparse(
+                query_batch_tensor, doc_batch, A, lambda_, sparse_indices_tensor
+            )  # shape (query_batch_size, doc_batch_size)
+        else:
+            batch_sims = all_sim(
+                query_batch_tensor, doc_batch, A, lambda_
+            )  # shape (query_batch_size, doc_batch_size)
+        # move results to CPU immediately and free GPU memory
+        query_batch_similarities[:, doc_start:doc_end] = batch_sims.detach().cpu()
+        del batch_sims
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
 
-    # rank and evaluate
-    ranked_doc_tensor_indices = torch.argsort(similarities, descending=True)
-    ranked_doc_ids = [
-        doc_ids_to_qrel_ids[doc_id_list[int(idx)]] for idx in ranked_doc_tensor_indices
-    ]
+    # Process results for each query in the batch
+    for i, (query_id, qrel_id) in enumerate(query_batch_data):
+        similarities = query_batch_similarities[i]
 
-    good_doc_ids = qrel_dict[str(qrel_id)]
+        # rank and evaluate
+        ranked_doc_tensor_indices = torch.argsort(similarities, descending=True)
+        ranked_doc_ids = [
+            doc_ids_to_qrel_ids[doc_id_list[int(idx)]]
+            for idx in ranked_doc_tensor_indices
+        ]
 
-    dgc = DGC_at_k(good_doc_ids, ranked_doc_ids[:10])
-    mrr = MRR_at_k(good_doc_ids, ranked_doc_ids[:10])
-    recall = recall_at_k(good_doc_ids, ranked_doc_ids[:100])
-    dcgs.append(dgc)
-    mrrs.append(mrr)
-    recalls.append(recall)
+        good_doc_ids = qrel_dict[str(qrel_id)]
 
-    # print(
-    #     f"Query ID: {qrel_id} | DGC: {dgc:.4f} | MRR: {mrr:.4f} | Recall: {recall:.4f}"
-    # )
+        dgc = DCG_at_k(good_doc_ids, ranked_doc_ids[:10])
+        mrr = MRR_at_k(good_doc_ids, ranked_doc_ids[:10])
+        recall = recall_at_k(good_doc_ids, ranked_doc_ids[:100])
+        dcgs.append(dgc)
+        mrrs.append(mrr)
+        recalls.append(recall)
 
 if task_num == 1:
-    save_name = (
-        f"results/task{task_num}"
-    )
+    save_name = f"results/task{task_num}"
     os.makedirs(
         f"{save_name}",
         exist_ok=True,
@@ -208,9 +253,7 @@ if task_num == 1:
         "w",
     )
 else:
-    save_name = (
-        f"results/task{task_num}_{loss_fn}_lambda{lambda_}_margin{margin}_tau{tau}"
-    )
+    save_name = f"results/task{task_num}_{loss_fn}_lambda{lambda_}_margin{margin}_tau{tau}_embed{embed_dim}"
     os.makedirs(
         f"{save_name}",
         exist_ok=True,
@@ -221,7 +264,7 @@ else:
     )
 
 f.write(
-    f"Average DGC@10: {torch.mean(torch.tensor(dcgs))/torch.max(torch.tensor(dcgs)):.4f}\n"
+    f"Average DCG@10: {torch.mean(torch.tensor(dcgs))/torch.max(torch.tensor(dcgs)):.4f}\n"
 )
 f.write(f"Average MRR@10: {torch.mean(torch.tensor(mrrs)):.4f}\n")
 f.write(f"Average Recall@100: {torch.mean(torch.tensor(recalls)):.4f}\n")
