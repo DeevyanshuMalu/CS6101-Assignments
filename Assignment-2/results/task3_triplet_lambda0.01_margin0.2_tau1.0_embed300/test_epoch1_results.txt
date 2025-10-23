@@ -1,0 +1,3 @@
+Average DCG@10: 0.1386
+Average MRR@10: 0.3124
+Average Recall@100: 0.2639
