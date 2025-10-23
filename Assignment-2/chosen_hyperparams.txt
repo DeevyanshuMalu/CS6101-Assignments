@@ -1,0 +1,2 @@
+infoNCE_lambda0.01_margin1.0_tau0.05
+triplet_lambda0.01_margin0.2_tau1.0
