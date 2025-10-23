@@ -216,3 +216,5 @@ simple_english/
 *.json
 *.zip
 *.pth
+*.pkl
+glove.2024.wikigiga.300d.txt
