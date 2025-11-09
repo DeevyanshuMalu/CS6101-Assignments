@@ -214,9 +214,13 @@ wiki_index/
 hotpotqa_index/
 wikiclir_index/
 simple_english/
+quora/
+trec-covid/
 *.jsonl
 *.json
 *.zip
 *.pth
+*.pt
+*.npz
 *.pkl
 glove.2024.wikigiga.300d.txt
