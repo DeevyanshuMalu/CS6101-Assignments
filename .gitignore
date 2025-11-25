@@ -213,10 +213,16 @@ wandb/
 wiki_index/
 hotpotqa_index/
 wikiclir_index/
+quora_trec_index/
 simple_english/
+quora/
+trec-covid/
 *.jsonl
 *.json
 *.zip
 *.pth
+*.pt
+*.npz
 *.pkl
 glove.2024.wikigiga.300d.txt
+!Assignment-3/models/deepimpact_10ep_3e-06lr_unfrozen_expanded/results/**

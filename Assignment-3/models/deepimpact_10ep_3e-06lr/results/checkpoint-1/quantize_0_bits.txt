@@ -1,0 +1,4 @@
+Recall@100 Quora: 0.7165160280177338
+Success@100 Quora: 0.7598
+Recall@100 Trec: 0.025472064506948756
+Success@100 Trec: 1.0
