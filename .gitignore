@@ -213,6 +213,7 @@ wandb/
 wiki_index/
 hotpotqa_index/
 wikiclir_index/
+quora_trec_index/
 simple_english/
 quora/
 trec-covid/
