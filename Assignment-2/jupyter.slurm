@@ -8,7 +8,6 @@
 #SBATCH --error=logs/jupyter.err
 #SBATCH --time=0-12:00:00
 
-curl --location-trusted -u 22b1029:f07b3c72a55d9598cc17fa115061476c "https://internet-sso.iitb.ac.in/login.php"
 unset HF_HUB_CACHE
 
 JUPYTER_PORT=8180
