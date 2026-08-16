@@ -7,8 +7,6 @@
 #SBATCH --output=logs/gpu_job_%j.log
 #SBATCH --time=0-6:00:00
 
-curl --location-trusted -u 22b1029:f07b3c72a55d9598cc17fa115061476c "https://internet-sso.iitb.ac.in/login.php"
-
 # python train.py --lambda 0.01 --tau 0.2 --loss_fn infoNCE --learning_rate 0.001
 # python train.py --lambda 0.1 --tau 0.2 --loss_fn infoNCE --learning_rate 0.001
 # python train.py --lambda 0.01 --tau 0.05 --loss_fn infoNCE --learning_rate 0.001 --task_num 3
